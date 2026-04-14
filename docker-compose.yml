@@ -1,0 +1,21 @@
+services:
+  scraper:
+    build: .
+    container_name: valo-calendar-scraper
+    restart: unless-stopped
+    volumes:
+      - ics-data:/app/ics
+
+  web:
+    image: nginx:alpine
+    container_name: valo-calendar-web
+    restart: unless-stopped
+    ports:
+      - "8069:80"
+    volumes:
+      - ics-data:/usr/share/nginx/html/ics:ro
+      - ./index.html:/usr/share/nginx/html/index.html:ro
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+
+volumes:
+  ics-data:
