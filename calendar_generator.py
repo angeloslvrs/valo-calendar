@@ -6,8 +6,16 @@ from scraper import Match
 
 
 def _sanitize_filename(name: str) -> str:
-    """Convert a team name to a safe filename slug."""
-    return name.lower().replace(" ", "-").replace(".", "")
+    """Convert a team name to a filename-safe ASCII slug."""
+    import re
+    import unicodedata
+    slug = unicodedata.normalize("NFKD", name)
+    slug = slug.encode("ascii", "ignore").decode("ascii")
+    slug = slug.lower()
+    slug = re.sub(r"[^a-z0-9\s-]", "", slug)
+    slug = re.sub(r"\s+", "-", slug.strip())
+    slug = re.sub(r"-+", "-", slug)
+    return slug
 
 
 def generate_ics(team_name: str, matches: list[Match]) -> str:

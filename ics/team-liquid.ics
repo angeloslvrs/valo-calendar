@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team Liquid - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:FUT Esports vs Team Liquid
+DTSTART:20260417T150000Z
+DTEND:20260417T170000Z
+DTSTAMP:20260417T150000Z
+UID:vlr-644726@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644726/fut-esports-vs
+ -team-liquid-vct-2026-emea-stage-1-w3
+LOCATION:VCT 2026: EMEA Stage 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natus Vincere vs Team Liquid
+DTSTART:20260424T150000Z
+DTEND:20260424T170000Z
+DTSTAMP:20260424T150000Z
+UID:vlr-644732@valo-calendar
+DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644732/natus-vincere-
+ vs-team-liquid-vct-2026-emea-stage-1-w4
+LOCATION:VCT 2026: EMEA Stage 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gentle Mates vs Team Liquid
+DTSTART:20260501T180000Z
+DTEND:20260501T200000Z
+DTSTAMP:20260501T180000Z
+UID:vlr-644739@valo-calendar
+DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644739/gentle-mates-v
+ s-team-liquid-vct-2026-emea-stage-1-w5
+LOCATION:VCT 2026: EMEA Stage 1
+END:VEVENT
+END:VCALENDAR

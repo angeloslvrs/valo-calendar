@@ -31,6 +31,7 @@ jobs:
           mkdir -p public/ics
           cp index.html public/
           cp ics/*.ics public/ics/
+          cp ics/teams.json public/ics/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nongshim RedForce - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:Nongshim RedForce vs Gen.G
+DTSTART:20260419T110000Z
+DTEND:20260419T130000Z
+DTSTAMP:20260419T110000Z
+UID:vlr-644670@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644670/nongshim-redfo
+ rce-vs-gen-g-vct-2026-pacific-stage-1-w3
+LOCATION:VCT 2026: Pacific Stage 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nongshim RedForce vs Team Secret
+DTSTART:20260426T110000Z
+DTEND:20260426T130000Z
+DTSTAMP:20260426T110000Z
+UID:vlr-644676@valo-calendar
+DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644676/nongshim-redfo
+ rce-vs-team-secret-vct-2026-pacific-stage-1-w4
+LOCATION:VCT 2026: Pacific Stage 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nongshim RedForce vs Global Esports
+DTSTART:20260502T110000Z
+DTEND:20260502T130000Z
+DTSTAMP:20260502T110000Z
+UID:vlr-644680@valo-calendar
+DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644680/nongshim-redfo
+ rce-vs-global-esports-vct-2026-pacific-stage-1-w5
+LOCATION:VCT 2026: Pacific Stage 1
+END:VEVENT
+END:VCALENDAR

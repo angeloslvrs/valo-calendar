@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Karmine Corp - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:Karmine Corp vs Team Heretics
+DTSTART:20260416T180000Z
+DTEND:20260416T200000Z
+DTSTAMP:20260416T180000Z
+UID:vlr-644725@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644725/karmine-corp-v
+ s-team-heretics-vct-2026-emea-stage-1-w3
+LOCATION:VCT 2026: EMEA Stage 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karmine Corp vs FUT Esports
+DTSTART:20260423T180000Z
+DTEND:20260423T200000Z
+DTSTAMP:20260423T180000Z
+UID:vlr-644731@valo-calendar
+DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644731/karmine-corp-v
+ s-fut-esports-vct-2026-emea-stage-1-w4
+LOCATION:VCT 2026: EMEA Stage 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natus Vincere vs Karmine Corp
+DTSTART:20260430T150000Z
+DTEND:20260430T170000Z
+DTSTAMP:20260430T150000Z
+UID:vlr-644736@valo-calendar
+DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644736/natus-vincere-
+ vs-karmine-corp-vct-2026-emea-stage-1-w5
+LOCATION:VCT 2026: EMEA Stage 1
+END:VEVENT
+END:VCALENDAR

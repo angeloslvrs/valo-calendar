@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import re
 import time
 from dataclasses import dataclass
@@ -23,6 +25,16 @@ HEADERS = {
 # Use Asia/Manila (PHT, UTC+8) to match the displayed times.
 VLR_TZ = ZoneInfo("Asia/Manila")
 
+# VCT 2026 event name patterns and their regions
+VCT_REGION_PATTERNS = [
+    ("Americas", re.compile(r"VCT\s+2026.*Americas", re.IGNORECASE)),
+    ("Pacific",  re.compile(r"VCT\s+2026.*Pacific",  re.IGNORECASE)),
+    ("EMEA",     re.compile(r"VCT\s+2026.*EMEA",     re.IGNORECASE)),
+    ("China",    re.compile(r"VCT\s+2026.*China",     re.IGNORECASE)),
+    # Generic VCT 2026 fallback (Champions, Masters, etc.)
+    ("International", re.compile(r"VCT\s+2026",       re.IGNORECASE)),
+]
+
 
 @dataclass
 class Match:
@@ -33,6 +45,14 @@ class Match:
     away_team: str
     event: str
     series: str
+
+
+@dataclass
+class TeamInfo:
+    name: str
+    slug: str          # filename-safe slug, e.g. "sentinels"
+    region: str
+    logo_url: str      # absolute URL or empty string
 
 
 def _own_text(element) -> str:
@@ -156,5 +176,151 @@ def filter_by_teams(matches: list[Match], teams: list[str]) -> dict[str, list[Ma
             team_lower = team.lower()
             if team_lower in home_lower or team_lower in away_lower:
                 result[team].append(match)
+
+    return result
+
+
+def is_vct_match(event: str) -> bool:
+    """Return True if the event name looks like a VCT 2026 league match."""
+    return bool(re.search(r"VCT\s+2026", event, re.IGNORECASE))
+
+
+def extract_region(event: str) -> str:
+    """Extract the VCT region from an event name. Returns one of the known regions."""
+    for region, pattern in VCT_REGION_PATTERNS:
+        if pattern.search(event):
+            return region
+    return "International"
+
+
+def _make_slug(name: str) -> str:
+    """Convert a team name to a filename-safe ASCII slug."""
+    import unicodedata
+    # Normalize unicode to closest ASCII (e.g. Ü -> U, É -> E)
+    slug = unicodedata.normalize("NFKD", name)
+    slug = slug.encode("ascii", "ignore").decode("ascii")
+    slug = slug.lower()
+    slug = re.sub(r"[^a-z0-9\s-]", "", slug)
+    slug = re.sub(r"\s+", "-", slug.strip())
+    slug = re.sub(r"-+", "-", slug)
+    return slug
+
+
+_PLACEHOLDER_LOGO_PATHS = {"/img/vlr/tmp/vlr.png", "/img/vlr-red.png"}
+
+
+def _is_valid_logo(url: str) -> bool:
+    """Return True only for absolute logo URLs we want to use."""
+    if not url:
+        return False
+    if url.startswith("/"):
+        return False
+    return True
+
+
+def fetch_team_logo(team_name: str, match_url: str) -> str:
+    """Fetch a team logo URL from a match detail page."""
+    try:
+        resp = requests.get(match_url, headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        print(f"[!] Failed to fetch match page {match_url}: {e}")
+        return ""
+
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    # Match header has two team links — find the one matching our team name
+    team_name_lower = team_name.lower()
+    for link in soup.select("a.match-header-link"):
+        name_el = link.select_one(".wf-title-med")
+        if not name_el:
+            continue
+        if team_name_lower in name_el.get_text(strip=True).lower():
+            img = link.select_one("img")
+            if img and img.get("src"):
+                src = img["src"].strip()
+                if src.startswith("//"):
+                    src = "https:" + src
+                return src
+
+    return ""
+
+
+_SKIP_TEAM_NAMES = {"tbd", "tba", ""}
+
+
+def discover_vct_teams(matches: list[Match]) -> list[TeamInfo]:
+    """
+    From a list of matches, find all unique VCT 2026 teams with their regions.
+    Logo URLs are left empty — call fetch_team_logos() to fill them in.
+    """
+    seen: dict[str, TeamInfo] = {}  # slug -> TeamInfo
+
+    for match in matches:
+        if not is_vct_match(match.event):
+            continue
+        region = extract_region(match.event)
+
+        for team_name in (match.home_team, match.away_team):
+            if team_name.strip().lower() in _SKIP_TEAM_NAMES:
+                continue
+            slug = _make_slug(team_name)
+            if not slug or slug in _SKIP_TEAM_NAMES:
+                continue
+            if slug not in seen:
+                seen[slug] = TeamInfo(
+                    name=team_name,
+                    slug=slug,
+                    region=region,
+                    logo_url="",
+                )
+
+    # Sort by region then name for stable output
+    return sorted(seen.values(), key=lambda t: (t.region, t.name))
+
+
+def fetch_team_logos(
+    teams: list[TeamInfo],
+    matches: list[Match],
+    cached: dict[str, str] | None = None,
+) -> dict[str, str]:
+    """
+    Fetch logo URLs for all teams that don't already have one cached.
+    Returns dict of slug -> logo_url.
+
+    cached: existing slug->url mapping to avoid re-fetching.
+    """
+    cached = cached or {}
+    result = dict(cached)
+
+    # Build a quick lookup: team_slug -> list of match URLs involving that team
+    slug_to_match_urls: dict[str, list[str]] = {}
+    for match in matches:
+        if not is_vct_match(match.event):
+            continue
+        for team_name in (match.home_team, match.away_team):
+            slug = _make_slug(team_name)
+            slug_to_match_urls.setdefault(slug, []).append(match.url)
+
+    needs_fetch = [t for t in teams if t.slug not in result or not result[t.slug]]
+
+    for i, team in enumerate(needs_fetch):
+        match_urls = slug_to_match_urls.get(team.slug, [])
+        if not match_urls:
+            print(f"[!] No match URLs found for {team.name}, skipping logo")
+            result[team.slug] = ""
+            continue
+
+        print(f"[~] Fetching logo for {team.name} ({i+1}/{len(needs_fetch)}) ...")
+        logo = fetch_team_logo(team.name, match_urls[0])
+        if not _is_valid_logo(logo):
+            logo = ""
+        result[team.slug] = logo
+        if logo:
+            print(f"    -> {logo}")
+        else:
+            print(f"    -> not found")
+
+        time.sleep(0.75)  # polite delay
 
     return result

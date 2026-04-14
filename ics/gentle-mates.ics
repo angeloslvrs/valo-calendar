@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gentle Mates - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:Gentle Mates vs Natus Vincere
+DTSTART:20260415T180000Z
+DTEND:20260415T200000Z
+DTSTAMP:20260415T180000Z
+UID:vlr-644723@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644723/gentle-mates-v
+ s-natus-vincere-vct-2026-emea-stage-1-w3
+LOCATION:VCT 2026: EMEA Stage 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gentle Mates vs Team Heretics
+DTSTART:20260422T180000Z
+DTEND:20260422T200000Z
+DTSTAMP:20260422T180000Z
+UID:vlr-644729@valo-calendar
+DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644729/gentle-mates-v
+ s-team-heretics-vct-2026-emea-stage-1-w4
+LOCATION:VCT 2026: EMEA Stage 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gentle Mates vs Team Liquid
+DTSTART:20260501T180000Z
+DTEND:20260501T200000Z
+DTSTAMP:20260501T180000Z
+UID:vlr-644739@valo-calendar
+DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644739/gentle-mates-v
+ s-team-liquid-vct-2026-emea-stage-1-w5
+LOCATION:VCT 2026: EMEA Stage 1
+END:VEVENT
+END:VCALENDAR
