@@ -3,184 +3,272 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Valo Calendar</title>
+  <title>VCT // Match Schedule Sink</title>
+
+  <!-- Valorant-style V favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><polygon points='15,10 42,10 60,58 78,10 100,10 60,95' fill='%23FF4655'/><polygon points='8,32 26,32 42,68 8,32' fill='%23ECE8E1' opacity='0.7'/></svg>">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;500;600;700&family=Oswald:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            vd:  '#0F1923',
+            vs:  '#1A242D',
+            vc:  '#202B36',
+            vr:  '#FF4655',
+            vw:  '#ECE8E1',
+            vg:  '#8B978F',
+            vb:  '#2D3D4D',
+          },
+          fontFamily: {
+            disp: ['Oswald', 'sans-serif'],
+            tac:  ['Chakra Petch', 'sans-serif'],
+          },
+        }
+      }
+    }
+  </script>
+
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #0F1923; overflow-x: hidden; }
 
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: #0f1923;
-      color: #ece8e1;
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding: 3rem 1rem;
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: #0F1923; }
+    ::-webkit-scrollbar-thumb { background: #2D3D4D; }
+    ::-webkit-scrollbar-thumb:hover { background: #FF4655; }
+
+    .bg-grid {
+      background-image:
+        linear-gradient(to right,  rgba(255,255,255,0.04) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(255,255,255,0.04) 1px, transparent 1px);
+      background-size: 40px 40px;
     }
 
-    h1 {
-      font-size: 2rem;
-      margin-bottom: 0.5rem;
-      color: #ff4655;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
+    .scanlines {
+      background: repeating-linear-gradient(
+        to bottom,
+        transparent 0px, transparent 3px,
+        rgba(0,0,0,0.08) 3px, rgba(0,0,0,0.08) 4px
+      );
     }
 
-    .subtitle {
-      color: #768691;
-      margin-bottom: 2.5rem;
-      font-size: 0.95rem;
+    /* Tactical clip-path corners */
+    .cut-br { clip-path: polygon(0 0, 100% 0, 100% calc(100% - 14px), calc(100% - 14px) 100%, 0 100%); }
+    .cut-tl { clip-path: polygon(14px 0, 100% 0, 100% 100%, 0 100%, 0 14px); }
+    .cut-both { clip-path: polygon(12px 0, 100% 0, 100% calc(100% - 12px), calc(100% - 12px) 100%, 0 100%, 0 12px); }
+
+    /* Glitch hover */
+    @keyframes glitch {
+      0%, 100% { transform: translate(0); }
+      20%       { transform: translate(-2px, 1px); }
+      40%       { transform: translate(-1px, -1px); }
+      60%       { transform: translate(2px, 1px); }
+      80%       { transform: translate(1px, -1px); }
     }
+    .glitch:hover { animation: glitch 0.25s cubic-bezier(.25,.46,.45,.94) infinite; }
 
-    .cards {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1.5rem;
-      justify-content: center;
-      max-width: 800px;
+    /* Card reveal */
+    @keyframes slideUp {
+      from { opacity: 0; transform: translateY(24px); }
+      to   { opacity: 1; transform: translateY(0); }
     }
+    .card-reveal { animation: slideUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards; opacity: 0; }
 
-    .card {
-      background: #1b2733;
-      border-radius: 12px;
-      padding: 1.5rem;
-      width: 340px;
-      border: 1px solid #2a3a48;
-      transition: border-color 0.2s;
+    /* Button sweep effect */
+    .btn-sweep {
+      position: relative; overflow: hidden;
+      transition: color 0.25s ease, border-color 0.25s ease;
     }
-
-    .card:hover { border-color: #ff4655; }
-
-    .team-name {
-      font-size: 1.25rem;
-      font-weight: 600;
-      margin-bottom: 1rem;
+    .btn-sweep::before {
+      content: ''; position: absolute;
+      top: 0; left: -100%; width: 100%; height: 100%;
+      background: #FF4655;
+      transition: left 0.25s ease;
+      z-index: 0;
     }
+    .btn-sweep:hover::before { left: 0; }
+    .btn-sweep > * { position: relative; z-index: 1; }
+    .btn-sweep:hover { color: #0F1923; border-color: #FF4655; }
 
-    .actions {
-      display: flex;
-      flex-direction: column;
-      gap: 0.5rem;
+    /* Red line accent on card hover */
+    .card-wrap {
+      position: relative;
+      transition: border-color 0.25s;
     }
-
-    .btn {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      padding: 0.6rem 1rem;
-      border-radius: 8px;
-      text-decoration: none;
-      font-size: 0.85rem;
-      font-weight: 500;
-      cursor: pointer;
-      border: none;
-      transition: background 0.2s;
+    .card-wrap::after {
+      content: '';
+      position: absolute; bottom: -1px; left: 0;
+      width: 0; height: 2px;
+      background: #FF4655;
+      transition: width 0.3s ease;
     }
+    .card-wrap:hover::after { width: 100%; }
+    .card-wrap:hover { border-color: rgba(255, 70, 85, 0.4) !important; }
 
-    .btn-google {
-      background: #2a3a48;
-      color: #ece8e1;
-    }
-    .btn-google:hover { background: #354858; }
-
-    .btn-apple {
-      background: #2a3a48;
-      color: #ece8e1;
-    }
-    .btn-apple:hover { background: #354858; }
-
-    .btn-copy {
-      background: #2a3a48;
-      color: #ece8e1;
-    }
-    .btn-copy:hover { background: #354858; }
-
-    .btn-copy.copied {
-      background: #1a4d2e;
-      color: #4ade80;
-    }
-
-    .icon { font-size: 1.1rem; }
-
-    .format-note {
-      margin-top: 2.5rem;
-      padding: 1rem 1.5rem;
-      background: #1b2733;
-      border-radius: 8px;
-      border-left: 3px solid #ff4655;
-      max-width: 500px;
-      font-size: 0.85rem;
-      color: #768691;
-      line-height: 1.5;
-    }
-
-    .format-note code {
-      color: #ece8e1;
-      background: #2a3a48;
-      padding: 0.1rem 0.4rem;
-      border-radius: 4px;
-      font-size: 0.8rem;
-    }
+    /* Copy button copied state */
+    .copied-state { background: rgba(74,222,128,0.1) !important; border-color: #4ade80 !important; color: #4ade80 !important; }
+    .copied-state::before { display: none; }
   </style>
 </head>
-<body>
-  <h1>Valo Calendar</h1>
-  <p class="subtitle">Subscribe to upcoming Valorant match schedules</p>
 
-  <div class="cards" id="cards"></div>
+<body class="font-tac text-vw antialiased relative min-h-screen flex flex-col">
 
-  <div class="format-note">
-    Events use: <code>Title: Team A vs Team B</code> &middot;
-    <code>Location: Tournament</code> &middot;
-    <code>Description: Stage + vlr.gg link</code>
-  </div>
+  <!-- Overlays -->
+  <div class="fixed inset-0 bg-grid pointer-events-none z-0"></div>
+  <div class="fixed inset-0 scanlines pointer-events-none z-0 opacity-40"></div>
+
+  <!-- Nav -->
+  <nav class="relative z-30 border-b border-vb bg-vd/80 backdrop-blur-sm h-14 flex items-center justify-between px-6 lg:px-12">
+    <div class="flex items-center gap-3">
+      <svg class="h-7 w-7 drop-shadow-[0_0_8px_rgba(255,70,85,0.6)]" viewBox="0 0 100 100" fill="#FF4655">
+        <polygon points="15,10 42,10 60,58 78,10 100,10 60,95"/>
+        <polygon points="8,32 26,32 42,68 8,32" fill="#ECE8E1" opacity="0.75"/>
+      </svg>
+      <span class="font-disp font-bold tracking-[0.15em] uppercase text-sm text-vw">VCT Calendar Sink</span>
+    </div>
+    <div class="text-[10px] font-mono tracking-widest text-vg uppercase flex items-center gap-2">
+      <span class="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse inline-block"></span>
+      Feed Live
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <header class="relative z-10 px-6 lg:px-12 pt-14 pb-10 max-w-5xl">
+    <p class="text-vr text-xs font-bold tracking-[0.3em] uppercase mb-3 flex items-center gap-2">
+      <i class="ph-fill ph-target"></i> VCT 2026 SEASON
+    </p>
+    <h1 class="font-disp font-bold text-5xl md:text-7xl uppercase leading-none tracking-tight text-vw mb-4">
+      Match Schedule<br>
+      <span class="text-transparent" style="-webkit-text-stroke: 1px #ECE8E1;">Into Your Calendar</span>
+    </h1>
+    <p class="text-vg text-base max-w-lg leading-relaxed">
+      Subscribe to live match feeds for your teams. Auto-updates as schedules are confirmed on vlr.gg.
+    </p>
+  </header>
+
+  <!-- Cards -->
+  <main class="relative z-10 flex-grow px-6 lg:px-12 pb-24">
+    <div id="cards" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 max-w-6xl"></div>
+  </main>
+
+  <!-- HUD Footer -->
+  <footer class="fixed bottom-0 left-0 right-0 z-20 flex justify-between items-end px-6 pb-4 pointer-events-none">
+    <div class="text-[9px] font-mono tracking-widest text-vb leading-5">
+      SYS.STATUS // <span class="text-vg">ONLINE</span><br>
+      DATA.SRC // <span class="text-vg">VLR.GG</span>
+    </div>
+    <div class="flex gap-1 items-center">
+      <div class="w-6 h-0.5 bg-vr animate-pulse"></div>
+      <div class="w-3 h-0.5 bg-vb"></div>
+      <div class="w-10 h-0.5 bg-vb"></div>
+    </div>
+  </footer>
 
   <script>
-    // Configure your teams and the base URL where ICS files are hosted.
-    // When hosting on GitHub Pages, this would be your repo's gh-pages URL.
     const BASE_URL = window.location.href.replace(/\/[^/]*$/, '/ics');
 
     const teams = [
-      { name: "Team Secret", file: "team-secret.ics" },
-      { name: "Sentinels", file: "sentinels.ics" },
+      {
+        name: "Sentinels",
+        file: "sentinels.ics",
+        region: "Americas",
+        logo: "https://owcdn.net/img/62875027c8e06.png",
+        regionLogo: "https://owcdn.net/img/640f5ab71dfbb.png",
+        delay: "0.1s",
+        invertLogo: false,
+      },
+      {
+        name: "Team Secret",
+        file: "team-secret.ics",
+        region: "Pacific",
+        logo: "https://owcdn.net/img/629f13085ead6.png",
+        regionLogo: "https://owcdn.net/img/640f5ae002674.png",
+        delay: "0.2s",
+        invertLogo: true,
+      },
     ];
+
+    const regionColor = {
+      "Americas": "#FF4655",
+      "Pacific":  "#7C3AED",
+      "EMEA":     "#F97316",
+      "China":    "#EF4444",
+    };
 
     const container = document.getElementById("cards");
 
     teams.forEach(team => {
-      const icsUrl = `${BASE_URL}/${team.file}`;
+      const icsUrl    = `${BASE_URL}/${team.file}`;
       const webcalUrl = icsUrl.replace(/^https?:/, "webcal:");
       const googleUrl = `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(icsUrl)}`;
+      const rColor    = regionColor[team.region] || "#FF4655";
 
-      const card = document.createElement("div");
-      card.className = "card";
-      card.innerHTML = `
-        <div class="team-name">${team.name}</div>
-        <div class="actions">
-          <a href="${googleUrl}" target="_blank" rel="noopener" class="btn btn-google">
-            <span class="icon">G</span> Add to Google Calendar
-          </a>
-          <a href="${webcalUrl}" class="btn btn-apple">
-            <span class="icon">A</span> Subscribe in Apple Calendar
-          </a>
-          <button class="btn btn-copy" data-url="${icsUrl}">
-            <span class="icon">L</span> Copy Link
-          </button>
+      const article = document.createElement("article");
+      article.className = "card-wrap card-reveal bg-vs border border-vb cut-br";
+      article.style.animationDelay = team.delay;
+      article.innerHTML = `
+        <div class="p-5">
+          <!-- Header: team logo + region logo -->
+          <div class="flex items-center justify-between mb-5">
+            <img src="${team.logo}" alt="${team.name} logo"
+                 class="h-12 w-12 object-contain"
+                 style="${team.invertLogo ? 'filter: brightness(0) invert(1);' : ''}"
+                 onerror="this.style.display='none'">
+            <div class="flex flex-col items-end gap-1">
+              <img src="${team.regionLogo}" alt="${team.region} logo"
+                   class="h-6 object-contain opacity-80"
+                   onerror="this.style.display='none'">
+              <span class="text-[9px] font-bold tracking-[0.2em] uppercase"
+                    style="color: ${rColor};">${team.region}</span>
+            </div>
+          </div>
+
+          <!-- Team name -->
+          <h2 class="font-disp font-bold text-3xl uppercase leading-none tracking-wide text-vw mb-6 glitch cursor-default">${team.name}</h2>
+
+          <!-- Actions -->
+          <div class="grid grid-cols-3 gap-1.5">
+            <a href="${googleUrl}" target="_blank" rel="noopener"
+               class="btn-sweep col-span-1 border border-vb bg-vc cut-tl py-3 flex flex-col items-center gap-1 no-underline text-vg"
+               title="Add to Google Calendar">
+              <i class="ph ph-google-logo text-lg"></i>
+              <span class="text-[8px] tracking-widest uppercase">Google</span>
+            </a>
+            <a href="${webcalUrl}"
+               class="btn-sweep col-span-1 border border-vb bg-vc py-3 flex flex-col items-center gap-1 no-underline text-vg"
+               title="Subscribe in Apple Calendar">
+              <i class="ph ph-apple-logo text-lg"></i>
+              <span class="text-[8px] tracking-widest uppercase">Apple</span>
+            </a>
+            <button data-url="${icsUrl}"
+               class="btn-sweep copy-btn col-span-1 border border-vb bg-vc cut-br py-3 flex flex-col items-center gap-1 text-vg cursor-pointer"
+               title="Copy subscription link">
+              <i class="ph ph-link text-lg"></i>
+              <span class="text-[8px] tracking-widest uppercase">Copy</span>
+            </button>
+          </div>
         </div>
       `;
-      container.appendChild(card);
+      container.appendChild(article);
     });
 
-    document.querySelectorAll(".btn-copy").forEach(btn => {
+    // Copy buttons
+    document.querySelectorAll(".copy-btn").forEach(btn => {
       btn.addEventListener("click", () => {
         navigator.clipboard.writeText(btn.dataset.url).then(() => {
-          btn.classList.add("copied");
-          btn.querySelector(".icon").textContent = "✓";
-          btn.childNodes[2].textContent = " Copied!";
+          btn.classList.add("copied-state");
+          btn.querySelector("i").className = "ph-bold ph-check text-lg";
+          btn.querySelector("span").textContent = "Copied";
           setTimeout(() => {
-            btn.classList.remove("copied");
-            btn.querySelector(".icon").textContent = "L";
-            btn.childNodes[2].textContent = " Copy Link";
+            btn.classList.remove("copied-state");
+            btn.querySelector("i").className = "ph ph-link text-lg";
+            btn.querySelector("span").textContent = "Copy";
           }, 2000);
         });
       });
