@@ -1,0 +1,38 @@
+name: Update Calendars
+
+on:
+  schedule:
+    - cron: '0 6,18 * * *'  # 6AM and 6PM UTC
+  workflow_dispatch:         # manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate ICS files
+        run: python main.py
+
+      - name: Prepare publish directory
+        run: |
+          mkdir -p public/ics
+          cp index.html public/
+          cp ics/*.ics public/ics/
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: public
+          publish_branch: gh-pages
