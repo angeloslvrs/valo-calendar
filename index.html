@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Valo Calendar</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #0f1923;
+      color: #ece8e1;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 3rem 1rem;
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+      color: #ff4655;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    .subtitle {
+      color: #768691;
+      margin-bottom: 2.5rem;
+      font-size: 0.95rem;
+    }
+
+    .cards {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+      justify-content: center;
+      max-width: 800px;
+    }
+
+    .card {
+      background: #1b2733;
+      border-radius: 12px;
+      padding: 1.5rem;
+      width: 340px;
+      border: 1px solid #2a3a48;
+      transition: border-color 0.2s;
+    }
+
+    .card:hover { border-color: #ff4655; }
+
+    .team-name {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+    }
+
+    .actions {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .btn {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.6rem 1rem;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-weight: 500;
+      cursor: pointer;
+      border: none;
+      transition: background 0.2s;
+    }
+
+    .btn-google {
+      background: #2a3a48;
+      color: #ece8e1;
+    }
+    .btn-google:hover { background: #354858; }
+
+    .btn-apple {
+      background: #2a3a48;
+      color: #ece8e1;
+    }
+    .btn-apple:hover { background: #354858; }
+
+    .btn-copy {
+      background: #2a3a48;
+      color: #ece8e1;
+    }
+    .btn-copy:hover { background: #354858; }
+
+    .btn-copy.copied {
+      background: #1a4d2e;
+      color: #4ade80;
+    }
+
+    .icon { font-size: 1.1rem; }
+
+    .format-note {
+      margin-top: 2.5rem;
+      padding: 1rem 1.5rem;
+      background: #1b2733;
+      border-radius: 8px;
+      border-left: 3px solid #ff4655;
+      max-width: 500px;
+      font-size: 0.85rem;
+      color: #768691;
+      line-height: 1.5;
+    }
+
+    .format-note code {
+      color: #ece8e1;
+      background: #2a3a48;
+      padding: 0.1rem 0.4rem;
+      border-radius: 4px;
+      font-size: 0.8rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Valo Calendar</h1>
+  <p class="subtitle">Subscribe to upcoming Valorant match schedules</p>
+
+  <div class="cards" id="cards"></div>
+
+  <div class="format-note">
+    Events use: <code>Title: Team A vs Team B</code> &middot;
+    <code>Location: Tournament</code> &middot;
+    <code>Description: Stage + vlr.gg link</code>
+  </div>
+
+  <script>
+    // Configure your teams and the base URL where ICS files are hosted.
+    // When hosting on GitHub Pages, this would be your repo's gh-pages URL.
+    const BASE_URL = window.location.href.replace(/\/[^/]*$/, '/ics');
+
+    const teams = [
+      { name: "Team Secret", file: "team-secret.ics" },
+      { name: "Sentinels", file: "sentinels.ics" },
+    ];
+
+    const container = document.getElementById("cards");
+
+    teams.forEach(team => {
+      const icsUrl = `${BASE_URL}/${team.file}`;
+      const webcalUrl = icsUrl.replace(/^https?:/, "webcal:");
+      const googleUrl = `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(icsUrl)}`;
+
+      const card = document.createElement("div");
+      card.className = "card";
+      card.innerHTML = `
+        <div class="team-name">${team.name}</div>
+        <div class="actions">
+          <a href="${googleUrl}" target="_blank" rel="noopener" class="btn btn-google">
+            <span class="icon">G</span> Add to Google Calendar
+          </a>
+          <a href="${webcalUrl}" class="btn btn-apple">
+            <span class="icon">A</span> Subscribe in Apple Calendar
+          </a>
+          <button class="btn btn-copy" data-url="${icsUrl}">
+            <span class="icon">L</span> Copy Link
+          </button>
+        </div>
+      `;
+      container.appendChild(card);
+    });
+
+    document.querySelectorAll(".btn-copy").forEach(btn => {
+      btn.addEventListener("click", () => {
+        navigator.clipboard.writeText(btn.dataset.url).then(() => {
+          btn.classList.add("copied");
+          btn.querySelector(".icon").textContent = "✓";
+          btn.childNodes[2].textContent = " Copied!";
+          setTimeout(() => {
+            btn.classList.remove("copied");
+            btn.querySelector(".icon").textContent = "L";
+            btn.childNodes[2].textContent = " Copy Link";
+          }, 2000);
+        });
+      });
+    });
+  </script>
+</body>
+</html>
