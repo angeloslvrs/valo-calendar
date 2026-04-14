@@ -1,0 +1,9 @@
+10.1.2.155 {
+    tls internal
+
+    root * /srv
+    file_server
+
+    header /ics/* Content-Type text/calendar
+    header /ics/* Access-Control-Allow-Origin *
+}
