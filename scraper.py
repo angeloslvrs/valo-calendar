@@ -19,8 +19,9 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.5",
 }
 
-# vlr.gg renders times in US Central when JS doesn't convert
-VLR_TZ = ZoneInfo("America/Chicago")
+# vlr.gg renders times based on the requester's IP geolocation.
+# Use Asia/Manila (PHT, UTC+8) to match the displayed times.
+VLR_TZ = ZoneInfo("Asia/Manila")
 
 
 @dataclass
