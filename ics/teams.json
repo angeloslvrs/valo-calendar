@@ -1,0 +1,388 @@
+{
+  "teams": [
+    {
+      "name": "100 Thieves",
+      "slug": "100-thieves",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/603c00d5c5a08.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "100-thieves.ics"
+    },
+    {
+      "name": "Cloud9",
+      "slug": "cloud9",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/628addcbd509e.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "cloud9.ics"
+    },
+    {
+      "name": "ENVY",
+      "slug": "envy",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/5f3ca822464a3.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "envy.ics"
+    },
+    {
+      "name": "Evil Geniuses",
+      "slug": "evil-geniuses",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/667462f046618.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "evil-geniuses.ics"
+    },
+    {
+      "name": "FURIA",
+      "slug": "furia",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/632be843b7d51.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "furia.ics"
+    },
+    {
+      "name": "G2 Esports",
+      "slug": "g2-esports",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/633822848a741.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "g2-esports.ics"
+    },
+    {
+      "name": "KR\u00dc Esports",
+      "slug": "kru-esports",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/63976677069e1.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "kru-esports.ics"
+    },
+    {
+      "name": "LEVIAT\u00c1N",
+      "slug": "leviatan",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/61b8888cc3860.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "leviatan.ics"
+    },
+    {
+      "name": "LOUD",
+      "slug": "loud",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/62bbec8dc1b9f.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "loud.ics"
+    },
+    {
+      "name": "MIBR",
+      "slug": "mibr",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/632be7626d6d9.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "mibr.ics"
+    },
+    {
+      "name": "NRG",
+      "slug": "nrg",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/6610f026c1a9e.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "nrg.ics"
+    },
+    {
+      "name": "Sentinels",
+      "slug": "sentinels",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/62875027c8e06.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "sentinels.ics"
+    },
+    {
+      "name": "All Gamers",
+      "slug": "all-gamers",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/6549c2b905061.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "all-gamers.ics"
+    },
+    {
+      "name": "Bilibili Gaming",
+      "slug": "bilibili-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/63f25d72216c1.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "bilibili-gaming.ics"
+    },
+    {
+      "name": "Dragon Ranger Gaming",
+      "slug": "dragon-ranger-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/642233fc01f26.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "dragon-ranger-gaming.ics"
+    },
+    {
+      "name": "EDward Gaming",
+      "slug": "edward-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/62c82049253b2.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "edward-gaming.ics"
+    },
+    {
+      "name": "FunPlus Phoenix",
+      "slug": "funplus-phoenix",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/65a17b313b131.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "funplus-phoenix.ics"
+    },
+    {
+      "name": "JDG Esports",
+      "slug": "jdg-esports",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/64f9825408326.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "jdg-esports.ics"
+    },
+    {
+      "name": "Nova Esports",
+      "slug": "nova-esports",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/6404c0174250b.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "nova-esports.ics"
+    },
+    {
+      "name": "TYLOO",
+      "slug": "tyloo",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/63eb60fb08390.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "tyloo.ics"
+    },
+    {
+      "name": "Titan Esports Club",
+      "slug": "titan-esports-club",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/65487414b8562.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "titan-esports-club.ics"
+    },
+    {
+      "name": "Trace Esports",
+      "slug": "trace-esports",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/6433a2cc3ae72.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "trace-esports.ics"
+    },
+    {
+      "name": "Wolves Esports",
+      "slug": "wolves-esports",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/651d33f8e6a1f.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "wolves-esports.ics"
+    },
+    {
+      "name": "Xi Lai Gaming",
+      "slug": "xi-lai-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/671742f863b9b.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "xi-lai-gaming.ics"
+    },
+    {
+      "name": "BBL Esports",
+      "slug": "bbl-esports",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/65b8ccef5e273.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "bbl-esports.ics"
+    },
+    {
+      "name": "Eternal Fire",
+      "slug": "eternal-fire",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/6628980dcdaea.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "eternal-fire.ics"
+    },
+    {
+      "name": "FNATIC",
+      "slug": "fnatic",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/62a40cc2b5e29.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "fnatic.ics"
+    },
+    {
+      "name": "FUT Esports",
+      "slug": "fut-esports",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/632be9976b8fe.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "fut-esports.ics"
+    },
+    {
+      "name": "GIANTX",
+      "slug": "giantx",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/657b2f3fcd199.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "giantx.ics"
+    },
+    {
+      "name": "Gentle Mates",
+      "slug": "gentle-mates",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/6670153fa9120.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "gentle-mates.ics"
+    },
+    {
+      "name": "Karmine Corp",
+      "slug": "karmine-corp",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/627403a0d9e48.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "karmine-corp.ics"
+    },
+    {
+      "name": "Natus Vincere",
+      "slug": "natus-vincere",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/62a4109ddbd7f.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "natus-vincere.ics"
+    },
+    {
+      "name": "PCIFIC Esports",
+      "slug": "pcific-esports",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/656e2ae2b8a48.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "pcific-esports.ics"
+    },
+    {
+      "name": "Team Heretics",
+      "slug": "team-heretics",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/637b755224c12.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "team-heretics.ics"
+    },
+    {
+      "name": "Team Liquid",
+      "slug": "team-liquid",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/640c381f0603f.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "team-liquid.ics"
+    },
+    {
+      "name": "Team Vitality",
+      "slug": "team-vitality",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/6466d79e1ed40.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "team-vitality.ics"
+    },
+    {
+      "name": "DetonatioN FocusMe",
+      "slug": "detonation-focusme",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/63972e548cdc9.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "detonation-focusme.ics"
+    },
+    {
+      "name": "FULL SENSE",
+      "slug": "full-sense",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/6537a7954d915.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "full-sense.ics"
+    },
+    {
+      "name": "Gen.G",
+      "slug": "geng",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/6970c986eddc6.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "geng.ics"
+    },
+    {
+      "name": "Global Esports",
+      "slug": "global-esports",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/629f316ddd4dd.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "global-esports.ics"
+    },
+    {
+      "name": "Kiwoom DRX",
+      "slug": "kiwoom-drx",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/63b17abd77fc0.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "kiwoom-drx.ics"
+    },
+    {
+      "name": "Nongshim RedForce",
+      "slug": "nongshim-redforce",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/6399bb707aacb.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "nongshim-redforce.ics"
+    },
+    {
+      "name": "Paper Rex",
+      "slug": "paper-rex",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/62bbeba74d5cb.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "paper-rex.ics"
+    },
+    {
+      "name": "Rex Regum Qeon",
+      "slug": "rex-regum-qeon",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/629f17f51e7a3.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "rex-regum-qeon.ics"
+    },
+    {
+      "name": "T1",
+      "slug": "t1",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/62fe0b8f6b084.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "t1.ics"
+    },
+    {
+      "name": "Team Secret",
+      "slug": "team-secret",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/629f13085ead6.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "team-secret.ics"
+    },
+    {
+      "name": "VARREL",
+      "slug": "varrel",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/63a74624cc76a.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "varrel.ics"
+    },
+    {
+      "name": "ZETA DIVISION",
+      "slug": "zeta-division",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/62a411783d94d.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "zeta-division.ics"
+    }
+  ]
+}

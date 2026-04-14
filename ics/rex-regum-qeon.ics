@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rex Regum Qeon - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:Rex Regum Qeon vs T1
+DTSTART:20260418T170000Z
+DTEND:20260418T190000Z
+DTSTAMP:20260418T170000Z
+UID:vlr-644669@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644669/rex-regum-qeon
+ -vs-t1-vct-2026-pacific-stage-1-w3
+LOCATION:VCT 2026: Pacific Stage 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rex Regum Qeon vs FULL SENSE
+DTSTART:20260423T170000Z
+DTEND:20260423T190000Z
+DTSTAMP:20260423T170000Z
+UID:vlr-644671@valo-calendar
+DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644671/rex-regum-qeon
+ -vs-full-sense-vct-2026-pacific-stage-1-w4
+LOCATION:VCT 2026: Pacific Stage 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rex Regum Qeon vs DetonatioN FocusMe
+DTSTART:20260502T200000Z
+DTEND:20260502T220000Z
+DTSTAMP:20260502T200000Z
+UID:vlr-644682@valo-calendar
+DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644682/rex-regum-qeon
+ -vs-detonation-focusme-vct-2026-pacific-stage-1-w5
+LOCATION:VCT 2026: Pacific Stage 1
+END:VEVENT
+END:VCALENDAR

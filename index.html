@@ -152,6 +152,21 @@
     </p>
   </header>
 
+  <!-- Filter bar -->
+  <div class="relative z-10 px-6 lg:px-12 pb-6 max-w-6xl">
+    <div class="flex flex-col sm:flex-row gap-3 items-start sm:items-center">
+      <!-- Region tabs -->
+      <div id="region-tabs" class="flex gap-2 flex-wrap"></div>
+
+      <!-- Search -->
+      <div class="relative sm:ml-auto">
+        <i class="ph ph-magnifying-glass absolute left-3 top-1/2 -translate-y-1/2 text-vg text-sm pointer-events-none"></i>
+        <input id="search-input" type="text" placeholder="Search teams..."
+          class="bg-vs border border-vb text-vw text-xs tracking-widest placeholder-vg pl-8 pr-4 py-2 cut-br focus:outline-none focus:border-vr transition-colors w-48 sm:w-56 font-tac">
+      </div>
+    </div>
+  </div>
+
   <!-- Cards -->
   <main class="relative z-10 flex-grow px-6 lg:px-12 pb-24">
     <div id="cards" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 max-w-6xl"></div>
@@ -173,66 +188,59 @@
   <script>
     const BASE_URL = window.location.href.replace(/\/[^/]*$/, '/ics');
 
-    const teams = [
-      {
-        name: "Sentinels",
-        file: "sentinels.ics",
-        region: "Americas",
-        logo: "https://owcdn.net/img/62875027c8e06.png",
-        regionLogo: "https://owcdn.net/img/640f5ab71dfbb.png",
-        delay: "0.1s",
-        invertLogo: false,
-      },
-      {
-        name: "Team Secret",
-        file: "team-secret.ics",
-        region: "Pacific",
-        logo: "https://owcdn.net/img/629f13085ead6.png",
-        regionLogo: "https://owcdn.net/img/640f5ae002674.png",
-        delay: "0.2s",
-        invertLogo: true,
-      },
-    ];
-
     const regionColor = {
-      "Americas": "#FF4655",
-      "Pacific":  "#7C3AED",
-      "EMEA":     "#F97316",
-      "China":    "#EF4444",
+      "Americas":     "#FF4655",
+      "Pacific":      "#7C3AED",
+      "EMEA":         "#F97316",
+      "China":        "#EF4444",
+      "International":"#6B7280",
     };
+
+    const REGIONS = ["All", "Americas", "Pacific", "EMEA", "China"];
+
+    let allTeams = [];
+    let activeRegion = "All";
+    let searchQuery = "";
 
     const container = document.getElementById("cards");
 
-    teams.forEach(team => {
-      const icsUrl    = `${BASE_URL}/${team.file}`;
+    function makeCard(team, delay) {
+      const icsUrl    = `${BASE_URL}/${team.ics_file}`;
       const webcalUrl = icsUrl.replace(/^https?:/, "webcal:");
       const googleUrl = `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(icsUrl)}`;
       const rColor    = regionColor[team.region] || "#FF4655";
 
       const article = document.createElement("article");
       article.className = "card-wrap card-reveal bg-vs border border-vb cut-br";
-      article.style.animationDelay = team.delay;
+      article.style.animationDelay = `${delay}s`;
+      article.dataset.region = team.region;
+      article.dataset.name   = team.name.toLowerCase();
+
+      const logoHtml = team.logo_url
+        ? `<img src="${team.logo_url}" alt="${team.name} logo"
+               class="h-12 w-12 object-contain"
+               onerror="this.style.display='none'">`
+        : `<div class="h-12 w-12 flex items-center justify-center text-vg text-xs font-bold uppercase">
+             ${team.name.slice(0,2)}
+           </div>`;
+
+      const regionLogoHtml = team.region_logo_url
+        ? `<img src="${team.region_logo_url}" alt="${team.region} logo"
+               class="h-6 object-contain opacity-80"
+               onerror="this.style.display='none'">`
+        : "";
+
       article.innerHTML = `
         <div class="p-5">
-          <!-- Header: team logo + region logo -->
           <div class="flex items-center justify-between mb-5">
-            <img src="${team.logo}" alt="${team.name} logo"
-                 class="h-12 w-12 object-contain"
-                 style="${team.invertLogo ? 'filter: brightness(0) invert(1);' : ''}"
-                 onerror="this.style.display='none'">
+            ${logoHtml}
             <div class="flex flex-col items-end gap-1">
-              <img src="${team.regionLogo}" alt="${team.region} logo"
-                   class="h-6 object-contain opacity-80"
-                   onerror="this.style.display='none'">
+              ${regionLogoHtml}
               <span class="text-[9px] font-bold tracking-[0.2em] uppercase"
                     style="color: ${rColor};">${team.region}</span>
             </div>
           </div>
-
-          <!-- Team name -->
           <h2 class="font-disp font-bold text-3xl uppercase leading-none tracking-wide text-vw mb-6 glitch cursor-default">${team.name}</h2>
-
-          <!-- Actions -->
           <div class="grid grid-cols-3 gap-1.5">
             <a href="${googleUrl}" target="_blank" rel="noopener"
                class="btn-sweep col-span-1 border border-vb bg-vc cut-tl py-3 flex flex-col items-center gap-1 no-underline text-vg"
@@ -255,12 +263,9 @@
           </div>
         </div>
       `;
-      container.appendChild(article);
-    });
 
-    // Copy buttons
-    document.querySelectorAll(".copy-btn").forEach(btn => {
-      btn.addEventListener("click", () => {
+      article.querySelector(".copy-btn").addEventListener("click", e => {
+        const btn = e.currentTarget;
         navigator.clipboard.writeText(btn.dataset.url).then(() => {
           btn.classList.add("copied-state");
           btn.querySelector("i").className = "ph-bold ph-check text-lg";
@@ -272,7 +277,73 @@
           }, 2000);
         });
       });
+
+      return article;
+    }
+
+    function renderCards() {
+      container.innerHTML = "";
+      const filtered = allTeams.filter(t => {
+        const regionOk = activeRegion === "All" || t.region === activeRegion;
+        const searchOk = !searchQuery || t.name.toLowerCase().includes(searchQuery);
+        return regionOk && searchOk;
+      });
+
+      if (filtered.length === 0) {
+        container.innerHTML = `
+          <div class="col-span-full text-vg text-sm tracking-widest uppercase py-12 text-center">
+            No teams found
+          </div>`;
+        return;
+      }
+
+      filtered.forEach((team, i) => {
+        container.appendChild(makeCard(team, (i % 12) * 0.05 + 0.05));
+      });
+    }
+
+    function setRegion(region) {
+      activeRegion = region;
+      document.querySelectorAll(".region-tab").forEach(btn => {
+        const active = btn.dataset.region === region;
+        btn.classList.toggle("text-vr",  active);
+        btn.classList.toggle("border-vr", active);
+        btn.classList.toggle("text-vg",  !active);
+        btn.classList.toggle("border-vb", !active);
+      });
+      renderCards();
+    }
+
+    // Build region tabs
+    const tabBar = document.getElementById("region-tabs");
+    REGIONS.forEach(r => {
+      const btn = document.createElement("button");
+      btn.className = "region-tab btn-sweep border py-1.5 px-4 text-[9px] tracking-[0.2em] uppercase font-bold cut-br";
+      btn.dataset.region = r;
+      btn.textContent = r;
+      btn.addEventListener("click", () => setRegion(r));
+      tabBar.appendChild(btn);
     });
+
+    // Search
+    document.getElementById("search-input").addEventListener("input", e => {
+      searchQuery = e.target.value.trim().toLowerCase();
+      renderCards();
+    });
+
+    // Load teams.json
+    fetch(`${BASE_URL}/teams.json`)
+      .then(r => r.json())
+      .then(data => {
+        allTeams = data.teams || [];
+        setRegion("All");
+      })
+      .catch(() => {
+        container.innerHTML = `
+          <div class="col-span-full text-vr text-sm tracking-widest uppercase py-12 text-center">
+            Failed to load team data
+          </div>`;
+      });
   </script>
 </body>
 </html>

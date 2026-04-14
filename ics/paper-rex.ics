@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Paper Rex - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:Team Secret vs Paper Rex
+DTSTART:20260416T200000Z
+DTEND:20260416T220000Z
+DTSTAMP:20260416T200000Z
+UID:vlr-644666@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644666/team-secret-vs
+ -paper-rex-vct-2026-pacific-stage-1-w3
+LOCATION:VCT 2026: Pacific Stage 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Rex vs Global Esports
+DTSTART:20260423T200000Z
+DTEND:20260423T220000Z
+DTSTAMP:20260423T200000Z
+UID:vlr-644672@valo-calendar
+DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644672/paper-rex-vs-g
+ lobal-esports-vct-2026-pacific-stage-1-w4
+LOCATION:VCT 2026: Pacific Stage 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Rex vs Kiwoom DRX
+DTSTART:20260502T170000Z
+DTEND:20260502T190000Z
+DTSTAMP:20260502T170000Z
+UID:vlr-644681@valo-calendar
+DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644681/paper-rex-vs-d
+ rx-vct-2026-pacific-stage-1-w5
+LOCATION:VCT 2026: Pacific Stage 1
+END:VEVENT
+END:VCALENDAR
