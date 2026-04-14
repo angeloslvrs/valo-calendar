@@ -132,7 +132,8 @@
   <div class="format-note">
     Events use: <code>Title: Team A vs Team B</code> &middot;
     <code>Location: Tournament</code> &middot;
-    <code>Description: Stage + vlr.gg link</code>
+    <code>Description: Stage + vlr.gg link</code><br><br>
+    Apple Calendar subscription: <strong>File → New Calendar Subscription</strong> → paste copied link
   </div>
 
   <script>
@@ -160,8 +161,8 @@
           <a href="${googleUrl}" target="_blank" rel="noopener" class="btn btn-google">
             <span class="icon">G</span> Add to Google Calendar
           </a>
-          <a href="${webcalUrl}" class="btn btn-apple">
-            <span class="icon">A</span> Add to Apple Calendar
+          <a href="${icsUrl}" download="${team.file}" class="btn btn-apple">
+            <span class="icon">A</span> Download for Apple Calendar
           </a>
           <button class="btn btn-copy" data-url="${icsUrl}">
             <span class="icon">L</span> Copy Link
