@@ -97,22 +97,6 @@
       "ics_file": "sentinels.ics"
     },
     {
-      "name": "All Gamers",
-      "slug": "all-gamers",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/6549c2b905061.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "all-gamers.ics"
-    },
-    {
-      "name": "Bilibili Gaming",
-      "slug": "bilibili-gaming",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/63f25d72216c1.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "bilibili-gaming.ics"
-    },
-    {
       "name": "EDward Gaming",
       "slug": "edward-gaming",
       "region": "China",
@@ -121,28 +105,12 @@
       "ics_file": "edward-gaming.ics"
     },
     {
-      "name": "FunPlus Phoenix",
-      "slug": "funplus-phoenix",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/65a17b313b131.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "funplus-phoenix.ics"
-    },
-    {
       "name": "Nova Esports",
       "slug": "nova-esports",
       "region": "China",
       "logo_url": "https://owcdn.net/img/6404c0174250b.png",
       "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
       "ics_file": "nova-esports.ics"
-    },
-    {
-      "name": "Titan Esports Club",
-      "slug": "titan-esports-club",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/65487414b8562.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "titan-esports-club.ics"
     },
     {
       "name": "Wolves Esports",
