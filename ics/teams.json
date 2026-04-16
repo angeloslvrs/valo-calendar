@@ -113,28 +113,12 @@
       "ics_file": "dragon-ranger-gaming.ics"
     },
     {
-      "name": "EDward Gaming",
-      "slug": "edward-gaming",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/62c82049253b2.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "edward-gaming.ics"
-    },
-    {
       "name": "JDG Esports",
       "slug": "jdg-esports",
       "region": "China",
       "logo_url": "https://owcdn.net/img/64f9825408326.png",
       "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
       "ics_file": "jdg-esports.ics"
-    },
-    {
-      "name": "Nova Esports",
-      "slug": "nova-esports",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/6404c0174250b.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "nova-esports.ics"
     },
     {
       "name": "TYLOO",
@@ -159,22 +143,6 @@
       "logo_url": "https://owcdn.net/img/6433a2cc3ae72.png",
       "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
       "ics_file": "trace-esports.ics"
-    },
-    {
-      "name": "Wolves Esports",
-      "slug": "wolves-esports",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/651d33f8e6a1f.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "wolves-esports.ics"
-    },
-    {
-      "name": "Xi Lai Gaming",
-      "slug": "xi-lai-gaming",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/671742f863b9b.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "xi-lai-gaming.ics"
     },
     {
       "name": "BBL Esports",
