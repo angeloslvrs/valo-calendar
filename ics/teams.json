@@ -97,6 +97,22 @@
       "ics_file": "sentinels.ics"
     },
     {
+      "name": "All Gamers",
+      "slug": "all-gamers",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/6549c2b905061.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "all-gamers.ics"
+    },
+    {
+      "name": "Dragon Ranger Gaming",
+      "slug": "dragon-ranger-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/642233fc01f26.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "dragon-ranger-gaming.ics"
+    },
+    {
       "name": "EDward Gaming",
       "slug": "edward-gaming",
       "region": "China",
@@ -105,12 +121,44 @@
       "ics_file": "edward-gaming.ics"
     },
     {
+      "name": "JDG Esports",
+      "slug": "jdg-esports",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/64f9825408326.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "jdg-esports.ics"
+    },
+    {
       "name": "Nova Esports",
       "slug": "nova-esports",
       "region": "China",
       "logo_url": "https://owcdn.net/img/6404c0174250b.png",
       "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
       "ics_file": "nova-esports.ics"
+    },
+    {
+      "name": "TYLOO",
+      "slug": "tyloo",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/63eb60fb08390.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "tyloo.ics"
+    },
+    {
+      "name": "Titan Esports Club",
+      "slug": "titan-esports-club",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/65487414b8562.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "titan-esports-club.ics"
+    },
+    {
+      "name": "Trace Esports",
+      "slug": "trace-esports",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/6433a2cc3ae72.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "trace-esports.ics"
     },
     {
       "name": "Wolves Esports",
