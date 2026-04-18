@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:JDG Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:JDG Esports vs EDward Gaming
-DTSTART:20260417T220000Z
-DTEND:20260418T000000Z
-DTSTAMP:20260417T220000Z
-UID:vlr-642946@valo-calendar
-DESCRIPTION:Group Stage–Seeding\nhttps://www.vlr.gg/642946/jdg-esports-v
- s-edward-gaming-vct-2026-china-stage-1-seeding
+SUMMARY:TYLOO vs JDG Esports
+DTSTART:20260414T090000Z
+DTEND:20260414T110000Z
+DTSTAMP:20260414T090000Z
+UID:vlr-642939@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/642939/tyloo-vs-jdg-e
+ sports-vct-2026-china-stage-1-w3
 LOCATION:VCT 2026: China Stage 1
 END:VEVENT
 END:VCALENDAR
