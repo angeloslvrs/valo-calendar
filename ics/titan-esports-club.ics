@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Titan Esports Club - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Titan Esports Club vs Trace Esports
-DTSTART:20260418T200000Z
-DTEND:20260418T220000Z
-DTSTAMP:20260418T200000Z
-UID:vlr-642948@valo-calendar
-DESCRIPTION:Group Stage–Seeding\nhttps://www.vlr.gg/642948/titan-esports
- -club-vs-trace-esports-vct-2026-china-stage-1-seeding
+SUMMARY:Titan Esports Club vs FunPlus Phoenix
+DTSTART:20260415T090000Z
+DTEND:20260415T110000Z
+DTSTAMP:20260415T090000Z
+UID:vlr-642941@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/642941/titan-esports-
+ club-vs-funplus-phoenix-vct-2026-china-stage-1-w3
 LOCATION:VCT 2026: China Stage 1
 END:VEVENT
 END:VCALENDAR
