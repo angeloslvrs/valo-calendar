@@ -161,28 +161,12 @@
       "ics_file": "xi-lai-gaming.ics"
     },
     {
-      "name": "BBL Esports",
-      "slug": "bbl-esports",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/65b8ccef5e273.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "bbl-esports.ics"
-    },
-    {
       "name": "Eternal Fire",
       "slug": "eternal-fire",
       "region": "EMEA",
       "logo_url": "https://owcdn.net/img/6628980dcdaea.png",
       "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
       "ics_file": "eternal-fire.ics"
-    },
-    {
-      "name": "FNATIC",
-      "slug": "fnatic",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/62a40cc2b5e29.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "fnatic.ics"
     },
     {
       "name": "GIANTX",
@@ -199,22 +183,6 @@
       "logo_url": "https://owcdn.net/img/6670153fa9120.png",
       "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
       "ics_file": "gentle-mates.ics"
-    },
-    {
-      "name": "Karmine Corp",
-      "slug": "karmine-corp",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/627403a0d9e48.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "karmine-corp.ics"
-    },
-    {
-      "name": "Natus Vincere",
-      "slug": "natus-vincere",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/62a4109ddbd7f.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "natus-vincere.ics"
     },
     {
       "name": "Team Liquid",
