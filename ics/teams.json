@@ -161,38 +161,6 @@
       "ics_file": "xi-lai-gaming.ics"
     },
     {
-      "name": "Eternal Fire",
-      "slug": "eternal-fire",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/6628980dcdaea.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "eternal-fire.ics"
-    },
-    {
-      "name": "GIANTX",
-      "slug": "giantx",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/657b2f3fcd199.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "giantx.ics"
-    },
-    {
-      "name": "Gentle Mates",
-      "slug": "gentle-mates",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/6670153fa9120.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "gentle-mates.ics"
-    },
-    {
-      "name": "Team Liquid",
-      "slug": "team-liquid",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/640c381f0603f.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "team-liquid.ics"
-    },
-    {
       "name": "DetonatioN FocusMe",
       "slug": "detonation-focusme",
       "region": "Pacific",
@@ -207,14 +175,6 @@
       "logo_url": "https://owcdn.net/img/6537a7954d915.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "full-sense.ics"
-    },
-    {
-      "name": "Gen.G",
-      "slug": "geng",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/6970c986eddc6.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "geng.ics"
     },
     {
       "name": "Global Esports",
@@ -263,30 +223,6 @@
       "logo_url": "https://owcdn.net/img/62fe0b8f6b084.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "t1.ics"
-    },
-    {
-      "name": "Team Secret",
-      "slug": "team-secret",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/629f13085ead6.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "team-secret.ics"
-    },
-    {
-      "name": "VARREL",
-      "slug": "varrel",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/63a74624cc76a.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "varrel.ics"
-    },
-    {
-      "name": "ZETA DIVISION",
-      "slug": "zeta-division",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/62a411783d94d.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "zeta-division.ics"
     }
   ]
 }
