@@ -233,36 +233,12 @@
       "ics_file": "detonation-focusme.ics"
     },
     {
-      "name": "FULL SENSE",
-      "slug": "full-sense",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/6537a7954d915.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "full-sense.ics"
-    },
-    {
-      "name": "Global Esports",
-      "slug": "global-esports",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/629f316ddd4dd.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "global-esports.ics"
-    },
-    {
       "name": "Kiwoom DRX",
       "slug": "kiwoom-drx",
       "region": "Pacific",
       "logo_url": "https://owcdn.net/img/63b17abd77fc0.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "kiwoom-drx.ics"
-    },
-    {
-      "name": "Nongshim RedForce",
-      "slug": "nongshim-redforce",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/6399bb707aacb.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "nongshim-redforce.ics"
     },
     {
       "name": "Paper Rex",
@@ -279,14 +255,6 @@
       "logo_url": "https://owcdn.net/img/629f17f51e7a3.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "rex-regum-qeon.ics"
-    },
-    {
-      "name": "T1",
-      "slug": "t1",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/62fe0b8f6b084.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "t1.ics"
     }
   ]
 }

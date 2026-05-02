@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Trace Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:All Gamers vs Trace Esports
-DTSTART:20260501T200000Z
-DTEND:20260501T220000Z
-DTSTAMP:20260501T200000Z
-UID:vlr-659476@valo-calendar
-DESCRIPTION:Playoffs–Upper Quarterfinals\nhttps://www.vlr.gg/659476/all-
- gamers-vs-trace-esports-vct-2026-china-stage-1-ubqf
+SUMMARY:Trace Esports vs Dragon Ranger Gaming
+DTSTART:20260502T230000Z
+DTEND:20260503T010000Z
+DTSTAMP:20260502T230000Z
+UID:vlr-659483@valo-calendar
+DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/659483/trace-espo
+ rts-vs-dragon-ranger-gaming-vct-2026-china-stage-1-lr1
 LOCATION:VCT 2026: China Stage 1
 END:VEVENT
 END:VCALENDAR
