@@ -137,22 +137,6 @@
       "ics_file": "tyloo.ics"
     },
     {
-      "name": "Titan Esports Club",
-      "slug": "titan-esports-club",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/65487414b8562.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "titan-esports-club.ics"
-    },
-    {
-      "name": "Trace Esports",
-      "slug": "trace-esports",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/6433a2cc3ae72.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "trace-esports.ics"
-    },
-    {
       "name": "Xi Lai Gaming",
       "slug": "xi-lai-gaming",
       "region": "China",
@@ -223,38 +207,6 @@
       "logo_url": "https://owcdn.net/img/6466d79e1ed40.png",
       "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
       "ics_file": "team-vitality.ics"
-    },
-    {
-      "name": "DetonatioN FocusMe",
-      "slug": "detonation-focusme",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/63972e548cdc9.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "detonation-focusme.ics"
-    },
-    {
-      "name": "Kiwoom DRX",
-      "slug": "kiwoom-drx",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/63b17abd77fc0.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "kiwoom-drx.ics"
-    },
-    {
-      "name": "Paper Rex",
-      "slug": "paper-rex",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/62bbeba74d5cb.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "paper-rex.ics"
-    },
-    {
-      "name": "Rex Regum Qeon",
-      "slug": "rex-regum-qeon",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/629f17f51e7a3.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "rex-regum-qeon.ics"
     }
   ]
 }
