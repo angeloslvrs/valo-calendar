@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:All Gamers - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:All Gamers vs EDward Gaming
-DTSTART:20260503T220000Z
-DTEND:20260504T000000Z
-DTSTAMP:20260503T220000Z
-UID:vlr-659479@valo-calendar
-DESCRIPTION:Playoffs–Upper Semifinals\nhttps://www.vlr.gg/659479/all-gam
- ers-vs-edward-gaming-vct-2026-china-stage-1-ubsf
+SUMMARY:All Gamers vs TYLOO
+DTSTART:20260504T230000Z
+DTEND:20260505T010000Z
+DTSTAMP:20260504T230000Z
+UID:vlr-659484@valo-calendar
+DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/659484/all-gamers
+ -vs-tyloo-vct-2026-china-stage-1-lr2
 LOCATION:VCT 2026: China Stage 1
 END:VEVENT
 END:VCALENDAR

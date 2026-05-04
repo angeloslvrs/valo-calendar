@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Dragon Ranger Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TBD vs Dragon Ranger Gaming
-DTSTART:20260504T200000Z
-DTEND:20260504T220000Z
-DTSTAMP:20260504T200000Z
+SUMMARY:JDG Esports vs Dragon Ranger Gaming
+DTSTART:20260504T210000Z
+DTEND:20260504T230000Z
+DTSTAMP:20260504T210000Z
 UID:vlr-659485@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/659485/dragon-ran
- ger-gaming-vs-tbd-vct-2026-china-stage-1-lr2
+DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/659485/jdg-esport
+ s-vs-dragon-ranger-gaming-vct-2026-china-stage-1-lr2
 LOCATION:VCT 2026: China Stage 1
 END:VEVENT
 END:VCALENDAR
