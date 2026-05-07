@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Nongshim RedForce - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TBD vs Nongshim RedForce
+SUMMARY:Kiwoom DRX vs Nongshim RedForce
 DTSTART:20260508T210000Z
 DTEND:20260508T230000Z
 DTSTAMP:20260508T210000Z
 UID:vlr-666495@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/666495/nongshim-r
- edforce-vs-tbd-vct-2026-pacific-stage-1-lr1
+DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/666495/kiwoom-drx
+ -vs-nongshim-redforce-vct-2026-pacific-stage-1-lr1
 LOCATION:VCT 2026: Pacific Stage 1
 END:VEVENT
 END:VCALENDAR

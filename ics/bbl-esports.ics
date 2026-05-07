@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:BBL Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TBD vs BBL Esports
+SUMMARY:Team Heretics vs BBL Esports
 DTSTART:20260509T020000Z
 DTEND:20260509T040000Z
 DTSTAMP:20260509T020000Z
 UID:vlr-660387@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/660387/bbl-esport
- s-vs-tbd-vct-2026-emea-stage-1-lr1
+DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/660387/team-heret
+ ics-vs-bbl-esports-vct-2026-emea-stage-1-lr1
 LOCATION:VCT 2026: EMEA Stage 1
 END:VEVENT
 END:VCALENDAR

@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DetonatioN FocusMe - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TBD vs DetonatioN FocusMe
+SUMMARY:Rex Regum Qeon vs DetonatioN FocusMe
 DTSTART:20260508T190000Z
 DTEND:20260508T210000Z
 DTSTAMP:20260508T190000Z
 UID:vlr-666494@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/666494/detonation
- -focusme-vs-tbd-vct-2026-pacific-stage-1-lr1
+DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/666494/rex-regum-
+ qeon-vs-detonation-focusme-vct-2026-pacific-stage-1-lr1
 LOCATION:VCT 2026: Pacific Stage 1
 END:VEVENT
 END:VCALENDAR
