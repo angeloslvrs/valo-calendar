@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:All Gamers - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:All Gamers vs Dragon Ranger Gaming
-DTSTART:20260507T231000Z
-DTEND:20260508T011000Z
-DTSTAMP:20260507T231000Z
-UID:vlr-659486@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 3\nhttps://www.vlr.gg/659486/all-gamers
- -vs-dragon-ranger-gaming-vct-2026-china-stage-1-lr3
+SUMMARY:All Gamers vs Bilibili Gaming
+DTSTART:20260415T110000Z
+DTEND:20260415T130000Z
+DTSTAMP:20260415T110000Z
+UID:vlr-642942@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/642942/all-gamers-vs-
+ bilibili-gaming-vct-2026-china-stage-1-w3
 LOCATION:VCT 2026: China Stage 1
 END:VEVENT
 END:VCALENDAR
