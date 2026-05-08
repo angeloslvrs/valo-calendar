@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Team Liquid - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Team Liquid vs Team Vitality
-DTSTART:20260507T045500Z
-DTEND:20260507T065500Z
-DTSTAMP:20260507T045500Z
-UID:vlr-660382@valo-calendar
-DESCRIPTION:Playoffs–Upper Round 1\nhttps://www.vlr.gg/660382/team-liqui
- d-vs-team-vitality-vct-2026-emea-stage-1-ur1
+SUMMARY:Team Liquid vs Gentle Mates
+DTSTART:20260509T060000Z
+DTEND:20260509T080000Z
+DTSTAMP:20260509T060000Z
+UID:vlr-660388@valo-calendar
+DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/660388/team-liqui
+ d-vs-gentle-mates-vct-2026-emea-stage-1-lr1
 LOCATION:VCT 2026: EMEA Stage 1
 END:VEVENT
 END:VCALENDAR
