@@ -65,14 +65,6 @@
       "ics_file": "sentinels.ics"
     },
     {
-      "name": "Dragon Ranger Gaming",
-      "slug": "dragon-ranger-gaming",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/642233fc01f26.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "dragon-ranger-gaming.ics"
-    },
-    {
       "name": "EDward Gaming",
       "slug": "edward-gaming",
       "region": "China",
@@ -87,14 +79,6 @@
       "logo_url": "https://owcdn.net/img/671742f863b9b.png",
       "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
       "ics_file": "xi-lai-gaming.ics"
-    },
-    {
-      "name": "BBL Esports",
-      "slug": "bbl-esports",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/65b8ccef5e273.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "bbl-esports.ics"
     },
     {
       "name": "Eternal Fire",
@@ -153,14 +137,6 @@
       "ics_file": "team-vitality.ics"
     },
     {
-      "name": "DetonatioN FocusMe",
-      "slug": "detonation-focusme",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/63972e548cdc9.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "detonation-focusme.ics"
-    },
-    {
       "name": "FULL SENSE",
       "slug": "full-sense",
       "region": "Pacific",
@@ -183,14 +159,6 @@
       "logo_url": "https://owcdn.net/img/63b17abd77fc0.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "kiwoom-drx.ics"
-    },
-    {
-      "name": "Nongshim RedForce",
-      "slug": "nongshim-redforce",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/6399bb707aacb.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "nongshim-redforce.ics"
     },
     {
       "name": "Paper Rex",
