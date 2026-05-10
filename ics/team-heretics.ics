@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Team Heretics - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:FNATIC vs Team Heretics
-DTSTART:20260510T000000Z
-DTEND:20260510T020000Z
-DTSTAMP:20260510T000000Z
-UID:vlr-660389@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/660389/fnatic-vs-
- team-heretics-vct-2026-emea-stage-1-lr2
+SUMMARY:Team Heretics vs TBD
+DTSTART:20260515T030000Z
+DTEND:20260515T050000Z
+DTSTAMP:20260515T030000Z
+UID:vlr-660391@valo-calendar
+DESCRIPTION:Playoffs–Lower Round 3\nhttps://www.vlr.gg/660391/team-heret
+ ics-vs-tbd-vct-2026-emea-stage-1-lr3
 LOCATION:VCT 2026: EMEA Stage 1
 END:VEVENT
 END:VCALENDAR
