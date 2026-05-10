@@ -1,30 +1,6 @@
 {
   "teams": [
     {
-      "name": "Cloud9",
-      "slug": "cloud9",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/628addcbd509e.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "cloud9.ics"
-    },
-    {
-      "name": "ENVY",
-      "slug": "envy",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/5f3ca822464a3.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "envy.ics"
-    },
-    {
-      "name": "G2 Esports",
-      "slug": "g2-esports",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/633822848a741.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "g2-esports.ics"
-    },
-    {
       "name": "LEVIAT\u00c1N",
       "slug": "leviatan",
       "region": "Americas",
@@ -39,14 +15,6 @@
       "logo_url": "https://owcdn.net/img/62bbec8dc1b9f.png",
       "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
       "ics_file": "loud.ics"
-    },
-    {
-      "name": "MIBR",
-      "slug": "mibr",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/632be7626d6d9.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "mibr.ics"
     },
     {
       "name": "NRG",
@@ -119,14 +87,6 @@
       "logo_url": "https://owcdn.net/img/637b755224c12.png",
       "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
       "ics_file": "team-heretics.ics"
-    },
-    {
-      "name": "Team Liquid",
-      "slug": "team-liquid",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/640c381f0603f.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "team-liquid.ics"
     },
     {
       "name": "Team Vitality",
