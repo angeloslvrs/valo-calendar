@@ -1,6 +1,38 @@
 {
   "teams": [
     {
+      "name": "100 Thieves",
+      "slug": "100-thieves",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/603c00d5c5a08.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "100-thieves.ics"
+    },
+    {
+      "name": "FURIA",
+      "slug": "furia",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/632be843b7d51.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "furia.ics"
+    },
+    {
+      "name": "G2 Esports",
+      "slug": "g2-esports",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/633822848a741.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "g2-esports.ics"
+    },
+    {
+      "name": "KR\u00dc Esports",
+      "slug": "kru-esports",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/63976677069e1.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "kru-esports.ics"
+    },
+    {
       "name": "LEVIAT\u00c1N",
       "slug": "leviatan",
       "region": "Americas",
@@ -17,20 +49,20 @@
       "ics_file": "loud.ics"
     },
     {
+      "name": "MIBR",
+      "slug": "mibr",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/632be7626d6d9.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "mibr.ics"
+    },
+    {
       "name": "NRG",
       "slug": "nrg",
       "region": "Americas",
       "logo_url": "https://owcdn.net/img/6610f026c1a9e.png",
       "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
       "ics_file": "nrg.ics"
-    },
-    {
-      "name": "Sentinels",
-      "slug": "sentinels",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/62875027c8e06.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "sentinels.ics"
     },
     {
       "name": "Eternal Fire",
@@ -47,14 +79,6 @@
       "logo_url": "https://owcdn.net/img/632be9976b8fe.png",
       "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
       "ics_file": "fut-esports.ics"
-    },
-    {
-      "name": "Gentle Mates",
-      "slug": "gentle-mates",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/6670153fa9120.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "gentle-mates.ics"
     },
     {
       "name": "Team Heretics",

@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eternal Fire - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Eternal Fire vs Gentle Mates
-DTSTART:20260510T033500Z
-DTEND:20260510T053500Z
-DTSTAMP:20260510T033500Z
-UID:vlr-660390@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/660390/eternal-fi
- re-vs-gentle-mates-vct-2026-emea-stage-1-lr2
+SUMMARY:Team Heretics vs Eternal Fire
+DTSTART:20260515T060000Z
+DTEND:20260515T080000Z
+DTSTAMP:20260515T060000Z
+UID:vlr-660391@valo-calendar
+DESCRIPTION:Playoffs–Lower Round 3\nhttps://www.vlr.gg/660391/team-heret
+ ics-vs-eternal-fire-vct-2026-emea-stage-1-lr3
 LOCATION:VCT 2026: EMEA Stage 1
 END:VEVENT
 END:VCALENDAR
