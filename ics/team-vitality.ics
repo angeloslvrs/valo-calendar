@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Team Vitality - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:FUT Esports vs Team Vitality
-DTSTART:20260515T020000Z
-DTEND:20260515T040000Z
-DTSTAMP:20260515T020000Z
-UID:vlr-660385@valo-calendar
-DESCRIPTION:Playoffs–Upper Final\nhttps://www.vlr.gg/660385/fut-esports-
- vs-team-vitality-vct-2026-emea-stage-1-ubf
+SUMMARY:Team Vitality vs TBD
+DTSTART:20260517T010000Z
+DTEND:20260517T030000Z
+DTSTAMP:20260517T010000Z
+UID:vlr-660386@valo-calendar
+DESCRIPTION:Playoffs–Grand Final\nhttps://www.vlr.gg/660386/team-vitalit
+ y-vs-tbd-vct-2026-emea-stage-1-gf
 LOCATION:VCT 2026: EMEA Stage 1
 END:VEVENT
 END:VCALENDAR

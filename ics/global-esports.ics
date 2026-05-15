@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Global Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Global Esports vs FULL SENSE
-DTSTART:20260514T210000Z
-DTEND:20260514T230000Z
-DTSTAMP:20260514T210000Z
-UID:vlr-666492@valo-calendar
-DESCRIPTION:Playoffs–Upper Final\nhttps://www.vlr.gg/666492/global-espor
- ts-vs-full-sense-vct-2026-pacific-stage-1-ubf
+SUMMARY:Global Esports vs Paper Rex
+DTSTART:20260515T190000Z
+DTEND:20260515T210000Z
+DTSTAMP:20260515T190000Z
+UID:vlr-666499@valo-calendar
+DESCRIPTION:Playoffs–Lower Final\nhttps://www.vlr.gg/666499/global-espor
+ ts-vs-paper-rex-vct-2026-pacific-stage-1-lbf
 LOCATION:VCT 2026: Pacific Stage 1
 END:VEVENT
 END:VCALENDAR
