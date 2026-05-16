@@ -5,13 +5,33 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Global Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Global Esports vs Paper Rex
-DTSTART:20260515T210000Z
-DTEND:20260515T230000Z
-DTSTAMP:20260515T210000Z
-UID:vlr-666499@valo-calendar
-DESCRIPTION:Playoffs–Lower Final\nhttps://www.vlr.gg/666499/global-espor
- ts-vs-paper-rex-vct-2026-pacific-stage-1-lbf
+SUMMARY:Kiwoom DRX vs Global Esports
+DTSTART:20260418T080000Z
+DTEND:20260418T100000Z
+DTSTAMP:20260418T080000Z
+UID:vlr-644667@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644667/drx-vs-global-
+ esports-vct-2026-pacific-stage-1-w3
+LOCATION:VCT 2026: Pacific Stage 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Rex vs Global Esports
+DTSTART:20260424T110000Z
+DTEND:20260424T130000Z
+DTSTAMP:20260424T110000Z
+UID:vlr-644672@valo-calendar
+DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644672/paper-rex-vs-g
+ lobal-esports-vct-2026-pacific-stage-1-w4
+LOCATION:VCT 2026: Pacific Stage 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nongshim RedForce vs Global Esports
+DTSTART:20260502T110000Z
+DTEND:20260502T130000Z
+DTSTAMP:20260502T110000Z
+UID:vlr-644680@valo-calendar
+DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644680/nongshim-redfo
+ rce-vs-global-esports-vct-2026-pacific-stage-1-w5
 LOCATION:VCT 2026: Pacific Stage 1
 END:VEVENT
 END:VCALENDAR
