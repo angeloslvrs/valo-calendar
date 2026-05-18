@@ -17,14 +17,6 @@
       "ics_file": "g2-esports.ics"
     },
     {
-      "name": "KR\u00dc Esports",
-      "slug": "kru-esports",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/63976677069e1.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "kru-esports.ics"
-    },
-    {
       "name": "LEVIAT\u00c1N",
       "slug": "leviatan",
       "region": "Americas",
@@ -33,36 +25,12 @@
       "ics_file": "leviatan.ics"
     },
     {
-      "name": "MIBR",
-      "slug": "mibr",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/632be7626d6d9.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "mibr.ics"
-    },
-    {
       "name": "NRG",
       "slug": "nrg",
       "region": "Americas",
       "logo_url": "https://owcdn.net/img/6610f026c1a9e.png",
       "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
       "ics_file": "nrg.ics"
-    },
-    {
-      "name": "Team Heretics",
-      "slug": "team-heretics",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/637b755224c12.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "team-heretics.ics"
-    },
-    {
-      "name": "Team Vitality",
-      "slug": "team-vitality",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/6466d79e1ed40.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "team-vitality.ics"
     }
   ]
 }
