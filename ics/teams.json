@@ -1,14 +1,6 @@
 {
   "teams": [
     {
-      "name": "100 Thieves",
-      "slug": "100-thieves",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/603c00d5c5a08.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "100-thieves.ics"
-    },
-    {
       "name": "G2 Esports",
       "slug": "g2-esports",
       "region": "Americas",
