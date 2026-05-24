@@ -15,14 +15,6 @@
       "logo_url": "https://owcdn.net/img/61b8888cc3860.png",
       "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
       "ics_file": "leviatan.ics"
-    },
-    {
-      "name": "NRG",
-      "slug": "nrg",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/6610f026c1a9e.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "nrg.ics"
     }
   ]
 }

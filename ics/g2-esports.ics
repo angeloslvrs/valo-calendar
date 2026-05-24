@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:G2 Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:G2 Esports vs NRG
-DTSTART:20260523T060000Z
-DTEND:20260523T080000Z
-DTSTAMP:20260523T060000Z
-UID:vlr-660380@valo-calendar
-DESCRIPTION:Playoffs–Lower Final\nhttps://www.vlr.gg/660380/g2-esports-v
- s-nrg-vct-2026-americas-stage-1-lbf
+SUMMARY:LEVIATÁN vs G2 Esports
+DTSTART:20260524T070000Z
+DTEND:20260524T090000Z
+DTSTAMP:20260524T070000Z
+UID:vlr-660374@valo-calendar
+DESCRIPTION:Playoffs–Grand Final\nhttps://www.vlr.gg/660374/leviat-n-vs-
+ g2-esports-vct-2026-americas-stage-1-gf
 LOCATION:VCT 2026: Americas Stage 1
 END:VEVENT
 END:VCALENDAR
