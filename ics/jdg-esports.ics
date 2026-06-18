@@ -5,13 +5,43 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:JDG Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TYLOO vs JDG Esports
-DTSTART:20260414T090000Z
-DTEND:20260414T110000Z
-DTSTAMP:20260414T090000Z
-UID:vlr-642939@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/642939/tyloo-vs-jdg-e
- sports-vct-2026-china-stage-1-w3
-LOCATION:VCT 2026: China Stage 1
+SUMMARY:JDG Esports vs TYLOO
+DTSTART:20260709T230000Z
+DTEND:20260710T010000Z
+DTSTAMP:20260709T230000Z
+UID:vlr-701028@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/701028/jdg-esports-vs
+ -tyloo-vct-2026-china-stage-2-w1
+LOCATION:VCT 2026: China Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JDG Esports vs FunPlus Phoenix
+DTSTART:20260714T210000Z
+DTEND:20260714T230000Z
+DTSTAMP:20260714T210000Z
+UID:vlr-701038@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/701038/jdg-esports-vs
+ -funplus-phoenix-vct-2026-china-stage-2-w2
+LOCATION:VCT 2026: China Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nova Esports vs JDG Esports
+DTSTART:20260716T190000Z
+DTEND:20260716T210000Z
+DTSTAMP:20260716T190000Z
+UID:vlr-701042@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/701042/nova-esports-v
+ s-jdg-esports-vct-2026-china-stage-2-w2
+LOCATION:VCT 2026: China Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EDward Gaming vs JDG Esports
+DTSTART:20260719T010000Z
+DTEND:20260719T030000Z
+DTSTAMP:20260719T010000Z
+UID:vlr-701049@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/701049/edward-gaming-
+ vs-jdg-esports-vct-2026-china-stage-2-w2
+LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR

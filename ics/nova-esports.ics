@@ -5,13 +5,33 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Nova Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Nova Esports vs Wolves Esports
-DTSTART:20260416T090000Z
-DTEND:20260416T110000Z
-DTSTAMP:20260416T090000Z
-UID:vlr-642943@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/642943/nova-esports-v
- s-wolves-esports-vct-2026-china-stage-1-w3
-LOCATION:VCT 2026: China Stage 1
+SUMMARY:Nova Esports vs FunPlus Phoenix
+DTSTART:20260711T200000Z
+DTEND:20260711T220000Z
+DTSTAMP:20260711T200000Z
+UID:vlr-701031@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/701031/nova-esports-v
+ s-funplus-phoenix-vct-2026-china-stage-2-w1
+LOCATION:VCT 2026: China Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nova Esports vs JDG Esports
+DTSTART:20260716T190000Z
+DTEND:20260716T210000Z
+DTSTAMP:20260716T190000Z
+UID:vlr-701042@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/701042/nova-esports-v
+ s-jdg-esports-vct-2026-china-stage-2-w2
+LOCATION:VCT 2026: China Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trace Esports vs Nova Esports
+DTSTART:20260718T190000Z
+DTEND:20260718T210000Z
+DTSTAMP:20260718T190000Z
+UID:vlr-701047@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/701047/trace-esports-
+ vs-nova-esports-vct-2026-china-stage-2-w2
+LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR
