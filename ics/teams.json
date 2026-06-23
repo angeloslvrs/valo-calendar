@@ -95,6 +95,102 @@
       "logo_url": "https://owcdn.net/img/671742f863b9b.png",
       "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
       "ics_file": "xi-lai-gaming.ics"
+    },
+    {
+      "name": "DetonatioN FocusMe",
+      "slug": "detonation-focusme",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/63972e548cdc9.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "detonation-focusme.ics"
+    },
+    {
+      "name": "FULL SENSE",
+      "slug": "full-sense",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/6537a7954d915.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "full-sense.ics"
+    },
+    {
+      "name": "Gen.G",
+      "slug": "geng",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/6970c986eddc6.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "geng.ics"
+    },
+    {
+      "name": "Global Esports",
+      "slug": "global-esports",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/629f316ddd4dd.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "global-esports.ics"
+    },
+    {
+      "name": "KIWOOM DRX",
+      "slug": "kiwoom-drx",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/63b17abd77fc0.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "kiwoom-drx.ics"
+    },
+    {
+      "name": "Nongshim RedForce",
+      "slug": "nongshim-redforce",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/6399bb707aacb.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "nongshim-redforce.ics"
+    },
+    {
+      "name": "Paper Rex",
+      "slug": "paper-rex",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/62bbeba74d5cb.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "paper-rex.ics"
+    },
+    {
+      "name": "Rex Regum Qeon",
+      "slug": "rex-regum-qeon",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/629f17f51e7a3.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "rex-regum-qeon.ics"
+    },
+    {
+      "name": "T1",
+      "slug": "t1",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/62fe0b8f6b084.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "t1.ics"
+    },
+    {
+      "name": "Team Secret",
+      "slug": "team-secret",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/629f13085ead6.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "team-secret.ics"
+    },
+    {
+      "name": "VARREL",
+      "slug": "varrel",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/63a74624cc76a.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "varrel.ics"
+    },
+    {
+      "name": "ZETA DIVISION",
+      "slug": "zeta-division",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/62a411783d94d.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "zeta-division.ics"
     }
   ]
 }

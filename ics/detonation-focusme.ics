@@ -5,33 +5,53 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DetonatioN FocusMe - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:ZETA DIVISION vs DetonatioN FocusMe
-DTSTART:20260418T110000Z
-DTEND:20260418T130000Z
-DTSTAMP:20260418T110000Z
-UID:vlr-644668@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644668/zeta-division-
- vs-detonation-focusme-vct-2026-pacific-stage-1-w3
-LOCATION:VCT 2026: Pacific Stage 1
+SUMMARY:KIWOOM DRX vs DetonatioN FocusMe
+DTSTART:20260716T220000Z
+DTEND:20260717T000000Z
+DTSTAMP:20260716T220000Z
+UID:vlr-698887@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/698887/kiwoom-drx-vs-
+ detonation-focusme-vct-2026-pacific-stage-2-w1
+LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DetonatioN FocusMe vs VARREL
-DTSTART:20260425T110000Z
-DTEND:20260425T130000Z
-DTSTAMP:20260425T110000Z
-UID:vlr-644674@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644674/detonation-foc
- usme-vs-varrel-vct-2026-pacific-stage-1-w4
-LOCATION:VCT 2026: Pacific Stage 1
+SUMMARY:DetonatioN FocusMe vs Paper Rex
+DTSTART:20260723T220000Z
+DTEND:20260724T000000Z
+DTSTAMP:20260723T220000Z
+UID:vlr-698895@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/698895/detonation-foc
+ usme-vs-paper-rex-vct-2026-pacific-stage-2-w2
+LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rex Regum Qeon vs DetonatioN FocusMe
-DTSTART:20260503T110000Z
-DTEND:20260503T130000Z
-DTSTAMP:20260503T110000Z
-UID:vlr-644682@valo-calendar
-DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644682/rex-regum-qeon
- -vs-detonation-focusme-vct-2026-pacific-stage-1-w5
-LOCATION:VCT 2026: Pacific Stage 1
+SUMMARY:VARREL vs DetonatioN FocusMe
+DTSTART:20260729T200000Z
+DTEND:20260729T220000Z
+DTSTAMP:20260729T200000Z
+UID:vlr-698902@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/698902/varrel-vs-deto
+ nation-focusme-vct-2026-pacific-stage-2-w3
+LOCATION:VCT 2026: Pacific Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:T1 vs DetonatioN FocusMe
+DTSTART:20260731T200000Z
+DTEND:20260731T220000Z
+DTSTAMP:20260731T200000Z
+UID:vlr-698906@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/698906/t1-vs-detonati
+ on-focusme-vct-2026-pacific-stage-2-w3
+LOCATION:VCT 2026: Pacific Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Secret vs DetonatioN FocusMe
+DTSTART:20260806T200000Z
+DTEND:20260806T220000Z
+DTSTAMP:20260806T200000Z
+UID:vlr-698910@valo-calendar
+DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/698910/team-secret-vs
+ -detonation-focusme-vct-2026-pacific-stage-2-w4
+LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR

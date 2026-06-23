@@ -3,35 +3,55 @@ VERSION:2.0
 PRODID:-//ValoCalendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Kiwoom DRX - Valorant Matches
+X-WR-CALNAME:KIWOOM DRX - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Kiwoom DRX vs Global Esports
-DTSTART:20260418T080000Z
-DTEND:20260418T100000Z
-DTSTAMP:20260418T080000Z
-UID:vlr-644667@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644667/drx-vs-global-
- esports-vct-2026-pacific-stage-1-w3
-LOCATION:VCT 2026: Pacific Stage 1
+SUMMARY:KIWOOM DRX vs DetonatioN FocusMe
+DTSTART:20260716T220000Z
+DTEND:20260717T000000Z
+DTSTAMP:20260716T220000Z
+UID:vlr-698887@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/698887/kiwoom-drx-vs-
+ detonation-focusme-vct-2026-pacific-stage-2-w1
+LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gen.G vs Kiwoom DRX
-DTSTART:20260425T080000Z
-DTEND:20260425T100000Z
-DTSTAMP:20260425T080000Z
-UID:vlr-644673@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644673/gen-g-vs-drx-v
- ct-2026-pacific-stage-1-w4
-LOCATION:VCT 2026: Pacific Stage 1
+SUMMARY:KIWOOM DRX vs Team Secret
+DTSTART:20260718T220000Z
+DTEND:20260719T000000Z
+DTSTAMP:20260718T220000Z
+UID:vlr-698891@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/698891/kiwoom-drx-vs-
+ team-secret-vct-2026-pacific-stage-2-w1
+LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paper Rex vs Kiwoom DRX
-DTSTART:20260503T080000Z
-DTEND:20260503T100000Z
-DTSTAMP:20260503T080000Z
-UID:vlr-644681@valo-calendar
-DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644681/paper-rex-vs-d
- rx-vct-2026-pacific-stage-1-w5
-LOCATION:VCT 2026: Pacific Stage 1
+SUMMARY:Paper Rex vs KIWOOM DRX
+DTSTART:20260725T200000Z
+DTEND:20260725T220000Z
+DTSTAMP:20260725T200000Z
+UID:vlr-698899@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/698899/paper-rex-vs-k
+ iwoom-drx-vct-2026-pacific-stage-2-w2
+LOCATION:VCT 2026: Pacific Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VARREL vs KIWOOM DRX
+DTSTART:20260801T200000Z
+DTEND:20260801T220000Z
+DTSTAMP:20260801T200000Z
+UID:vlr-698908@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/698908/varrel-vs-kiwo
+ om-drx-vct-2026-pacific-stage-2-w3
+LOCATION:VCT 2026: Pacific Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KIWOOM DRX vs T1
+DTSTART:20260807T200000Z
+DTEND:20260807T220000Z
+DTSTAMP:20260807T200000Z
+UID:vlr-698912@valo-calendar
+DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/698912/kiwoom-drx-vs-
+ t1-vct-2026-pacific-stage-2-w4
+LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR

@@ -5,33 +5,53 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rex Regum Qeon - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Rex Regum Qeon vs T1
-DTSTART:20260419T080000Z
-DTEND:20260419T100000Z
-DTSTAMP:20260419T080000Z
-UID:vlr-644669@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644669/rex-regum-qeon
- -vs-t1-vct-2026-pacific-stage-1-w3
-LOCATION:VCT 2026: Pacific Stage 1
+SUMMARY:Rex Regum Qeon vs Global Esports
+DTSTART:20260717T200000Z
+DTEND:20260717T220000Z
+DTSTAMP:20260717T200000Z
+UID:vlr-698888@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/698888/rex-regum-qeon
+ -vs-global-esports-vct-2026-pacific-stage-2-w1
+LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rex Regum Qeon vs FULL SENSE
-DTSTART:20260424T080000Z
-DTEND:20260424T100000Z
-DTSTAMP:20260424T080000Z
-UID:vlr-644671@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644671/rex-regum-qeon
- -vs-full-sense-vct-2026-pacific-stage-1-w4
-LOCATION:VCT 2026: Pacific Stage 1
+SUMMARY:Rex Regum Qeon vs ZETA DIVISION
+DTSTART:20260723T200000Z
+DTEND:20260723T220000Z
+DTSTAMP:20260723T200000Z
+UID:vlr-698894@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/698894/rex-regum-qeon
+ -vs-zeta-division-vct-2026-pacific-stage-2-w2
+LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rex Regum Qeon vs DetonatioN FocusMe
-DTSTART:20260503T110000Z
-DTEND:20260503T130000Z
-DTSTAMP:20260503T110000Z
-UID:vlr-644682@valo-calendar
-DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644682/rex-regum-qeon
- -vs-detonation-focusme-vct-2026-pacific-stage-1-w5
-LOCATION:VCT 2026: Pacific Stage 1
+SUMMARY:Gen.G vs Rex Regum Qeon
+DTSTART:20260725T220000Z
+DTEND:20260726T000000Z
+DTSTAMP:20260725T220000Z
+UID:vlr-698901@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/698901/gen-g-vs-rex-r
+ egum-qeon-vct-2026-pacific-stage-2-w2
+LOCATION:VCT 2026: Pacific Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FULL SENSE vs Rex Regum Qeon
+DTSTART:20260731T220000Z
+DTEND:20260801T000000Z
+DTSTAMP:20260731T220000Z
+UID:vlr-698907@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/698907/full-sense-vs-
+ rex-regum-qeon-vct-2026-pacific-stage-2-w3
+LOCATION:VCT 2026: Pacific Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nongshim RedForce vs Rex Regum Qeon
+DTSTART:20260808T220000Z
+DTEND:20260809T000000Z
+DTSTAMP:20260808T220000Z
+UID:vlr-698915@valo-calendar
+DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/698915/nongshim-redfo
+ rce-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w4
+LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR

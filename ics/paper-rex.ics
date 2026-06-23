@@ -5,33 +5,53 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Paper Rex - Valorant Matches
 BEGIN:VEVENT
+SUMMARY:Paper Rex vs T1
+DTSTART:20260717T220000Z
+DTEND:20260718T000000Z
+DTSTAMP:20260717T220000Z
+UID:vlr-698889@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/698889/paper-rex-vs-t
+ 1-vct-2026-pacific-stage-2-w1
+LOCATION:VCT 2026: Pacific Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DetonatioN FocusMe vs Paper Rex
+DTSTART:20260723T220000Z
+DTEND:20260724T000000Z
+DTSTAMP:20260723T220000Z
+UID:vlr-698895@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/698895/detonation-foc
+ usme-vs-paper-rex-vct-2026-pacific-stage-2-w2
+LOCATION:VCT 2026: Pacific Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Rex vs KIWOOM DRX
+DTSTART:20260725T200000Z
+DTEND:20260725T220000Z
+DTSTAMP:20260725T200000Z
+UID:vlr-698899@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/698899/paper-rex-vs-k
+ iwoom-drx-vct-2026-pacific-stage-2-w2
+LOCATION:VCT 2026: Pacific Stage 2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Team Secret vs Paper Rex
-DTSTART:20260417T110000Z
-DTEND:20260417T130000Z
-DTSTAMP:20260417T110000Z
-UID:vlr-644666@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644666/team-secret-vs
- -paper-rex-vct-2026-pacific-stage-1-w3
-LOCATION:VCT 2026: Pacific Stage 1
+DTSTART:20260730T200000Z
+DTEND:20260730T220000Z
+DTSTAMP:20260730T200000Z
+UID:vlr-698904@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/698904/team-secret-vs
+ -paper-rex-vct-2026-pacific-stage-2-w3
+LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paper Rex vs Global Esports
-DTSTART:20260424T110000Z
-DTEND:20260424T130000Z
-DTSTAMP:20260424T110000Z
-UID:vlr-644672@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644672/paper-rex-vs-g
- lobal-esports-vct-2026-pacific-stage-1-w4
-LOCATION:VCT 2026: Pacific Stage 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Rex vs Kiwoom DRX
-DTSTART:20260503T080000Z
-DTEND:20260503T100000Z
-DTSTAMP:20260503T080000Z
-UID:vlr-644681@valo-calendar
-DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644681/paper-rex-vs-d
- rx-vct-2026-pacific-stage-1-w5
-LOCATION:VCT 2026: Pacific Stage 1
+SUMMARY:VARREL vs Paper Rex
+DTSTART:20260808T200000Z
+DTEND:20260808T220000Z
+DTSTAMP:20260808T200000Z
+UID:vlr-698914@valo-calendar
+DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/698914/varrel-vs-pape
+ r-rex-vct-2026-pacific-stage-2-w4
+LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR
