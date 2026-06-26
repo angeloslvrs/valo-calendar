@@ -5,43 +5,53 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:KRÜ Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:NRG vs KRÜ Esports
-DTSTART:20260419T210000Z
-DTEND:20260419T230000Z
-DTSTAMP:20260419T210000Z
-UID:vlr-645484@valo-calendar
-DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/645484/nrg-vs-kr-espo
- rts-vct-2026-americas-stage-1-w2
-LOCATION:VCT 2026: Americas Stage 1
+SUMMARY:KRÜ Esports vs LOUD
+DTSTART:20260717T120000Z
+DTEND:20260717T140000Z
+DTSTAMP:20260717T120000Z
+UID:vlr-706352@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/706352/kr-esports-vs-
+ loud-vct-2026-americas-stage-2-w1
+LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FURIA vs KRÜ Esports
-DTSTART:20260425T210000Z
-DTEND:20260425T230000Z
-DTSTAMP:20260425T210000Z
-UID:vlr-645488@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/645488/furia-vs-kr-es
- ports-vct-2026-americas-stage-1-w3
-LOCATION:VCT 2026: Americas Stage 1
+SUMMARY:100 Thieves vs KRÜ Esports
+DTSTART:20260724T120000Z
+DTEND:20260724T140000Z
+DTSTAMP:20260724T120000Z
+UID:vlr-706358@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/706358/100-thieves-vs
+ -kr-esports-vct-2026-americas-stage-2-w2
+LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KRÜ Esports vs 100 Thieves
-DTSTART:20260502T210000Z
-DTEND:20260502T230000Z
-DTSTAMP:20260502T210000Z
-UID:vlr-645494@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/645494/kr-esports-vs-
- 100-thieves-vct-2026-americas-stage-1-w4
-LOCATION:VCT 2026: Americas Stage 1
+SUMMARY:KRÜ Esports vs G2 Esports
+DTSTART:20260730T090000Z
+DTEND:20260730T110000Z
+DTSTAMP:20260730T090000Z
+UID:vlr-706364@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/706364/kr-esports-vs-
+ g2-esports-vct-2026-americas-stage-2-w3
+LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KRÜ Esports vs Evil Geniuses
-DTSTART:20260508T210000Z
-DTEND:20260508T230000Z
-DTSTAMP:20260508T210000Z
-UID:vlr-645498@valo-calendar
-DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/645498/kr-esports-vs-
- evil-geniuses-vct-2026-americas-stage-1-w5
-LOCATION:VCT 2026: Americas Stage 1
+SUMMARY:Cloud9 vs KRÜ Esports
+DTSTART:20260802T090000Z
+DTEND:20260802T110000Z
+DTSTAMP:20260802T090000Z
+UID:vlr-706370@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/706370/cloud9-vs-kr-e
+ sports-vct-2026-americas-stage-2-w3
+LOCATION:VCT 2026: Americas Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRÜ Esports vs Sentinels
+DTSTART:20260808T090000Z
+DTEND:20260808T110000Z
+DTSTAMP:20260808T090000Z
+UID:vlr-706376@valo-calendar
+DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/706376/kr-esports-vs-
+ sentinels-vct-2026-americas-stage-2-w4
+LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 END:VCALENDAR

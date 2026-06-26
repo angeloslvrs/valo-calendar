@@ -5,43 +5,53 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Evil Geniuses - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:FURIA vs Evil Geniuses
-DTSTART:20260418T000000Z
-DTEND:20260418T020000Z
-DTSTAMP:20260418T000000Z
-UID:vlr-645481@valo-calendar
-DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/645481/furia-vs-evil-
- geniuses-vct-2026-americas-stage-1-w2
-LOCATION:VCT 2026: Americas Stage 1
+SUMMARY:ENVY vs Evil Geniuses
+DTSTART:20260717T090000Z
+DTEND:20260717T110000Z
+DTSTAMP:20260717T090000Z
+UID:vlr-706351@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/706351/envy-vs-evil-g
+ eniuses-vct-2026-americas-stage-2-w1
+LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Evil Geniuses vs Sentinels
-DTSTART:20260426T210000Z
-DTEND:20260426T230000Z
-DTSTAMP:20260426T210000Z
-UID:vlr-645490@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/645490/evil-geniuses-
- vs-sentinels-vct-2026-americas-stage-1-w3
-LOCATION:VCT 2026: Americas Stage 1
+SUMMARY:Evil Geniuses vs LEVIATÁN
+DTSTART:20260723T090000Z
+DTEND:20260723T110000Z
+DTSTAMP:20260723T090000Z
+UID:vlr-706355@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/706355/evil-geniuses-
+ vs-leviat-n-vct-2026-americas-stage-2-w2
+LOCATION:VCT 2026: Americas Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Geniuses vs MIBR
+DTSTART:20260731T120000Z
+DTEND:20260731T140000Z
+DTSTAMP:20260731T120000Z
+UID:vlr-706367@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/706367/evil-geniuses-
+ vs-mibr-vct-2026-americas-stage-2-w3
+LOCATION:VCT 2026: Americas Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Geniuses vs FURIA
+DTSTART:20260806T090000Z
+DTEND:20260806T110000Z
+DTSTAMP:20260806T090000Z
+UID:vlr-706372@valo-calendar
+DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/706372/evil-geniuses-
+ vs-furia-vct-2026-americas-stage-2-w4
+LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evil Geniuses vs NRG
-DTSTART:20260501T210000Z
-DTEND:20260501T230000Z
-DTSTAMP:20260501T210000Z
-UID:vlr-645492@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/645492/evil-geniuses-
- vs-nrg-vct-2026-americas-stage-1-w4
-LOCATION:VCT 2026: Americas Stage 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KRÜ Esports vs Evil Geniuses
-DTSTART:20260508T210000Z
-DTEND:20260508T230000Z
-DTSTAMP:20260508T210000Z
-UID:vlr-645498@valo-calendar
-DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/645498/kr-esports-vs-
- evil-geniuses-vct-2026-americas-stage-1-w5
-LOCATION:VCT 2026: Americas Stage 1
+DTSTART:20260809T090000Z
+DTEND:20260809T110000Z
+DTSTAMP:20260809T090000Z
+UID:vlr-706378@valo-calendar
+DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/706378/evil-geniuses-
+ vs-nrg-vct-2026-americas-stage-2-w4
+LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 END:VCALENDAR
