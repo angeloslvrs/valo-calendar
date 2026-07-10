@@ -5,33 +5,53 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Team Liquid - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:FUT Esports vs Team Liquid
-DTSTART:20260417T150000Z
-DTEND:20260417T170000Z
-DTSTAMP:20260417T150000Z
-UID:vlr-644726@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644726/fut-esports-vs
- -team-liquid-vct-2026-emea-stage-1-w3
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:Team Liquid vs Eternal Fire
+DTSTART:20260715T060000Z
+DTEND:20260715T080000Z
+DTSTAMP:20260715T060000Z
+UID:vlr-712804@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/712804/team-liquid-vs
+ -eternal-fire-vct-2026-emea-stage-2-w1
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Natus Vincere vs Team Liquid
-DTSTART:20260424T150000Z
-DTEND:20260424T170000Z
-DTSTAMP:20260424T150000Z
-UID:vlr-644732@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644732/natus-vincere-
- vs-team-liquid-vct-2026-emea-stage-1-w4
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:Team Heretics vs Team Liquid
+DTSTART:20260718T060000Z
+DTEND:20260718T080000Z
+DTSTAMP:20260718T060000Z
+UID:vlr-712810@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/712810/team-heretics-
+ vs-team-liquid-vct-2026-emea-stage-2-w1
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gentle Mates vs Team Liquid
-DTSTART:20260501T180000Z
-DTEND:20260501T200000Z
-DTSTAMP:20260501T180000Z
-UID:vlr-644739@valo-calendar
-DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644739/gentle-mates-v
- s-team-liquid-vct-2026-emea-stage-1-w5
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:Team Liquid vs FNATIC
+DTSTART:20260724T060000Z
+DTEND:20260724T080000Z
+DTSTAMP:20260724T060000Z
+UID:vlr-712819@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/712819/team-liquid-vs
+ -fnatic-vct-2026-emea-stage-2-w2
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIANTX vs Team Liquid
+DTSTART:20260729T030000Z
+DTEND:20260729T050000Z
+DTSTAMP:20260729T030000Z
+UID:vlr-712824@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/712824/giantx-vs-team
+ -liquid-vct-2026-emea-stage-2-w3
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karmine Corp vs Team Liquid
+DTSTART:20260801T060000Z
+DTEND:20260801T080000Z
+DTSTAMP:20260801T060000Z
+UID:vlr-712831@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/712831/karmine-corp-v
+ s-team-liquid-vct-2026-emea-stage-2-w3
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

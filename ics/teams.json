@@ -193,6 +193,102 @@
       "ics_file": "xi-lai-gaming.ics"
     },
     {
+      "name": "BBL Esports",
+      "slug": "bbl-esports",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/65b8ccef5e273.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "bbl-esports.ics"
+    },
+    {
+      "name": "Eternal Fire",
+      "slug": "eternal-fire",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/6628980dcdaea.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "eternal-fire.ics"
+    },
+    {
+      "name": "FNATIC",
+      "slug": "fnatic",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/62a40cc2b5e29.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "fnatic.ics"
+    },
+    {
+      "name": "FUT Esports",
+      "slug": "fut-esports",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/632be9976b8fe.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "fut-esports.ics"
+    },
+    {
+      "name": "GIANTX",
+      "slug": "giantx",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/657b2f3fcd199.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "giantx.ics"
+    },
+    {
+      "name": "Gentle Mates",
+      "slug": "gentle-mates",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/6670153fa9120.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "gentle-mates.ics"
+    },
+    {
+      "name": "Karmine Corp",
+      "slug": "karmine-corp",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/627403a0d9e48.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "karmine-corp.ics"
+    },
+    {
+      "name": "Natus Vincere",
+      "slug": "natus-vincere",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/62a4109ddbd7f.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "natus-vincere.ics"
+    },
+    {
+      "name": "PCIFIC Esports",
+      "slug": "pcific-esports",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/656e2ae2b8a48.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "pcific-esports.ics"
+    },
+    {
+      "name": "Team Heretics",
+      "slug": "team-heretics",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/637b755224c12.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "team-heretics.ics"
+    },
+    {
+      "name": "Team Liquid",
+      "slug": "team-liquid",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/640c381f0603f.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "team-liquid.ics"
+    },
+    {
+      "name": "Team Vitality",
+      "slug": "team-vitality",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/6466d79e1ed40.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "team-vitality.ics"
+    },
+    {
       "name": "DetonatioN FocusMe",
       "slug": "detonation-focusme",
       "region": "Pacific",

@@ -5,33 +5,53 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Team Heretics - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Karmine Corp vs Team Heretics
-DTSTART:20260416T180000Z
-DTEND:20260416T200000Z
-DTSTAMP:20260416T180000Z
-UID:vlr-644725@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644725/karmine-corp-v
- s-team-heretics-vct-2026-emea-stage-1-w3
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:Team Heretics vs Team Liquid
+DTSTART:20260718T060000Z
+DTEND:20260718T080000Z
+DTSTAMP:20260718T060000Z
+UID:vlr-712810@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/712810/team-heretics-
+ vs-team-liquid-vct-2026-emea-stage-2-w1
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gentle Mates vs Team Heretics
-DTSTART:20260422T180000Z
-DTEND:20260422T200000Z
-DTSTAMP:20260422T180000Z
-UID:vlr-644729@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644729/gentle-mates-v
- s-team-heretics-vct-2026-emea-stage-1-w4
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:Eternal Fire vs Team Heretics
+DTSTART:20260723T030000Z
+DTEND:20260723T050000Z
+DTSTAMP:20260723T030000Z
+UID:vlr-712816@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/712816/eternal-fire-v
+ s-team-heretics-vct-2026-emea-stage-2-w2
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Team Heretics vs FUT Esports
-DTSTART:20260429T150000Z
-DTEND:20260429T170000Z
-DTSTAMP:20260429T150000Z
-UID:vlr-644734@valo-calendar
-DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644734/team-heretics-
- vs-fut-esports-vct-2026-emea-stage-1-w5
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:Team Heretics vs Karmine Corp
+DTSTART:20260726T060000Z
+DTEND:20260726T080000Z
+DTSTAMP:20260726T060000Z
+UID:vlr-712823@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/712823/team-heretics-
+ vs-karmine-corp-vct-2026-emea-stage-2-w2
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIANTX vs Team Heretics
+DTSTART:20260731T060000Z
+DTEND:20260731T080000Z
+DTSTAMP:20260731T060000Z
+UID:vlr-712829@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/712829/giantx-vs-team
+ -heretics-vct-2026-emea-stage-2-w3
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FNATIC vs Team Heretics
+DTSTART:20260802T060000Z
+DTEND:20260802T080000Z
+DTSTAMP:20260802T060000Z
+UID:vlr-712833@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/712833/fnatic-vs-team
+ -heretics-vct-2026-emea-stage-2-w3
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

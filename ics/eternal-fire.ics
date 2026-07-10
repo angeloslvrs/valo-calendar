@@ -5,33 +5,53 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eternal Fire - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Eternal Fire vs Team Vitality
-DTSTART:20260416T150000Z
-DTEND:20260416T170000Z
-DTSTAMP:20260416T150000Z
-UID:vlr-644724@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644724/eternal-fire-v
- s-team-vitality-vct-2026-emea-stage-1-w3
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:Team Liquid vs Eternal Fire
+DTSTART:20260715T060000Z
+DTEND:20260715T080000Z
+DTSTAMP:20260715T060000Z
+UID:vlr-712804@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/712804/team-liquid-vs
+ -eternal-fire-vct-2026-emea-stage-2-w1
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eternal Fire vs PCIFIC Esports
-DTSTART:20260422T150000Z
-DTEND:20260422T170000Z
-DTSTAMP:20260422T150000Z
-UID:vlr-644728@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644728/eternal-fire-v
- s-pcific-esports-vct-2026-emea-stage-1-w4
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:Karmine Corp vs Eternal Fire
+DTSTART:20260717T030000Z
+DTEND:20260717T050000Z
+DTSTAMP:20260717T030000Z
+UID:vlr-712807@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/712807/karmine-corp-v
+ s-eternal-fire-vct-2026-emea-stage-2-w1
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GIANTX vs Eternal Fire
-DTSTART:20260501T150000Z
-DTEND:20260501T170000Z
-DTSTAMP:20260501T150000Z
-UID:vlr-644738@valo-calendar
-DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644738/giantx-vs-eter
- nal-fire-vct-2026-emea-stage-1-w5
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:Eternal Fire vs Team Heretics
+DTSTART:20260723T030000Z
+DTEND:20260723T050000Z
+DTSTAMP:20260723T030000Z
+UID:vlr-712816@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/712816/eternal-fire-v
+ s-team-heretics-vct-2026-emea-stage-2-w2
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eternal Fire vs GIANTX
+DTSTART:20260725T060000Z
+DTEND:20260725T080000Z
+DTSTAMP:20260725T060000Z
+UID:vlr-712821@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/712821/eternal-fire-v
+ s-giantx-vct-2026-emea-stage-2-w2
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eternal Fire vs FNATIC
+DTSTART:20260730T060000Z
+DTEND:20260730T080000Z
+DTSTAMP:20260730T060000Z
+UID:vlr-712827@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/712827/eternal-fire-v
+ s-fnatic-vct-2026-emea-stage-2-w3
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

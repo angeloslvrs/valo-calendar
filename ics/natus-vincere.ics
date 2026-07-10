@@ -5,33 +5,53 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Natus Vincere - Valorant Matches
 BEGIN:VEVENT
+SUMMARY:FUT Esports vs Natus Vincere
+DTSTART:20260715T030000Z
+DTEND:20260715T050000Z
+DTSTAMP:20260715T030000Z
+UID:vlr-712803@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/712803/fut-esports-vs
+ -natus-vincere-vct-2026-emea-stage-2-w1
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Vitality vs Natus Vincere
+DTSTART:20260717T060000Z
+DTEND:20260717T080000Z
+DTSTAMP:20260717T060000Z
+UID:vlr-712808@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/712808/team-vitality-
+ vs-natus-vincere-vct-2026-emea-stage-2-w1
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gentle Mates vs Natus Vincere
-DTSTART:20260415T180000Z
-DTEND:20260415T200000Z
-DTSTAMP:20260415T180000Z
-UID:vlr-644723@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644723/gentle-mates-v
- s-natus-vincere-vct-2026-emea-stage-1-w3
-LOCATION:VCT 2026: EMEA Stage 1
+DTSTART:20260723T060000Z
+DTEND:20260723T080000Z
+DTSTAMP:20260723T060000Z
+UID:vlr-712817@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/712817/gentle-mates-v
+ s-natus-vincere-vct-2026-emea-stage-2-w2
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Natus Vincere vs Team Liquid
-DTSTART:20260424T150000Z
-DTEND:20260424T170000Z
-DTSTAMP:20260424T150000Z
-UID:vlr-644732@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644732/natus-vincere-
- vs-team-liquid-vct-2026-emea-stage-1-w4
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:BBL Esports vs Natus Vincere
+DTSTART:20260726T030000Z
+DTEND:20260726T050000Z
+DTSTAMP:20260726T030000Z
+UID:vlr-712822@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/712822/bbl-esports-vs
+ -natus-vincere-vct-2026-emea-stage-2-w2
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Natus Vincere vs Karmine Corp
-DTSTART:20260430T150000Z
-DTEND:20260430T170000Z
-DTSTAMP:20260430T150000Z
-UID:vlr-644736@valo-calendar
-DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644736/natus-vincere-
- vs-karmine-corp-vct-2026-emea-stage-1-w5
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:Natus Vincere vs PCIFIC Esports
+DTSTART:20260730T030000Z
+DTEND:20260730T050000Z
+DTSTAMP:20260730T030000Z
+UID:vlr-712826@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/712826/natus-vincere-
+ vs-pcific-esports-vct-2026-emea-stage-2-w3
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

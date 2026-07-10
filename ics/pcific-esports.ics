@@ -5,33 +5,53 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:PCIFIC Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:PCIFIC Esports vs FNATIC
-DTSTART:20260417T180000Z
-DTEND:20260417T200000Z
-DTSTAMP:20260417T180000Z
-UID:vlr-644727@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644727/pcific-esports
- -vs-fnatic-vct-2026-emea-stage-1-w3
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:PCIFIC Esports vs Gentle Mates
+DTSTART:20260716T060000Z
+DTEND:20260716T080000Z
+DTSTAMP:20260716T060000Z
+UID:vlr-712806@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/712806/pcific-esports
+ -vs-gentle-mates-vct-2026-emea-stage-2-w1
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eternal Fire vs PCIFIC Esports
-DTSTART:20260422T150000Z
-DTEND:20260422T170000Z
-DTSTAMP:20260422T150000Z
-UID:vlr-644728@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644728/eternal-fire-v
- s-pcific-esports-vct-2026-emea-stage-1-w4
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:FUT Esports vs PCIFIC Esports
+DTSTART:20260722T030000Z
+DTEND:20260722T050000Z
+DTSTAMP:20260722T030000Z
+UID:vlr-712814@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/712814/fut-esports-vs
+ -pcific-esports-vct-2026-emea-stage-2-w2
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Team Vitality vs PCIFIC Esports
-DTSTART:20260429T180000Z
-DTEND:20260429T200000Z
-DTSTAMP:20260429T180000Z
-UID:vlr-644735@valo-calendar
-DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644735/team-vitality-
- vs-pcific-esports-vct-2026-emea-stage-1-w5
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:PCIFIC Esports vs Team Vitality
+DTSTART:20260725T030000Z
+DTEND:20260725T050000Z
+DTSTAMP:20260725T030000Z
+UID:vlr-712820@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/712820/pcific-esports
+ -vs-team-vitality-vct-2026-emea-stage-2-w2
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natus Vincere vs PCIFIC Esports
+DTSTART:20260730T030000Z
+DTEND:20260730T050000Z
+DTSTAMP:20260730T030000Z
+UID:vlr-712826@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/712826/natus-vincere-
+ vs-pcific-esports-vct-2026-emea-stage-2-w3
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BBL Esports vs PCIFIC Esports
+DTSTART:20260802T030000Z
+DTEND:20260802T050000Z
+DTSTAMP:20260802T030000Z
+UID:vlr-712832@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/712832/bbl-esports-vs
+ -pcific-esports-vct-2026-emea-stage-2-w3
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

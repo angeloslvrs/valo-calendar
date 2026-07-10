@@ -5,33 +5,53 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:FUT Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:FUT Esports vs Team Liquid
-DTSTART:20260417T150000Z
-DTEND:20260417T170000Z
-DTSTAMP:20260417T150000Z
-UID:vlr-644726@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644726/fut-esports-vs
- -team-liquid-vct-2026-emea-stage-1-w3
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:FUT Esports vs Natus Vincere
+DTSTART:20260715T030000Z
+DTEND:20260715T050000Z
+DTSTAMP:20260715T030000Z
+UID:vlr-712803@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/712803/fut-esports-vs
+ -natus-vincere-vct-2026-emea-stage-2-w1
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karmine Corp vs FUT Esports
-DTSTART:20260423T180000Z
-DTEND:20260423T200000Z
-DTSTAMP:20260423T180000Z
-UID:vlr-644731@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644731/karmine-corp-v
- s-fut-esports-vct-2026-emea-stage-1-w4
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:Gentle Mates vs FUT Esports
+DTSTART:20260718T030000Z
+DTEND:20260718T050000Z
+DTSTAMP:20260718T030000Z
+UID:vlr-712809@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/712809/gentle-mates-v
+ s-fut-esports-vct-2026-emea-stage-2-w1
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Team Heretics vs FUT Esports
-DTSTART:20260429T150000Z
-DTEND:20260429T170000Z
-DTSTAMP:20260429T150000Z
-UID:vlr-644734@valo-calendar
-DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644734/team-heretics-
- vs-fut-esports-vct-2026-emea-stage-1-w5
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:FUT Esports vs PCIFIC Esports
+DTSTART:20260722T030000Z
+DTEND:20260722T050000Z
+DTSTAMP:20260722T030000Z
+UID:vlr-712814@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/712814/fut-esports-vs
+ -pcific-esports-vct-2026-emea-stage-2-w2
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FUT Esports vs BBL Esports
+DTSTART:20260724T030000Z
+DTEND:20260724T050000Z
+DTSTAMP:20260724T030000Z
+UID:vlr-712818@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/712818/fut-esports-vs
+ -bbl-esports-vct-2026-emea-stage-2-w2
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FUT Esports vs Team Vitality
+DTSTART:20260801T030000Z
+DTEND:20260801T050000Z
+DTSTAMP:20260801T030000Z
+UID:vlr-712830@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/712830/fut-esports-vs
+ -team-vitality-vct-2026-emea-stage-2-w3
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

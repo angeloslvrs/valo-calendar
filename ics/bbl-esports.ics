@@ -5,33 +5,53 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:BBL Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:BBL Esports vs GIANTX
-DTSTART:20260415T150000Z
-DTEND:20260415T170000Z
-DTSTAMP:20260415T150000Z
-UID:vlr-644722@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644722/bbl-esports-vs
- -giantx-vct-2026-emea-stage-1-w3
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:Team Vitality vs BBL Esports
+DTSTART:20260719T060000Z
+DTEND:20260719T080000Z
+DTSTAMP:20260719T060000Z
+UID:vlr-712812@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/712812/team-vitality-
+ vs-bbl-esports-vct-2026-emea-stage-2-w1
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BBL Esports vs Team Vitality
-DTSTART:20260424T180000Z
-DTEND:20260424T200000Z
-DTSTAMP:20260424T180000Z
-UID:vlr-644733@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644733/bbl-esports-vs
- -team-vitality-vct-2026-emea-stage-1-w4
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:FUT Esports vs BBL Esports
+DTSTART:20260724T030000Z
+DTEND:20260724T050000Z
+DTSTAMP:20260724T030000Z
+UID:vlr-712818@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/712818/fut-esports-vs
+ -bbl-esports-vct-2026-emea-stage-2-w2
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BBL Esports vs FNATIC
-DTSTART:20260430T180000Z
-DTEND:20260430T200000Z
-DTSTAMP:20260430T180000Z
-UID:vlr-644737@valo-calendar
-DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644737/bbl-esports-vs
- -fnatic-vct-2026-emea-stage-1-w5
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:BBL Esports vs Natus Vincere
+DTSTART:20260726T030000Z
+DTEND:20260726T050000Z
+DTSTAMP:20260726T030000Z
+UID:vlr-712822@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/712822/bbl-esports-vs
+ -natus-vincere-vct-2026-emea-stage-2-w2
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BBL Esports vs Gentle Mates
+DTSTART:20260731T030000Z
+DTEND:20260731T050000Z
+DTSTAMP:20260731T030000Z
+UID:vlr-712828@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/712828/bbl-esports-vs
+ -gentle-mates-vct-2026-emea-stage-2-w3
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BBL Esports vs PCIFIC Esports
+DTSTART:20260802T030000Z
+DTEND:20260802T050000Z
+DTSTAMP:20260802T030000Z
+UID:vlr-712832@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/712832/bbl-esports-vs
+ -pcific-esports-vct-2026-emea-stage-2-w3
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

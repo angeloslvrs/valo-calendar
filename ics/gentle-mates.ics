@@ -5,33 +5,53 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Gentle Mates - Valorant Matches
 BEGIN:VEVENT
+SUMMARY:PCIFIC Esports vs Gentle Mates
+DTSTART:20260716T060000Z
+DTEND:20260716T080000Z
+DTSTAMP:20260716T060000Z
+UID:vlr-712806@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/712806/pcific-esports
+ -vs-gentle-mates-vct-2026-emea-stage-2-w1
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gentle Mates vs FUT Esports
+DTSTART:20260718T030000Z
+DTEND:20260718T050000Z
+DTSTAMP:20260718T030000Z
+UID:vlr-712809@valo-calendar
+DESCRIPTION:Group Stage–Week 1\nhttps://www.vlr.gg/712809/gentle-mates-v
+ s-fut-esports-vct-2026-emea-stage-2-w1
+LOCATION:VCT 2026: EMEA Stage 2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gentle Mates vs Natus Vincere
-DTSTART:20260415T180000Z
-DTEND:20260415T200000Z
-DTSTAMP:20260415T180000Z
-UID:vlr-644723@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/644723/gentle-mates-v
- s-natus-vincere-vct-2026-emea-stage-1-w3
-LOCATION:VCT 2026: EMEA Stage 1
+DTSTART:20260723T060000Z
+DTEND:20260723T080000Z
+DTSTAMP:20260723T060000Z
+UID:vlr-712817@valo-calendar
+DESCRIPTION:Group Stage–Week 2\nhttps://www.vlr.gg/712817/gentle-mates-v
+ s-natus-vincere-vct-2026-emea-stage-2-w2
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gentle Mates vs Team Heretics
-DTSTART:20260422T180000Z
-DTEND:20260422T200000Z
-DTSTAMP:20260422T180000Z
-UID:vlr-644729@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/644729/gentle-mates-v
- s-team-heretics-vct-2026-emea-stage-1-w4
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:Gentle Mates vs Team Vitality
+DTSTART:20260729T060000Z
+DTEND:20260729T080000Z
+DTSTAMP:20260729T060000Z
+UID:vlr-712825@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/712825/gentle-mates-v
+ s-team-vitality-vct-2026-emea-stage-2-w3
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gentle Mates vs Team Liquid
-DTSTART:20260501T180000Z
-DTEND:20260501T200000Z
-DTSTAMP:20260501T180000Z
-UID:vlr-644739@valo-calendar
-DESCRIPTION:Group Stage–Week 5\nhttps://www.vlr.gg/644739/gentle-mates-v
- s-team-liquid-vct-2026-emea-stage-1-w5
-LOCATION:VCT 2026: EMEA Stage 1
+SUMMARY:BBL Esports vs Gentle Mates
+DTSTART:20260731T030000Z
+DTEND:20260731T050000Z
+DTSTAMP:20260731T030000Z
+UID:vlr-712828@valo-calendar
+DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/712828/bbl-esports-vs
+ -gentle-mates-vct-2026-emea-stage-2-w3
+LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR
