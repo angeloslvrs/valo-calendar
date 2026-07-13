@@ -6,6 +6,7 @@ import os
 
 from scraper import (
     discover_vct_teams,
+    fetch_accurate_times,
     fetch_team_logos,
     filter_by_teams,
     is_vct_match,
@@ -41,6 +42,11 @@ def main():
 
     vct_matches = [m for m in matches if is_vct_match(m.event)]
     print(f"[*] {len(vct_matches)} VCT 2026 matches")
+
+    # List-page times depend on the requester's IP geolocation; replace them
+    # with the authoritative per-match times from the detail pages.
+    print(f"[*] Fetching accurate start times for {len(vct_matches)} matches ...")
+    fetch_accurate_times(vct_matches)
 
     teams = discover_vct_teams(matches)
     print(f"[*] Discovered {len(teams)} VCT 2026 teams")

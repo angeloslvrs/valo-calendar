@@ -23,7 +23,13 @@ HEADERS = {
 
 # vlr.gg renders times based on the requester's IP geolocation.
 # Use Asia/Manila (PHT, UTC+8) to match the displayed times.
+# NOTE: list-page times are only a fallback — fetch_accurate_times()
+# replaces them with the detail page's data-utc-ts, which is IP-independent.
 VLR_TZ = ZoneInfo("Asia/Manila")
+
+# Match detail pages embed data-utc-ts="YYYY-MM-DD HH:MM:SS".
+# Despite the name, the value is US Eastern time, not UTC.
+VLR_TS_TZ = ZoneInfo("America/New_York")
 
 # VCT 2026 event name patterns and their regions
 VCT_REGION_PATTERNS = [
@@ -163,6 +169,46 @@ def scrape_matches(pages: int = 5) -> list[Match]:
             time.sleep(1)
 
     return all_matches
+
+
+_UTC_TS_RE = re.compile(r'data-utc-ts="(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})"')
+
+
+def fetch_match_start(match_url: str) -> datetime | None:
+    """Fetch a match detail page and return its start time as UTC.
+
+    Uses the data-utc-ts attribute (US Eastern despite the name), which
+    does not depend on the requester's IP geolocation.
+    """
+    try:
+        resp = requests.get(match_url, headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        print(f"[!] Failed to fetch match page {match_url}: {e}")
+        return None
+
+    m = _UTC_TS_RE.search(resp.text)
+    if not m:
+        return None
+    try:
+        dt = datetime.strptime(m.group(1), "%Y-%m-%d %H:%M:%S")
+    except ValueError:
+        return None
+    return dt.replace(tzinfo=VLR_TS_TZ).astimezone(timezone.utc)
+
+
+def fetch_accurate_times(matches: list[Match], delay: float = 0.5) -> None:
+    """Replace each match's list-page start time (IP-geolocation dependent)
+    with the authoritative time from its detail page. Updates in place;
+    matches whose detail page can't be parsed keep their fallback time."""
+    for i, match in enumerate(matches):
+        start = fetch_match_start(match.url)
+        if start:
+            match.start = start
+        else:
+            print(f"[!] Keeping fallback time for {match.home_team} vs {match.away_team}")
+        if i < len(matches) - 1:
+            time.sleep(delay)
 
 
 def filter_by_teams(matches: list[Match], teams: list[str]) -> dict[str, list[Match]]:
