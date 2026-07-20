@@ -105,14 +105,6 @@
       "ics_file": "all-gamers.ics"
     },
     {
-      "name": "Bilibili Gaming",
-      "slug": "bilibili-gaming",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/63f25d72216c1.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "bilibili-gaming.ics"
-    },
-    {
       "name": "Dragon Ranger Gaming",
       "slug": "dragon-ranger-gaming",
       "region": "China",
@@ -159,14 +151,6 @@
       "logo_url": "https://owcdn.net/img/63eb60fb08390.png",
       "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
       "ics_file": "tyloo.ics"
-    },
-    {
-      "name": "Titan Esports Club",
-      "slug": "titan-esports-club",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/65487414b8562.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "titan-esports-club.ics"
     },
     {
       "name": "Trace Esports",
