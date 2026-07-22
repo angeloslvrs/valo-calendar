@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Trace Esports - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:Trace Esports vs Titan Esports Club
+DTSTART:20260724T090000Z
+DTEND:20260724T110000Z
+DTSTAMP:20260724T090000Z
+UID:vlr-701058@valo-calendar
+DESCRIPTION:Group Stage–Seeding\nhttps://www.vlr.gg/701058/trace-esports
+ -vs-titan-esports-club-vct-2026-china-stage-2-seeding
+LOCATION:VCT 2026: China Stage 2
+END:VEVENT
+END:VCALENDAR
