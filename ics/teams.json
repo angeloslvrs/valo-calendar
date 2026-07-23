@@ -105,44 +105,12 @@
       "ics_file": "dragon-ranger-gaming.ics"
     },
     {
-      "name": "EDward Gaming",
-      "slug": "edward-gaming",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/62c82049253b2.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "edward-gaming.ics"
-    },
-    {
-      "name": "FunPlus Phoenix",
-      "slug": "funplus-phoenix",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/65a17b313b131.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "funplus-phoenix.ics"
-    },
-    {
       "name": "JDG Esports",
       "slug": "jdg-esports",
       "region": "China",
       "logo_url": "https://owcdn.net/img/64f9825408326.png",
       "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
       "ics_file": "jdg-esports.ics"
-    },
-    {
-      "name": "Nova Esports",
-      "slug": "nova-esports",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/6404c0174250b.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "nova-esports.ics"
-    },
-    {
-      "name": "TYLOO",
-      "slug": "tyloo",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/63eb60fb08390.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "tyloo.ics"
     },
     {
       "name": "Titan Esports Club",
