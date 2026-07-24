@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wolves Esports - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:FunPlus Phoenix vs Wolves Esports
+DTSTART:20260726T090000Z
+DTEND:20260726T110000Z
+DTSTAMP:20260726T090000Z
+UID:vlr-701062@valo-calendar
+DESCRIPTION:Group Stage–Seeding\nhttps://www.vlr.gg/701062/funplus-phoen
+ ix-vs-wolves-esports-vct-2026-china-stage-2-seeding
+LOCATION:VCT 2026: China Stage 2
+END:VEVENT
+END:VCALENDAR

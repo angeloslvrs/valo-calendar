@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:All Gamers - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:EDward Gaming vs All Gamers
+DTSTART:20260724T120000Z
+DTEND:20260724T140000Z
+DTSTAMP:20260724T120000Z
+UID:vlr-701059@valo-calendar
+DESCRIPTION:Group Stage–Seeding\nhttps://www.vlr.gg/701059/edward-gaming
+ -vs-all-gamers-vct-2026-china-stage-2-seeding
+LOCATION:VCT 2026: China Stage 2
+END:VEVENT
+END:VCALENDAR
