@@ -97,38 +97,6 @@
       "ics_file": "sentinels.ics"
     },
     {
-      "name": "Bilibili Gaming",
-      "slug": "bilibili-gaming",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/63f25d72216c1.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "bilibili-gaming.ics"
-    },
-    {
-      "name": "FunPlus Phoenix",
-      "slug": "funplus-phoenix",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/65a17b313b131.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "funplus-phoenix.ics"
-    },
-    {
-      "name": "Nova Esports",
-      "slug": "nova-esports",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/6404c0174250b.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "nova-esports.ics"
-    },
-    {
-      "name": "Wolves Esports",
-      "slug": "wolves-esports",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/651d33f8e6a1f.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "wolves-esports.ics"
-    },
-    {
       "name": "BBL Esports",
       "slug": "bbl-esports",
       "region": "EMEA",
