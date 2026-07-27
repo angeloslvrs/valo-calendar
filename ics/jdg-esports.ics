@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JDG Esports - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:FunPlus Phoenix vs JDG Esports
+DTSTART:20260806T080000Z
+DTEND:20260806T100000Z
+DTSTAMP:20260806T080000Z
+UID:vlr-724621@valo-calendar
+DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/724621/funp
+ lus-phoenix-vs-jdg-esports-vct-2026-china-stage-2-ubqf
+LOCATION:VCT 2026: China Stage 2
+END:VEVENT
+END:VCALENDAR
