@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ValoCalendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Titan Esports Club - Valorant Matches
+X-WR-CALNAME:KeepBest Gaming - Valorant Matches
 BEGIN:VEVENT
 SUMMARY:Titan Esports Club vs KeepBest Gaming
 DTSTART:20260805T100000Z
