@@ -177,28 +177,12 @@
       "ics_file": "wolves-esports.ics"
     },
     {
-      "name": "BBL Esports",
-      "slug": "bbl-esports",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/65b8ccef5e273.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "bbl-esports.ics"
-    },
-    {
       "name": "FNATIC",
       "slug": "fnatic",
       "region": "EMEA",
       "logo_url": "https://owcdn.net/img/62a40cc2b5e29.png",
       "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
       "ics_file": "fnatic.ics"
-    },
-    {
-      "name": "PCIFIC Esports",
-      "slug": "pcific-esports",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/656e2ae2b8a48.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "pcific-esports.ics"
     },
     {
       "name": "Team Heretics",
