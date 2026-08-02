@@ -193,14 +193,6 @@
       "ics_file": "fnatic.ics"
     },
     {
-      "name": "Karmine Corp",
-      "slug": "karmine-corp",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/627403a0d9e48.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "karmine-corp.ics"
-    },
-    {
       "name": "PCIFIC Esports",
       "slug": "pcific-esports",
       "region": "EMEA",
@@ -215,14 +207,6 @@
       "logo_url": "https://owcdn.net/img/637b755224c12.png",
       "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
       "ics_file": "team-heretics.ics"
-    },
-    {
-      "name": "Team Liquid",
-      "slug": "team-liquid",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/640c381f0603f.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "team-liquid.ics"
     },
     {
       "name": "DetonatioN FocusMe",
