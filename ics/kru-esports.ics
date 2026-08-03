@@ -5,16 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:KRÜ Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Cloud9 vs KRÜ Esports
-DTSTART:20260802T210000Z
-DTEND:20260802T230000Z
-DTSTAMP:20260802T210000Z
-UID:vlr-706370@valo-calendar
-DESCRIPTION:Group Stage–Week 3\nhttps://www.vlr.gg/706370/cloud9-vs-kr-e
- sports-vct-2026-americas-stage-2-w3
-LOCATION:VCT 2026: Americas Stage 2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KRÜ Esports vs Sentinels
 DTSTART:20260808T210000Z
 DTEND:20260808T230000Z
@@ -22,6 +12,16 @@ DTSTAMP:20260808T210000Z
 UID:vlr-706376@valo-calendar
 DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/706376/kr-esports-vs-
  sentinels-vct-2026-americas-stage-2-w4
+LOCATION:VCT 2026: Americas Stage 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRÜ Esports vs TBD
+DTSTART:20260813T210000Z
+DTEND:20260813T230000Z
+DTSTAMP:20260813T210000Z
+UID:vlr-729742@valo-calendar
+DESCRIPTION:Play-Ins–Upper Round 1\nhttps://www.vlr.gg/729742/kr-esports
+ -vs-tbd-vct-2026-americas-stage-2-ur1
 LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 END:VCALENDAR

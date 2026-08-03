@@ -177,12 +177,92 @@
       "ics_file": "wolves-esports.ics"
     },
     {
+      "name": "Eintracht Frankfurt",
+      "slug": "eintracht-frankfurt",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/659d1013d5cf5.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "eintracht-frankfurt.ics"
+    },
+    {
+      "name": "Enterprise Esports",
+      "slug": "enterprise-esports",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/68643d0b1c72b.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "enterprise-esports.ics"
+    },
+    {
+      "name": "Eternal Fire",
+      "slug": "eternal-fire",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/6628980dcdaea.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "eternal-fire.ics"
+    },
+    {
       "name": "FNATIC",
       "slug": "fnatic",
       "region": "EMEA",
       "logo_url": "https://owcdn.net/img/62a40cc2b5e29.png",
       "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
       "ics_file": "fnatic.ics"
+    },
+    {
+      "name": "FUT Esports",
+      "slug": "fut-esports",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/632be9976b8fe.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "fut-esports.ics"
+    },
+    {
+      "name": "GIANTX",
+      "slug": "giantx",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/657b2f3fcd199.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "giantx.ics"
+    },
+    {
+      "name": "Gentle Mates",
+      "slug": "gentle-mates",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/6670153fa9120.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "gentle-mates.ics"
+    },
+    {
+      "name": "Joblife",
+      "slug": "joblife",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/63a944e6cbe49.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "joblife.ics"
+    },
+    {
+      "name": "Natus Vincere",
+      "slug": "natus-vincere",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/62a4109ddbd7f.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "natus-vincere.ics"
+    },
+    {
+      "name": "PCIFIC Esports",
+      "slug": "pcific-esports",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/656e2ae2b8a48.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "pcific-esports.ics"
+    },
+    {
+      "name": "REBORN",
+      "slug": "reborn",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/6a44c8338e1a2.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "reborn.ics"
     },
     {
       "name": "Team Heretics",
