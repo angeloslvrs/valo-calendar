@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:KeepBest Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Titan Esports Club vs KeepBest Gaming
-DTSTART:20260805T100000Z
-DTEND:20260805T120000Z
-DTSTAMP:20260805T100000Z
-UID:vlr-724620@valo-calendar
-DESCRIPTION:Play-Ins–Upper Round 1\nhttps://www.vlr.gg/724620/titan-espo
- rts-club-vs-keepbest-gaming-vct-2026-china-stage-2-ur1
+SUMMARY:KeepBest Gaming vs TBD
+DTSTART:20260808T100000Z
+DTEND:20260808T120000Z
+DTSTAMP:20260808T100000Z
+UID:vlr-724626@valo-calendar
+DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/724626/keepbest-g
+ aming-vs-tbd-vct-2026-china-stage-2-lr1
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR

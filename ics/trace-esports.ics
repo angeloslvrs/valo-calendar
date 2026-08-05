@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Trace Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Trace Esports vs A Team
-DTSTART:20260805T080000Z
-DTEND:20260805T100000Z
-DTSTAMP:20260805T080000Z
-UID:vlr-724619@valo-calendar
-DESCRIPTION:Play-Ins–Upper Round 1\nhttps://www.vlr.gg/724619/trace-espo
- rts-vs-a-team-vct-2026-china-stage-2-ur1
+SUMMARY:All Gamers vs Trace Esports
+DTSTART:20260807T080000Z
+DTEND:20260807T100000Z
+DTSTAMP:20260807T080000Z
+UID:vlr-724623@valo-calendar
+DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/724623/all-
+ gamers-vs-trace-esports-vct-2026-china-stage-2-ubqf
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR
