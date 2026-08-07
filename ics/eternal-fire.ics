@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eternal Fire - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Eternal Fire vs TBD
+SUMMARY:Eternal Fire vs Joblife
 DTSTART:20260808T180000Z
 DTEND:20260808T200000Z
 DTSTAMP:20260808T180000Z
 UID:vlr-729669@valo-calendar
 DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/729669/eter
- nal-fire-vs-tbd-vct-2026-emea-stage-2-ubqf
+ nal-fire-vs-joblife-vct-2026-emea-stage-2-ubqf
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

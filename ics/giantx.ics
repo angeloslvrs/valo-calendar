@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:GIANTX - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:GIANTX vs Eintracht Frankfurt
-DTSTART:20260806T150000Z
-DTEND:20260806T170000Z
-DTSTAMP:20260806T150000Z
-UID:vlr-729664@valo-calendar
-DESCRIPTION:Play-Ins–Upper Round 1\nhttps://www.vlr.gg/729664/giantx-vs-
- eintracht-frankfurt-vct-2026-emea-stage-2-ur1
+SUMMARY:FUT Esports vs GIANTX
+DTSTART:20260808T150000Z
+DTEND:20260808T170000Z
+DTSTAMP:20260808T150000Z
+UID:vlr-729668@valo-calendar
+DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/729668/fut-
+ esports-vs-giantx-vct-2026-emea-stage-2-ubqf
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

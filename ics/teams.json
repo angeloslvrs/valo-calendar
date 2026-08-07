@@ -33,14 +33,6 @@
       "ics_file": "evil-geniuses.ics"
     },
     {
-      "name": "FURIA",
-      "slug": "furia",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/632be843b7d51.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "furia.ics"
-    },
-    {
       "name": "G2 Esports",
       "slug": "g2-esports",
       "region": "Americas",
@@ -113,14 +105,6 @@
       "ics_file": "all-gamers.ics"
     },
     {
-      "name": "Dragon Ranger Gaming",
-      "slug": "dragon-ranger-gaming",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/642233fc01f26.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "dragon-ranger-gaming.ics"
-    },
-    {
       "name": "EDward Gaming",
       "slug": "edward-gaming",
       "region": "China",
@@ -169,14 +153,6 @@
       "ics_file": "trace-esports.ics"
     },
     {
-      "name": "Wolves Esports",
-      "slug": "wolves-esports",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/651d33f8e6a1f.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "wolves-esports.ics"
-    },
-    {
       "name": "Eintracht Frankfurt",
       "slug": "eintracht-frankfurt",
       "region": "EMEA",
@@ -217,6 +193,14 @@
       "ics_file": "fut-esports.ics"
     },
     {
+      "name": "Fire Flux Esports",
+      "slug": "fire-flux-esports",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/68e6e1bcca45d.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "fire-flux-esports.ics"
+    },
+    {
       "name": "GIANTX",
       "slug": "giantx",
       "region": "EMEA",
@@ -255,14 +239,6 @@
       "logo_url": "https://owcdn.net/img/656e2ae2b8a48.png",
       "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
       "ics_file": "pcific-esports.ics"
-    },
-    {
-      "name": "REBORN",
-      "slug": "reborn",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/6a44c8338e1a2.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "reborn.ics"
     },
     {
       "name": "Team Heretics",

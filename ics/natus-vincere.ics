@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Natus Vincere - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Natus Vincere vs Joblife
-DTSTART:20260806T180000Z
-DTEND:20260806T200000Z
-DTSTAMP:20260806T180000Z
-UID:vlr-729665@valo-calendar
-DESCRIPTION:Play-Ins–Upper Round 1\nhttps://www.vlr.gg/729665/natus-vinc
- ere-vs-joblife-vct-2026-emea-stage-2-ur1
+SUMMARY:TBD vs Natus Vincere
+DTSTART:20260812T180000Z
+DTEND:20260812T200000Z
+DTSTAMP:20260812T180000Z
+UID:vlr-729675@valo-calendar
+DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/729675/natus-vinc
+ ere-vs-tbd-vct-2026-emea-stage-2-lr1
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR
