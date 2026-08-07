@@ -17,14 +17,6 @@
       "ics_file": "cloud9.ics"
     },
     {
-      "name": "ENVY",
-      "slug": "envy",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/5f3ca822464a3.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "envy.ics"
-    },
-    {
       "name": "Evil Geniuses",
       "slug": "evil-geniuses",
       "region": "Americas",
@@ -105,6 +97,22 @@
       "ics_file": "all-gamers.ics"
     },
     {
+      "name": "Bilibili Gaming",
+      "slug": "bilibili-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/63f25d72216c1.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "bilibili-gaming.ics"
+    },
+    {
+      "name": "Dragon Ranger Gaming",
+      "slug": "dragon-ranger-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/642233fc01f26.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "dragon-ranger-gaming.ics"
+    },
+    {
       "name": "EDward Gaming",
       "slug": "edward-gaming",
       "region": "China",
@@ -137,6 +145,22 @@
       "ics_file": "keepbest-gaming.ics"
     },
     {
+      "name": "Nova Esports",
+      "slug": "nova-esports",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/6404c0174250b.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "nova-esports.ics"
+    },
+    {
+      "name": "TYLOO",
+      "slug": "tyloo",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/63eb60fb08390.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "tyloo.ics"
+    },
+    {
       "name": "Titan Esports Club",
       "slug": "titan-esports-club",
       "region": "China",
@@ -151,6 +175,30 @@
       "logo_url": "https://owcdn.net/img/6433a2cc3ae72.png",
       "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
       "ics_file": "trace-esports.ics"
+    },
+    {
+      "name": "Wolves Esports",
+      "slug": "wolves-esports",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/651d33f8e6a1f.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "wolves-esports.ics"
+    },
+    {
+      "name": "Xi Lai Gaming",
+      "slug": "xi-lai-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/671742f863b9b.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "xi-lai-gaming.ics"
+    },
+    {
+      "name": "BBL Esports",
+      "slug": "bbl-esports",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/65b8ccef5e273.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "bbl-esports.ics"
     },
     {
       "name": "Eintracht Frankfurt",
@@ -225,6 +273,14 @@
       "ics_file": "joblife.ics"
     },
     {
+      "name": "Karmine Corp",
+      "slug": "karmine-corp",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/627403a0d9e48.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "karmine-corp.ics"
+    },
+    {
       "name": "Natus Vincere",
       "slug": "natus-vincere",
       "region": "EMEA",
@@ -247,6 +303,22 @@
       "logo_url": "https://owcdn.net/img/637b755224c12.png",
       "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
       "ics_file": "team-heretics.ics"
+    },
+    {
+      "name": "Team Liquid",
+      "slug": "team-liquid",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/640c381f0603f.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "team-liquid.ics"
+    },
+    {
+      "name": "Team Vitality",
+      "slug": "team-vitality",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/6466d79e1ed40.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "team-vitality.ics"
     },
     {
       "name": "DetonatioN FocusMe",

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dragon Ranger Gaming - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:TBD vs Dragon Ranger Gaming
+DTSTART:20260810T100000Z
+DTEND:20260810T120000Z
+DTSTAMP:20260810T100000Z
+UID:vlr-724630@valo-calendar
+DESCRIPTION:Play-Ins–Upper Semifinals\nhttps://www.vlr.gg/724630/dragon-
+ ranger-gaming-vs-tbd-vct-2026-china-stage-2-ubsf
+LOCATION:VCT 2026: China Stage 2
+END:VEVENT
+END:VCALENDAR
