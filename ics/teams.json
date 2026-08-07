@@ -321,28 +321,12 @@
       "ics_file": "team-vitality.ics"
     },
     {
-      "name": "DetonatioN FocusMe",
-      "slug": "detonation-focusme",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/63972e548cdc9.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "detonation-focusme.ics"
-    },
-    {
       "name": "FULL SENSE",
       "slug": "full-sense",
       "region": "Pacific",
       "logo_url": "https://owcdn.net/img/6537a7954d915.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "full-sense.ics"
-    },
-    {
-      "name": "Gen.G",
-      "slug": "geng",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/6970c986eddc6.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "geng.ics"
     },
     {
       "name": "Global Esports",
@@ -369,12 +353,28 @@
       "ics_file": "nongshim-redforce.ics"
     },
     {
+      "name": "ONSIDE GAMING",
+      "slug": "onside-gaming",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/6863ccdfabea7.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "onside-gaming.ics"
+    },
+    {
       "name": "Paper Rex",
       "slug": "paper-rex",
       "region": "Pacific",
       "logo_url": "https://owcdn.net/img/62bbeba74d5cb.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "paper-rex.ics"
+    },
+    {
+      "name": "QT DIG\u221e",
+      "slug": "qt-dig",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/67f4e2e7b3802.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "qt-dig.ics"
     },
     {
       "name": "Rex Regum Qeon",
@@ -385,6 +385,14 @@
       "ics_file": "rex-regum-qeon.ics"
     },
     {
+      "name": "Sharper Esports",
+      "slug": "sharper-esports",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/698dc40a29cda.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "sharper-esports.ics"
+    },
+    {
       "name": "T1",
       "slug": "t1",
       "region": "Pacific",
@@ -393,20 +401,20 @@
       "ics_file": "t1.ics"
     },
     {
-      "name": "Team Secret",
-      "slug": "team-secret",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/629f13085ead6.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "team-secret.ics"
-    },
-    {
       "name": "VARREL",
       "slug": "varrel",
       "region": "Pacific",
       "logo_url": "https://owcdn.net/img/63a74624cc76a.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "varrel.ics"
+    },
+    {
+      "name": "Xipto Esports",
+      "slug": "xipto-esports",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/67742094e5e85.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "xipto-esports.ics"
     },
     {
       "name": "ZETA DIVISION",

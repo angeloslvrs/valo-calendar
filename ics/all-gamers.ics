@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:All Gamers - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:All Gamers vs Trace Esports
-DTSTART:20260807T080000Z
-DTEND:20260807T100000Z
-DTSTAMP:20260807T080000Z
-UID:vlr-724623@valo-calendar
-DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/724623/all-
- gamers-vs-trace-esports-vct-2026-china-stage-2-ubqf
+SUMMARY:All Gamers vs JDG Esports
+DTSTART:20260810T080000Z
+DTEND:20260810T100000Z
+DTSTAMP:20260810T080000Z
+UID:vlr-724629@valo-calendar
+DESCRIPTION:Play-Ins–Upper Semifinals\nhttps://www.vlr.gg/724629/all-gam
+ ers-vs-jdg-esports-vct-2026-china-stage-2-ubsf
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR

@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:PCIFIC Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:PCIFIC Esports vs Fire Flux Esports
-DTSTART:20260807T150000Z
-DTEND:20260807T170000Z
-DTSTAMP:20260807T150000Z
-UID:vlr-729666@valo-calendar
-DESCRIPTION:Play-Ins–Upper Round 1\nhttps://www.vlr.gg/729666/pcific-esp
- orts-vs-fire-flux-esports-vct-2026-emea-stage-2-ur1
+SUMMARY:TBD vs PCIFIC Esports
+DTSTART:20260813T150000Z
+DTEND:20260813T170000Z
+DTSTAMP:20260813T150000Z
+UID:vlr-729676@valo-calendar
+DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/729676/pcific-esp
+ orts-vs-tbd-vct-2026-emea-stage-2-lr1
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR
