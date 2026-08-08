@@ -89,14 +89,6 @@
       "ics_file": "sentinels.ics"
     },
     {
-      "name": "A Team",
-      "slug": "a-team",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/6a70722c7c24b.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "a-team.ics"
-    },
-    {
       "name": "All Gamers",
       "slug": "all-gamers",
       "region": "China",
@@ -143,14 +135,6 @@
       "logo_url": "https://owcdn.net/img/64f9825408326.png",
       "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
       "ics_file": "jdg-esports.ics"
-    },
-    {
-      "name": "KeepBest Gaming",
-      "slug": "keepbest-gaming",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/64461a1131da5.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "keepbest-gaming.ics"
     },
     {
       "name": "Nova Esports",
@@ -337,14 +321,6 @@
       "ics_file": "full-sense.ics"
     },
     {
-      "name": "Global Esports",
-      "slug": "global-esports",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/629f316ddd4dd.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "global-esports.ics"
-    },
-    {
       "name": "KIWOOM DRX",
       "slug": "kiwoom-drx",
       "region": "Pacific",
@@ -401,12 +377,12 @@
       "ics_file": "sharper-esports.ics"
     },
     {
-      "name": "T1",
-      "slug": "t1",
+      "name": "Team Secret",
+      "slug": "team-secret",
       "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/62fe0b8f6b084.png",
+      "logo_url": "https://owcdn.net/img/629f13085ead6.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "t1.ics"
+      "ics_file": "team-secret.ics"
     },
     {
       "name": "VARREL",
@@ -423,14 +399,6 @@
       "logo_url": "https://owcdn.net/img/67742094e5e85.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "xipto-esports.ics"
-    },
-    {
-      "name": "ZETA DIVISION",
-      "slug": "zeta-division",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/62a411783d94d.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "zeta-division.ics"
     }
   ]
 }

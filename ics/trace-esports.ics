@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Trace Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Trace Esports vs TBD
+SUMMARY:Trace Esports vs FunPlus Phoenix
 DTSTART:20260809T100000Z
 DTEND:20260809T120000Z
 DTSTAMP:20260809T100000Z
 UID:vlr-724628@valo-calendar
 DESCRIPTION:Play-Ins–Lower Round 2\nhttps://www.vlr.gg/724628/trace-espo
- rts-vs-tbd-vct-2026-china-stage-2-lr2
+ rts-vs-funplus-phoenix-vct-2026-china-stage-2-lr2
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR

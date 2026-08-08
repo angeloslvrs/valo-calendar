@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:FunPlus Phoenix - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:KeepBest Gaming vs FunPlus Phoenix
-DTSTART:20260808T100000Z
-DTEND:20260808T120000Z
-DTSTAMP:20260808T100000Z
-UID:vlr-724626@valo-calendar
-DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/724626/keepbest-g
- aming-vs-funplus-phoenix-vct-2026-china-stage-2-lr1
+SUMMARY:Trace Esports vs FunPlus Phoenix
+DTSTART:20260809T100000Z
+DTEND:20260809T120000Z
+DTSTAMP:20260809T100000Z
+UID:vlr-724628@valo-calendar
+DESCRIPTION:Play-Ins–Lower Round 2\nhttps://www.vlr.gg/724628/trace-espo
+ rts-vs-funplus-phoenix-vct-2026-china-stage-2-lr2
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR
