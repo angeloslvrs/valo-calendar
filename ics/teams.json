@@ -17,6 +17,14 @@
       "ics_file": "cloud9.ics"
     },
     {
+      "name": "ENVY",
+      "slug": "envy",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/5f3ca822464a3.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "envy.ics"
+    },
+    {
       "name": "Evil Geniuses",
       "slug": "evil-geniuses",
       "region": "Americas",
@@ -25,12 +33,12 @@
       "ics_file": "evil-geniuses.ics"
     },
     {
-      "name": "G2 Esports",
-      "slug": "g2-esports",
+      "name": "FURIA",
+      "slug": "furia",
       "region": "Americas",
-      "logo_url": "https://owcdn.net/img/633822848a741.png",
+      "logo_url": "https://owcdn.net/img/632be843b7d51.png",
       "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "g2-esports.ics"
+      "ics_file": "furia.ics"
     },
     {
       "name": "KR\u00dc Esports",

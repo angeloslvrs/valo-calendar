@@ -14,4 +14,14 @@ DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/706378/evil-geniuses-
  vs-nrg-vct-2026-americas-stage-2-w4
 LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Geniuses vs TBD
+DTSTART:20260817T000000Z
+DTEND:20260817T020000Z
+DTSTAMP:20260817T000000Z
+UID:vlr-729749@valo-calendar
+DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/729749/evil
+ -geniuses-vs-tbd-vct-2026-americas-stage-2-ubqf
+LOCATION:VCT 2026: Americas Stage 2
+END:VEVENT
 END:VCALENDAR
