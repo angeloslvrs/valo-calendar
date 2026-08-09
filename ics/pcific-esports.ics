@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:PCIFIC Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TBD vs PCIFIC Esports
+SUMMARY:Joblife vs PCIFIC Esports
 DTSTART:20260813T150000Z
 DTEND:20260813T170000Z
 DTSTAMP:20260813T150000Z
 UID:vlr-729676@valo-calendar
-DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/729676/pcific-esp
- orts-vs-tbd-vct-2026-emea-stage-2-lr1
+DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/729676/joblife-vs
+ -pcific-esports-vct-2026-emea-stage-2-lr1
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

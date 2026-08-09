@@ -41,20 +41,20 @@
       "ics_file": "furia.ics"
     },
     {
+      "name": "G2 Esports",
+      "slug": "g2-esports",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/633822848a741.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "g2-esports.ics"
+    },
+    {
       "name": "KR\u00dc Esports",
       "slug": "kru-esports",
       "region": "Americas",
       "logo_url": "https://owcdn.net/img/63976677069e1.png",
       "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
       "ics_file": "kru-esports.ics"
-    },
-    {
-      "name": "LEVIAT\u00c1N",
-      "slug": "leviatan",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/61b8888cc3860.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "leviatan.ics"
     },
     {
       "name": "LOUD",
