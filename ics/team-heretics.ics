@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Team Heretics - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Team Heretics vs Fire Flux Esports
-DTSTART:20260809T150000Z
-DTEND:20260809T170000Z
-DTSTAMP:20260809T150000Z
-UID:vlr-729670@valo-calendar
-DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/729670/team
- -heretics-vs-fire-flux-esports-vct-2026-emea-stage-2-ubqf
+SUMMARY:Team Heretics vs Natus Vincere
+DTSTART:20260812T180000Z
+DTEND:20260812T200000Z
+DTSTAMP:20260812T180000Z
+UID:vlr-729675@valo-calendar
+DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/729675/team-heret
+ ics-vs-natus-vincere-vct-2026-emea-stage-2-lr1
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

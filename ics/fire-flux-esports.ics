@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Fire Flux Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Team Heretics vs Fire Flux Esports
-DTSTART:20260809T150000Z
-DTEND:20260809T170000Z
-DTSTAMP:20260809T150000Z
-UID:vlr-729670@valo-calendar
-DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/729670/team
- -heretics-vs-fire-flux-esports-vct-2026-emea-stage-2-ubqf
+SUMMARY:Fire Flux Esports vs TBD
+DTSTART:20260815T180000Z
+DTEND:20260815T200000Z
+DTSTAMP:20260815T180000Z
+UID:vlr-729673@valo-calendar
+DESCRIPTION:Play-Ins–Upper Semifinals\nhttps://www.vlr.gg/729673/fire-fl
+ ux-esports-vs-tbd-vct-2026-emea-stage-2-ubsf
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

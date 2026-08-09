@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Gentle Mates - Valorant Matches
 BEGIN:VEVENT
 SUMMARY:Gentle Mates vs Enterprise Esports
-DTSTART:20260809T180000Z
-DTEND:20260809T200000Z
-DTSTAMP:20260809T180000Z
+DTSTART:20260809T180500Z
+DTEND:20260809T200500Z
+DTSTAMP:20260809T180500Z
 UID:vlr-729671@valo-calendar
 DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/729671/gent
  le-mates-vs-enterprise-esports-vct-2026-emea-stage-2-ubqf

@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Natus Vincere - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TBD vs Natus Vincere
+SUMMARY:Team Heretics vs Natus Vincere
 DTSTART:20260812T180000Z
 DTEND:20260812T200000Z
 DTSTAMP:20260812T180000Z
 UID:vlr-729675@valo-calendar
-DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/729675/natus-vinc
- ere-vs-tbd-vct-2026-emea-stage-2-lr1
+DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/729675/team-heret
+ ics-vs-natus-vincere-vct-2026-emea-stage-2-lr1
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

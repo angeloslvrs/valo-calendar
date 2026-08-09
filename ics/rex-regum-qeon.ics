@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rex Regum Qeon - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Nongshim RedForce vs Rex Regum Qeon
-DTSTART:20260809T100000Z
-DTEND:20260809T120000Z
-DTSTAMP:20260809T100000Z
-UID:vlr-698915@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/698915/nongshim-redfo
- rce-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w4
+SUMMARY:Rex Regum Qeon vs Sharper Esports
+DTSTART:20260813T110000Z
+DTEND:20260813T130000Z
+DTSTAMP:20260813T110000Z
+UID:vlr-730536@valo-calendar
+DESCRIPTION:Play-Ins–Upper Round 1\nhttps://www.vlr.gg/730536/rex-regum-
+ qeon-vs-sharper-esports-vct-2026-pacific-stage-2-ur1
 LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR

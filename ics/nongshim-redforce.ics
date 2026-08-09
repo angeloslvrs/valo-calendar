@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Nongshim RedForce - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Nongshim RedForce vs Rex Regum Qeon
-DTSTART:20260809T100000Z
-DTEND:20260809T120000Z
-DTSTAMP:20260809T100000Z
-UID:vlr-698915@valo-calendar
-DESCRIPTION:Group Stage–Week 4\nhttps://www.vlr.gg/698915/nongshim-redfo
- rce-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w4
+SUMMARY:Nongshim RedForce vs TBD
+DTSTART:20260816T110000Z
+DTEND:20260816T130000Z
+DTSTAMP:20260816T110000Z
+UID:vlr-730542@valo-calendar
+DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/730542/nong
+ shim-redforce-vs-tbd-vct-2026-pacific-stage-2-ubqf
 LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR
