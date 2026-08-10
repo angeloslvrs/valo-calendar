@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eintracht Frankfurt - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TBD vs Eintracht Frankfurt
+SUMMARY:Gentle Mates vs Eintracht Frankfurt
 DTSTART:20260812T150000Z
 DTEND:20260812T170000Z
 DTSTAMP:20260812T150000Z
 UID:vlr-729674@valo-calendar
-DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/729674/eintracht-
- frankfurt-vs-tbd-vct-2026-emea-stage-2-lr1
+DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/729674/gentle-mat
+ es-vs-eintracht-frankfurt-vct-2026-emea-stage-2-lr1
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

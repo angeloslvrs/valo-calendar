@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Enterprise Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Gentle Mates vs Enterprise Esports
-DTSTART:20260809T180500Z
-DTEND:20260809T200500Z
-DTSTAMP:20260809T180500Z
-UID:vlr-729671@valo-calendar
-DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/729671/gent
- le-mates-vs-enterprise-esports-vct-2026-emea-stage-2-ubqf
+SUMMARY:Fire Flux Esports vs Enterprise Esports
+DTSTART:20260815T180000Z
+DTEND:20260815T200000Z
+DTSTAMP:20260815T180000Z
+UID:vlr-729673@valo-calendar
+DESCRIPTION:Play-Ins–Upper Semifinals\nhttps://www.vlr.gg/729673/fire-fl
+ ux-esports-vs-enterprise-esports-vct-2026-emea-stage-2-ubsf
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

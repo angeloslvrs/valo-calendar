@@ -9,6 +9,22 @@
       "ics_file": "100-thieves.ics"
     },
     {
+      "name": "2Game Esports",
+      "slug": "2game-esports",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/67725c368d524.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "2game-esports.ics"
+    },
+    {
+      "name": "BESTIA",
+      "slug": "bestia",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/69ea66a9d008c.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "bestia.ics"
+    },
+    {
       "name": "Cloud9",
       "slug": "cloud9",
       "region": "Americas",
@@ -41,6 +57,14 @@
       "ics_file": "furia.ics"
     },
     {
+      "name": "Fluxo W7M",
+      "slug": "fluxo-w7m",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/6a76a37807aad.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "fluxo-w7m.ics"
+    },
+    {
       "name": "G2 Esports",
       "slug": "g2-esports",
       "region": "Americas",
@@ -57,12 +81,28 @@
       "ics_file": "kru-esports.ics"
     },
     {
+      "name": "LEVIAT\u00c1N",
+      "slug": "leviatan",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/61b8888cc3860.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "leviatan.ics"
+    },
+    {
       "name": "LOUD",
       "slug": "loud",
       "region": "Americas",
       "logo_url": "https://owcdn.net/img/62bbec8dc1b9f.png",
       "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
       "ics_file": "loud.ics"
+    },
+    {
+      "name": "M80",
+      "slug": "m80",
+      "region": "Americas",
+      "logo_url": "https://owcdn.net/img/6945c73504452.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "ics_file": "m80.ics"
     },
     {
       "name": "MIBR",
