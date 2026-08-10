@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Titan Esports Club - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Titan Esports Club vs Dragon Ranger Gaming
-DTSTART:20260810T100000Z
-DTEND:20260810T120000Z
-DTSTAMP:20260810T100000Z
-UID:vlr-724630@valo-calendar
-DESCRIPTION:Play-Ins–Upper Semifinals\nhttps://www.vlr.gg/724630/titan-e
- sports-club-vs-dragon-ranger-gaming-vct-2026-china-stage-2-ubsf
+SUMMARY:All Gamers vs Titan Esports Club
+DTSTART:20260812T080000Z
+DTEND:20260812T100000Z
+DTSTAMP:20260812T080000Z
+UID:vlr-724633@valo-calendar
+DESCRIPTION:Play-Ins–Upper Final\nhttps://www.vlr.gg/724633/all-gamers-v
+ s-titan-esports-club-vct-2026-china-stage-2-ubf
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR

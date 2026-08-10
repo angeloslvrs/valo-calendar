@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Dragon Ranger Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Titan Esports Club vs Dragon Ranger Gaming
-DTSTART:20260810T100000Z
-DTEND:20260810T120000Z
-DTSTAMP:20260810T100000Z
-UID:vlr-724630@valo-calendar
-DESCRIPTION:Play-Ins–Upper Semifinals\nhttps://www.vlr.gg/724630/titan-e
- sports-club-vs-dragon-ranger-gaming-vct-2026-china-stage-2-ubsf
+SUMMARY:Dragon Ranger Gaming vs Trace Esports
+DTSTART:20260811T100000Z
+DTEND:20260811T120000Z
+DTSTAMP:20260811T100000Z
+UID:vlr-724632@valo-calendar
+DESCRIPTION:Play-Ins–Lower Round 3\nhttps://www.vlr.gg/724632/dragon-ran
+ ger-gaming-vs-trace-esports-vct-2026-china-stage-2-lr3
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR
