@@ -145,12 +145,12 @@
       "ics_file": "bilibili-gaming.ics"
     },
     {
-      "name": "JDG Esports",
-      "slug": "jdg-esports",
+      "name": "JD Gaming",
+      "slug": "jd-gaming",
       "region": "China",
       "logo_url": "https://owcdn.net/img/64f9825408326.png",
       "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "jdg-esports.ics"
+      "ics_file": "jd-gaming.ics"
     },
     {
       "name": "Nova Esports",
