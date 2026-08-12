@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Bilibili Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Bilibili Gaming vs TBD
-DTSTART:20260815T100000Z
-DTEND:20260815T120000Z
-DTSTAMP:20260815T100000Z
+SUMMARY:Bilibili Gaming vs Trace Esports
+DTSTART:20260815T080000Z
+DTEND:20260815T100000Z
+DTSTAMP:20260815T080000Z
 UID:vlr-724641@valo-calendar
 DESCRIPTION:Playoffs–Upper Quarterfinals\nhttps://www.vlr.gg/724641/bili
- bili-gaming-vs-tbd-vct-2026-china-stage-2-ubqf
+ bili-gaming-vs-trace-esports-vct-2026-china-stage-2-ubqf
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR

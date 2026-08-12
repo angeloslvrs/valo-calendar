@@ -201,14 +201,6 @@
       "ics_file": "bbl-esports.ics"
     },
     {
-      "name": "Eintracht Frankfurt",
-      "slug": "eintracht-frankfurt",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/659d1013d5cf5.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "eintracht-frankfurt.ics"
-    },
-    {
       "name": "Enterprise Esports",
       "slug": "enterprise-esports",
       "region": "EMEA",
@@ -255,14 +247,6 @@
       "logo_url": "https://owcdn.net/img/657b2f3fcd199.png",
       "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
       "ics_file": "giantx.ics"
-    },
-    {
-      "name": "Gentle Mates",
-      "slug": "gentle-mates",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/6670153fa9120.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "gentle-mates.ics"
     },
     {
       "name": "Joblife",

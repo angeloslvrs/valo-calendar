@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Titan Esports Club - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:All Gamers vs Titan Esports Club
-DTSTART:20260812T080000Z
-DTEND:20260812T100000Z
-DTSTAMP:20260812T080000Z
-UID:vlr-724633@valo-calendar
-DESCRIPTION:Play-Ins–Upper Final\nhttps://www.vlr.gg/724633/all-gamers-v
- s-titan-esports-club-vct-2026-china-stage-2-ubf
+SUMMARY:TYLOO vs Titan Esports Club
+DTSTART:20260814T100000Z
+DTEND:20260814T120000Z
+DTSTAMP:20260814T100000Z
+UID:vlr-724638@valo-calendar
+DESCRIPTION:Playoffs–Upper Quarterfinals\nhttps://www.vlr.gg/724638/tylo
+ o-vs-titan-esports-club-vct-2026-china-stage-2-ubqf
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR

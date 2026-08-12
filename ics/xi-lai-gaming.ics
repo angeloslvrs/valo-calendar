@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Xi Lai Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Xi Lai Gaming vs TBD
-DTSTART:20260815T080000Z
-DTEND:20260815T100000Z
-DTSTAMP:20260815T080000Z
+SUMMARY:Xi Lai Gaming vs All Gamers
+DTSTART:20260815T100000Z
+DTEND:20260815T120000Z
+DTSTAMP:20260815T100000Z
 UID:vlr-724640@valo-calendar
 DESCRIPTION:Playoffs–Upper Quarterfinals\nhttps://www.vlr.gg/724640/xi-l
- ai-gaming-vs-tbd-vct-2026-china-stage-2-ubqf
+ ai-gaming-vs-all-gamers-vct-2026-china-stage-2-ubqf
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR
