@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rex Regum Qeon - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Rex Regum Qeon vs Sharper Esports
-DTSTART:20260813T110000Z
-DTEND:20260813T130000Z
-DTSTAMP:20260813T110000Z
-UID:vlr-730536@valo-calendar
-DESCRIPTION:Play-Ins–Upper Round 1\nhttps://www.vlr.gg/730536/rex-regum-
- qeon-vs-sharper-esports-vct-2026-pacific-stage-2-ur1
+SUMMARY:TBD vs Rex Regum Qeon
+DTSTART:20260819T110000Z
+DTEND:20260819T130000Z
+DTSTAMP:20260819T110000Z
+UID:vlr-730546@valo-calendar
+DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/730546/rex-regum-
+ qeon-vs-tbd-vct-2026-pacific-stage-2-lr1
 LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR

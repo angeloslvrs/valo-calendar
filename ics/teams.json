@@ -273,14 +273,6 @@
       "ics_file": "karmine-corp.ics"
     },
     {
-      "name": "PCIFIC Esports",
-      "slug": "pcific-esports",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/656e2ae2b8a48.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "pcific-esports.ics"
-    },
-    {
       "name": "Team Heretics",
       "slug": "team-heretics",
       "region": "EMEA",
