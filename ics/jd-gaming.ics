@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:JD Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Nova Esports vs JD Gaming
-DTSTART:20260814T080000Z
-DTEND:20260814T100000Z
-DTSTAMP:20260814T080000Z
-UID:vlr-724639@valo-calendar
-DESCRIPTION:Playoffs–Upper Quarterfinals\nhttps://www.vlr.gg/724639/nova
- -esports-vs-jd-gaming-vct-2026-china-stage-2-ubqf
+SUMMARY:TYLOO vs JD Gaming
+DTSTART:20260819T080000Z
+DTEND:20260819T100000Z
+DTSTAMP:20260819T080000Z
+UID:vlr-724642@valo-calendar
+DESCRIPTION:Playoffs–Upper Semifinals\nhttps://www.vlr.gg/724642/tyloo-v
+ s-jd-gaming-vct-2026-china-stage-2-ubsf
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR

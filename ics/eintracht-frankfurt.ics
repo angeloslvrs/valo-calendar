@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eintracht Frankfurt - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Eintracht Frankfurt vs Team Heretics
-DTSTART:20260814T150000Z
-DTEND:20260814T170000Z
-DTSTAMP:20260814T150000Z
-UID:vlr-729678@valo-calendar
-DESCRIPTION:Play-Ins–Lower Round 2\nhttps://www.vlr.gg/729678/eintracht-
- frankfurt-vs-team-heretics-vct-2026-emea-stage-2-lr2
+SUMMARY:TBD vs Eintracht Frankfurt
+DTSTART:20260816T150000Z
+DTEND:20260816T170000Z
+DTSTAMP:20260816T150000Z
+UID:vlr-729681@valo-calendar
+DESCRIPTION:Play-Ins–Lower Round 3\nhttps://www.vlr.gg/729681/eintracht-
+ frankfurt-vs-tbd-vct-2026-emea-stage-2-lr3
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

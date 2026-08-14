@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Xipto Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Team Secret vs Xipto Esports
-DTSTART:20260814T110000Z
-DTEND:20260814T130000Z
-DTSTAMP:20260814T110000Z
-UID:vlr-730538@valo-calendar
-DESCRIPTION:Play-Ins–Upper Round 1\nhttps://www.vlr.gg/730538/team-secre
- t-vs-xipto-esports-vct-2026-pacific-stage-2-ur1
+SUMMARY:TBD vs Xipto Esports
+DTSTART:20260820T110000Z
+DTEND:20260820T130000Z
+DTSTAMP:20260820T110000Z
+UID:vlr-730548@valo-calendar
+DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/730548/xipto-espo
+ rts-vs-tbd-vct-2026-pacific-stage-2-lr1
 LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR

@@ -265,14 +265,6 @@
       "ics_file": "karmine-corp.ics"
     },
     {
-      "name": "Team Heretics",
-      "slug": "team-heretics",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/637b755224c12.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "team-heretics.ics"
-    },
-    {
       "name": "Team Liquid",
       "slug": "team-liquid",
       "region": "EMEA",

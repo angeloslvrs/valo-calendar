@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:TYLOO - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TYLOO vs Titan Esports Club
-DTSTART:20260814T100000Z
-DTEND:20260814T120000Z
-DTSTAMP:20260814T100000Z
-UID:vlr-724638@valo-calendar
-DESCRIPTION:Playoffs–Upper Quarterfinals\nhttps://www.vlr.gg/724638/tylo
- o-vs-titan-esports-club-vct-2026-china-stage-2-ubqf
+SUMMARY:TYLOO vs JD Gaming
+DTSTART:20260819T080000Z
+DTEND:20260819T100000Z
+DTSTAMP:20260819T080000Z
+UID:vlr-724642@valo-calendar
+DESCRIPTION:Playoffs–Upper Semifinals\nhttps://www.vlr.gg/724642/tyloo-v
+ s-jd-gaming-vct-2026-china-stage-2-ubsf
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR
