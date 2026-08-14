@@ -249,14 +249,6 @@
       "ics_file": "fire-flux-esports.ics"
     },
     {
-      "name": "GIANTX",
-      "slug": "giantx",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/657b2f3fcd199.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "giantx.ics"
-    },
-    {
       "name": "Joblife",
       "slug": "joblife",
       "region": "EMEA",

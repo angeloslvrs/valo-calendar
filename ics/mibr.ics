@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:MIBR - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:MIBR vs TBD
+SUMMARY:MIBR vs KRÜ Esports
 DTSTART:20260815T210000Z
 DTEND:20260815T230000Z
 DTSTAMP:20260815T210000Z
 UID:vlr-729746@valo-calendar
 DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/729746/mibr
- -vs-tbd-vct-2026-americas-stage-2-ubqf
+ -vs-kr-esports-vct-2026-americas-stage-2-ubqf
 LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 END:VCALENDAR

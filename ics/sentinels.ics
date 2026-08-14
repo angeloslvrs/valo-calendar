@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Sentinels - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Sentinels vs TBD
+SUMMARY:Sentinels vs ENVY
 DTSTART:20260816T000000Z
 DTEND:20260816T020000Z
 DTSTAMP:20260816T000000Z
 UID:vlr-729747@valo-calendar
 DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/729747/sent
- inels-vs-tbd-vct-2026-americas-stage-2-ubqf
+ inels-vs-envy-vct-2026-americas-stage-2-ubqf
 LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 END:VCALENDAR
