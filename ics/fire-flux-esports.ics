@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Fire Flux Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Fire Flux Esports vs Enterprise Esports
-DTSTART:20260815T180000Z
-DTEND:20260815T200000Z
-DTSTAMP:20260815T180000Z
-UID:vlr-729673@valo-calendar
-DESCRIPTION:Play-Ins–Upper Semifinals\nhttps://www.vlr.gg/729673/fire-fl
- ux-esports-vs-enterprise-esports-vct-2026-emea-stage-2-ubsf
+SUMMARY:Fire Flux Esports vs Joblife
+DTSTART:20260816T160000Z
+DTEND:20260816T180000Z
+DTSTAMP:20260816T160000Z
+UID:vlr-729682@valo-calendar
+DESCRIPTION:Play-Ins–Lower Round 3\nhttps://www.vlr.gg/729682/fire-flux-
+ esports-vs-joblife-vct-2026-emea-stage-2-lr3
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

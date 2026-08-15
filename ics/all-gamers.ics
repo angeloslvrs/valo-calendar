@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:All Gamers - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Xi Lai Gaming vs All Gamers
-DTSTART:20260815T100000Z
-DTEND:20260815T120000Z
-DTSTAMP:20260815T100000Z
-UID:vlr-724640@valo-calendar
-DESCRIPTION:Playoffs–Upper Quarterfinals\nhttps://www.vlr.gg/724640/xi-l
- ai-gaming-vs-all-gamers-vct-2026-china-stage-2-ubqf
+SUMMARY:All Gamers vs Trace Esports
+DTSTART:20260816T100000Z
+DTEND:20260816T120000Z
+DTSTAMP:20260816T100000Z
+UID:vlr-724647@valo-calendar
+DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/724647/all-gamers
+ -vs-trace-esports-vct-2026-china-stage-2-lr1
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR

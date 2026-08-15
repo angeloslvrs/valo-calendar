@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Sharper Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:DetonatioN FocusMe vs Sharper Esports
-DTSTART:20260815T110000Z
-DTEND:20260815T130000Z
-DTSTAMP:20260815T110000Z
-UID:vlr-730540@valo-calendar
-DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/730540/deto
- nation-focusme-vs-sharper-esports-vct-2026-pacific-stage-2-ubqf
+SUMMARY:KIWOOM DRX vs Sharper Esports
+DTSTART:20260821T080000Z
+DTEND:20260821T100000Z
+DTSTAMP:20260821T080000Z
+UID:vlr-730543@valo-calendar
+DESCRIPTION:Play-Ins–Upper Semifinals\nhttps://www.vlr.gg/730543/kiwoom-
+ drx-vs-sharper-esports-vct-2026-pacific-stage-2-ubsf
 LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR
