@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Cloud9 - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Cloud9 vs Fluxo W7M
-DTSTART:20260815T000000Z
-DTEND:20260815T020000Z
-DTSTAMP:20260815T000000Z
-UID:vlr-729745@valo-calendar
-DESCRIPTION:Play-Ins–Upper Round 1\nhttps://www.vlr.gg/729745/cloud9-vs-
- fluxo-w7m-vct-2026-americas-stage-2-ur1
+SUMMARY:Evil Geniuses vs Cloud9
+DTSTART:20260817T000000Z
+DTEND:20260817T020000Z
+DTSTAMP:20260817T000000Z
+UID:vlr-729749@valo-calendar
+DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/729749/evil
+ -geniuses-vs-cloud9-vct-2026-americas-stage-2-ubqf
 LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 END:VCALENDAR

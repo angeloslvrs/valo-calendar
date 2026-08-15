@@ -225,14 +225,6 @@
       "ics_file": "eternal-fire.ics"
     },
     {
-      "name": "FNATIC",
-      "slug": "fnatic",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/62a40cc2b5e29.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "fnatic.ics"
-    },
-    {
       "name": "FUT Esports",
       "slug": "fut-esports",
       "region": "EMEA",
