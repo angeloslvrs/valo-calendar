@@ -217,14 +217,6 @@
       "ics_file": "eternal-fire.ics"
     },
     {
-      "name": "FUT Esports",
-      "slug": "fut-esports",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/632be9976b8fe.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "fut-esports.ics"
-    },
-    {
       "name": "Fire Flux Esports",
       "slug": "fire-flux-esports",
       "region": "EMEA",

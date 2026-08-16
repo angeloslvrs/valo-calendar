@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:KRÜ Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:MIBR vs KRÜ Esports
-DTSTART:20260815T210000Z
-DTEND:20260815T230000Z
-DTSTAMP:20260815T210000Z
-UID:vlr-729746@valo-calendar
-DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/729746/mibr
- -vs-kr-esports-vct-2026-americas-stage-2-ubqf
+SUMMARY:KRÜ Esports vs Fluxo W7M
+DTSTART:20260821T000000Z
+DTEND:20260821T020000Z
+DTSTAMP:20260821T000000Z
+UID:vlr-729755@valo-calendar
+DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/729755/kr-esports
+ -vs-fluxo-w7m-vct-2026-americas-stage-2-lr1
 LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 END:VCALENDAR
