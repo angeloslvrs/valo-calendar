@@ -169,22 +169,6 @@
       "ics_file": "tyloo.ics"
     },
     {
-      "name": "Titan Esports Club",
-      "slug": "titan-esports-club",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/65487414b8562.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "titan-esports-club.ics"
-    },
-    {
-      "name": "Trace Esports",
-      "slug": "trace-esports",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/6433a2cc3ae72.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "trace-esports.ics"
-    },
-    {
       "name": "Xi Lai Gaming",
       "slug": "xi-lai-gaming",
       "region": "China",
@@ -199,38 +183,6 @@
       "logo_url": "https://owcdn.net/img/65b8ccef5e273.png",
       "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
       "ics_file": "bbl-esports.ics"
-    },
-    {
-      "name": "Eintracht Frankfurt",
-      "slug": "eintracht-frankfurt",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/659d1013d5cf5.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "eintracht-frankfurt.ics"
-    },
-    {
-      "name": "Eternal Fire",
-      "slug": "eternal-fire",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/6628980dcdaea.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "eternal-fire.ics"
-    },
-    {
-      "name": "Fire Flux Esports",
-      "slug": "fire-flux-esports",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/68e6e1bcca45d.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "fire-flux-esports.ics"
-    },
-    {
-      "name": "Joblife",
-      "slug": "joblife",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/63a944e6cbe49.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "joblife.ics"
     },
     {
       "name": "Karmine Corp",

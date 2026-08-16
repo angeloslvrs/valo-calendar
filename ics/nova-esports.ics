@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Nova Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Titan Esports Club vs Nova Esports
-DTSTART:20260816T080000Z
-DTEND:20260816T100000Z
-DTSTAMP:20260816T080000Z
-UID:vlr-724646@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/724646/titan-espo
- rts-club-vs-nova-esports-vct-2026-china-stage-2-lr1
+SUMMARY:TBD vs Nova Esports
+DTSTART:20260820T080000Z
+DTEND:20260820T100000Z
+DTSTAMP:20260820T080000Z
+UID:vlr-724648@valo-calendar
+DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/724648/nova-espor
+ ts-vs-tbd-vct-2026-china-stage-2-lr2
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR

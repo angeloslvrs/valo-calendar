@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:ONSIDE GAMING - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TBD vs ONSIDE GAMING
+SUMMARY:Team Secret vs ONSIDE GAMING
 DTSTART:20260819T080000Z
 DTEND:20260819T100000Z
 DTSTAMP:20260819T080000Z
 UID:vlr-730545@valo-calendar
-DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/730545/onside-gam
- ing-vs-tbd-vct-2026-pacific-stage-2-lr1
+DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/730545/team-secre
+ t-vs-onside-gaming-vct-2026-pacific-stage-2-lr1
 LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR
