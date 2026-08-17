@@ -185,6 +185,38 @@
       "ics_file": "bbl-esports.ics"
     },
     {
+      "name": "Eintracht Frankfurt",
+      "slug": "eintracht-frankfurt",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/659d1013d5cf5.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "eintracht-frankfurt.ics"
+    },
+    {
+      "name": "Enterprise Esports",
+      "slug": "enterprise-esports",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/68643d0b1c72b.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "enterprise-esports.ics"
+    },
+    {
+      "name": "FUT Esports",
+      "slug": "fut-esports",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/632be9976b8fe.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "fut-esports.ics"
+    },
+    {
+      "name": "Fire Flux Esports",
+      "slug": "fire-flux-esports",
+      "region": "EMEA",
+      "logo_url": "https://owcdn.net/img/68e6e1bcca45d.png",
+      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
+      "ics_file": "fire-flux-esports.ics"
+    },
+    {
       "name": "Karmine Corp",
       "slug": "karmine-corp",
       "region": "EMEA",

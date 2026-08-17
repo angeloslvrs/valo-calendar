@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:FURIA - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:G2 Esports vs FURIA
-DTSTART:20260816T210000Z
-DTEND:20260816T230000Z
-DTSTAMP:20260816T210000Z
-UID:vlr-729748@valo-calendar
-DESCRIPTION:Play-Ins–Upper Quarterfinals\nhttps://www.vlr.gg/729748/g2-e
- sports-vs-furia-vct-2026-americas-stage-2-ubqf
+SUMMARY:FURIA vs Evil Geniuses
+DTSTART:20260822T000000Z
+DTEND:20260822T020000Z
+DTSTAMP:20260822T000000Z
+UID:vlr-729751@valo-calendar
+DESCRIPTION:Play-Ins–Upper Semifinals\nhttps://www.vlr.gg/729751/furia-v
+ s-evil-geniuses-vct-2026-americas-stage-2-ubsf
 LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 END:VCALENDAR

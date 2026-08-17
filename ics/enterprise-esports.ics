@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ValoCalendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Team Vitality - Valorant Matches
+X-WR-CALNAME:Enterprise Esports - Valorant Matches
 BEGIN:VEVENT
 SUMMARY:Team Vitality vs Enterprise Esports
 DTSTART:20260820T180000Z
