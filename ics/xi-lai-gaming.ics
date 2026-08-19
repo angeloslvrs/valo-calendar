@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Xi Lai Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Xi Lai Gaming vs Bilibili Gaming
-DTSTART:20260819T100000Z
-DTEND:20260819T120000Z
-DTSTAMP:20260819T100000Z
-UID:vlr-724643@valo-calendar
-DESCRIPTION:Playoffs–Upper Semifinals\nhttps://www.vlr.gg/724643/xi-lai-
- gaming-vs-bilibili-gaming-vct-2026-china-stage-2-ubsf
+SUMMARY:Xi Lai Gaming vs Nova Esports
+DTSTART:20260820T080000Z
+DTEND:20260820T100000Z
+DTSTAMP:20260820T080000Z
+UID:vlr-724648@valo-calendar
+DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/724648/xi-lai-gam
+ ing-vs-nova-esports-vct-2026-china-stage-2-lr2
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR

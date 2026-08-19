@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:JD Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TYLOO vs JD Gaming
-DTSTART:20260819T080000Z
-DTEND:20260819T100000Z
-DTSTAMP:20260819T080000Z
-UID:vlr-724642@valo-calendar
-DESCRIPTION:Playoffs–Upper Semifinals\nhttps://www.vlr.gg/724642/tyloo-v
- s-jd-gaming-vct-2026-china-stage-2-ubsf
+SUMMARY:JD Gaming vs Bilibili Gaming
+DTSTART:20260821T080000Z
+DTEND:20260821T100000Z
+DTSTAMP:20260821T080000Z
+UID:vlr-724644@valo-calendar
+DESCRIPTION:Playoffs–Upper Final\nhttps://www.vlr.gg/724644/jd-gaming-vs
+ -bilibili-gaming-vct-2026-china-stage-2-ubf
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR
