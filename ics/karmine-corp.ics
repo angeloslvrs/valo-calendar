@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Karmine Corp - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Karmine Corp vs TBD
+SUMMARY:Karmine Corp vs Enterprise Esports
 DTSTART:20260821T150000Z
 DTEND:20260821T170000Z
 DTSTAMP:20260821T150000Z
 UID:vlr-731399@valo-calendar
 DESCRIPTION:Playoffs–Upper Semifinals\nhttps://www.vlr.gg/731399/karmine
- -corp-vs-tbd-vct-2026-emea-stage-2-ubsf
+ -corp-vs-enterprise-esports-vct-2026-emea-stage-2-ubsf
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

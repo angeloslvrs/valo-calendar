@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Nova Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Xi Lai Gaming vs Nova Esports
-DTSTART:20260820T080000Z
-DTEND:20260820T100000Z
-DTSTAMP:20260820T080000Z
-UID:vlr-724648@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/724648/xi-lai-gam
- ing-vs-nova-esports-vct-2026-china-stage-2-lr2
+SUMMARY:Nova Esports vs TYLOO
+DTSTART:20260821T100000Z
+DTEND:20260821T120000Z
+DTSTAMP:20260821T100000Z
+UID:vlr-724650@valo-calendar
+DESCRIPTION:Playoffs–Lower Round 3\nhttps://www.vlr.gg/724650/nova-espor
+ ts-vs-tyloo-vct-2026-china-stage-2-lr3
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR

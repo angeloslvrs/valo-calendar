@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Fire Flux Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TBD vs Fire Flux Esports
+SUMMARY:Team Vitality vs Fire Flux Esports
 DTSTART:20260822T170000Z
 DTEND:20260822T190000Z
 DTSTAMP:20260822T170000Z
 UID:vlr-731403@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/731403/fire-flux-
- esports-vs-tbd-vct-2026-emea-stage-2-lr1
+DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/731403/team-vital
+ ity-vs-fire-flux-esports-vct-2026-emea-stage-2-lr1
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR
