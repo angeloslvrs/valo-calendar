@@ -25,14 +25,6 @@
       "ics_file": "bestia.ics"
     },
     {
-      "name": "Cloud9",
-      "slug": "cloud9",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/628addcbd509e.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "cloud9.ics"
-    },
-    {
       "name": "ENVY",
       "slug": "envy",
       "region": "Americas",
@@ -95,14 +87,6 @@
       "logo_url": "https://owcdn.net/img/62bbec8dc1b9f.png",
       "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
       "ics_file": "loud.ics"
-    },
-    {
-      "name": "M80",
-      "slug": "m80",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/6945c73504452.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "m80.ics"
     },
     {
       "name": "MIBR",
