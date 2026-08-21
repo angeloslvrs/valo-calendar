@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Sentinels - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Sentinels vs 2Game Esports
-DTSTART:20260820T210000Z
-DTEND:20260820T230000Z
-DTSTAMP:20260820T210000Z
-UID:vlr-729754@valo-calendar
-DESCRIPTION:Play-Ins–Lower Round 1\nhttps://www.vlr.gg/729754/sentinels-
- vs-2game-esports-vct-2026-americas-stage-2-lr1
+SUMMARY:Sentinels vs KRÜ Esports
+DTSTART:20260823T000000Z
+DTEND:20260823T020000Z
+DTSTAMP:20260823T000000Z
+UID:vlr-729757@valo-calendar
+DESCRIPTION:Play-Ins–Lower Round 2\nhttps://www.vlr.gg/729757/sentinels-
+ vs-kr-esports-vct-2026-americas-stage-2-lr2
 LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 END:VCALENDAR
