@@ -113,14 +113,6 @@
       "ics_file": "jd-gaming.ics"
     },
     {
-      "name": "Nova Esports",
-      "slug": "nova-esports",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/6404c0174250b.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "nova-esports.ics"
-    },
-    {
       "name": "TYLOO",
       "slug": "tyloo",
       "region": "China",
@@ -207,22 +199,6 @@
       "logo_url": "https://owcdn.net/img/6537a7954d915.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "full-sense.ics"
-    },
-    {
-      "name": "KIWOOM DRX",
-      "slug": "kiwoom-drx",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/6a353ee73ab25.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "kiwoom-drx.ics"
-    },
-    {
-      "name": "Nongshim RedForce",
-      "slug": "nongshim-redforce",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/6399bb707aacb.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "nongshim-redforce.ics"
     },
     {
       "name": "ONSIDE GAMING",

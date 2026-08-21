@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:TYLOO - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Nova Esports vs TYLOO
-DTSTART:20260821T100000Z
-DTEND:20260821T120000Z
-DTSTAMP:20260821T100000Z
-UID:vlr-724650@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 3\nhttps://www.vlr.gg/724650/nova-espor
- ts-vs-tyloo-vct-2026-china-stage-2-lr3
+SUMMARY:Bilibili Gaming vs TYLOO
+DTSTART:20260822T080000Z
+DTEND:20260822T100000Z
+DTSTAMP:20260822T080000Z
+UID:vlr-724651@valo-calendar
+DESCRIPTION:Playoffs–Lower Final\nhttps://www.vlr.gg/724651/bilibili-gam
+ ing-vs-tyloo-vct-2026-china-stage-2-lbf
 LOCATION:VCT 2026: China Stage 2
 END:VEVENT
 END:VCALENDAR
