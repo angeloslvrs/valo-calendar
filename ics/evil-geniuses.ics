@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Evil Geniuses - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:FURIA vs Evil Geniuses
-DTSTART:20260822T000000Z
-DTEND:20260822T020000Z
-DTSTAMP:20260822T000000Z
-UID:vlr-729751@valo-calendar
-DESCRIPTION:Play-Ins–Upper Semifinals\nhttps://www.vlr.gg/729751/furia-v
- s-evil-geniuses-vct-2026-americas-stage-2-ubsf
+SUMMARY:Evil Geniuses vs TBD
+DTSTART:20260824T000000Z
+DTEND:20260824T020000Z
+DTSTAMP:20260824T000000Z
+UID:vlr-729759@valo-calendar
+DESCRIPTION:Play-Ins–Lower Round 3\nhttps://www.vlr.gg/729759/evil-geniu
+ ses-vs-tbd-vct-2026-americas-stage-2-lr3
 LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 END:VCALENDAR

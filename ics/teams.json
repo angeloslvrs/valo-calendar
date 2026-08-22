@@ -33,14 +33,6 @@
       "ics_file": "evil-geniuses.ics"
     },
     {
-      "name": "FURIA",
-      "slug": "furia",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/632be843b7d51.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "furia.ics"
-    },
-    {
       "name": "G2 Esports",
       "slug": "g2-esports",
       "region": "Americas",
@@ -71,14 +63,6 @@
       "logo_url": "https://owcdn.net/img/62bbec8dc1b9f.png",
       "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
       "ics_file": "loud.ics"
-    },
-    {
-      "name": "MIBR",
-      "slug": "mibr",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/632be7626d6d9.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "mibr.ics"
     },
     {
       "name": "NRG",
