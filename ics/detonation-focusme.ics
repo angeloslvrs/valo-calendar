@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DetonatioN FocusMe - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:DetonatioN FocusMe vs ZETA DIVISION
-DTSTART:20260822T110000Z
-DTEND:20260822T130000Z
-DTSTAMP:20260822T110000Z
-UID:vlr-730550@valo-calendar
-DESCRIPTION:Play-Ins–Lower Round 2\nhttps://www.vlr.gg/730550/detonation
- -focusme-vs-zeta-division-vct-2026-pacific-stage-2-lr2
+SUMMARY:T1 vs DetonatioN FocusMe
+DTSTART:20260823T110000Z
+DTEND:20260823T130000Z
+DTSTAMP:20260823T110000Z
+UID:vlr-730552@valo-calendar
+DESCRIPTION:Play-Ins–Lower Round 3\nhttps://www.vlr.gg/730552/t1-vs-deto
+ nation-focusme-vct-2026-pacific-stage-2-lr3
 LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR

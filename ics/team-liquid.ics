@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Team Liquid - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Team Liquid vs Eintracht Frankfurt
-DTSTART:20260822T140000Z
-DTEND:20260822T160000Z
-DTSTAMP:20260822T140000Z
-UID:vlr-731402@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/731402/team-liqui
- d-vs-eintracht-frankfurt-vct-2026-emea-stage-2-lr1
+SUMMARY:Enterprise Esports vs Team Liquid
+DTSTART:20260823T140000Z
+DTEND:20260823T160000Z
+DTSTAMP:20260823T140000Z
+UID:vlr-731404@valo-calendar
+DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/731404/enterprise
+ -esports-vs-team-liquid-vct-2026-emea-stage-2-lr2
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

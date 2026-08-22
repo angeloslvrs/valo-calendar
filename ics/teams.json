@@ -81,14 +81,6 @@
       "ics_file": "sentinels.ics"
     },
     {
-      "name": "Bilibili Gaming",
-      "slug": "bilibili-gaming",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/63f25d72216c1.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "bilibili-gaming.ics"
-    },
-    {
       "name": "JD Gaming",
       "slug": "jd-gaming",
       "region": "China",
@@ -111,14 +103,6 @@
       "logo_url": "https://owcdn.net/img/65b8ccef5e273.png",
       "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
       "ics_file": "bbl-esports.ics"
-    },
-    {
-      "name": "Eintracht Frankfurt",
-      "slug": "eintracht-frankfurt",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/659d1013d5cf5.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "eintracht-frankfurt.ics"
     },
     {
       "name": "Enterprise Esports",
@@ -177,14 +161,6 @@
       "ics_file": "detonation-focusme.ics"
     },
     {
-      "name": "FULL SENSE",
-      "slug": "full-sense",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/6537a7954d915.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "full-sense.ics"
-    },
-    {
       "name": "ONSIDE GAMING",
       "slug": "onside-gaming",
       "region": "Pacific",
@@ -207,14 +183,6 @@
       "logo_url": "https://owcdn.net/img/62fe0b8f6b084.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "t1.ics"
-    },
-    {
-      "name": "ZETA DIVISION",
-      "slug": "zeta-division",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/62a411783d94d.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "zeta-division.ics"
     }
   ]
 }
