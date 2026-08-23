@@ -65,38 +65,6 @@
       "ics_file": "nrg.ics"
     },
     {
-      "name": "JD Gaming",
-      "slug": "jd-gaming",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/64f9825408326.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "jd-gaming.ics"
-    },
-    {
-      "name": "TYLOO",
-      "slug": "tyloo",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/63eb60fb08390.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "tyloo.ics"
-    },
-    {
-      "name": "BBL Esports",
-      "slug": "bbl-esports",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/65b8ccef5e273.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "bbl-esports.ics"
-    },
-    {
-      "name": "Enterprise Esports",
-      "slug": "enterprise-esports",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/68643d0b1c72b.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "enterprise-esports.ics"
-    },
-    {
       "name": "FUT Esports",
       "slug": "fut-esports",
       "region": "EMEA",
@@ -129,14 +97,6 @@
       "ics_file": "team-liquid.ics"
     },
     {
-      "name": "DetonatioN FocusMe",
-      "slug": "detonation-focusme",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/63972e548cdc9.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "detonation-focusme.ics"
-    },
-    {
       "name": "Gen.G",
       "slug": "geng",
       "region": "Pacific",
@@ -153,6 +113,22 @@
       "ics_file": "global-esports.ics"
     },
     {
+      "name": "KIWOOM DRX",
+      "slug": "kiwoom-drx",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/6a353ee73ab25.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "kiwoom-drx.ics"
+    },
+    {
+      "name": "Nongshim RedForce",
+      "slug": "nongshim-redforce",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/6399bb707aacb.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "nongshim-redforce.ics"
+    },
+    {
       "name": "ONSIDE GAMING",
       "slug": "onside-gaming",
       "region": "Pacific",
@@ -167,14 +143,6 @@
       "logo_url": "https://owcdn.net/img/62bbeba74d5cb.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "paper-rex.ics"
-    },
-    {
-      "name": "Sharper Esports",
-      "slug": "sharper-esports",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/698dc40a29cda.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "sharper-esports.ics"
     },
     {
       "name": "T1",
