@@ -9,14 +9,6 @@
       "ics_file": "100-thieves.ics"
     },
     {
-      "name": "BESTIA",
-      "slug": "bestia",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/69ea66a9d008c.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "bestia.ics"
-    },
-    {
       "name": "ENVY",
       "slug": "envy",
       "region": "Americas",
@@ -71,14 +63,6 @@
       "logo_url": "https://owcdn.net/img/6610f026c1a9e.png",
       "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
       "ics_file": "nrg.ics"
-    },
-    {
-      "name": "Sentinels",
-      "slug": "sentinels",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/62875027c8e06.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "sentinels.ics"
     },
     {
       "name": "JD Gaming",
@@ -145,14 +129,6 @@
       "ics_file": "team-liquid.ics"
     },
     {
-      "name": "Team Vitality",
-      "slug": "team-vitality",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/6466d79e1ed40.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "team-vitality.ics"
-    },
-    {
       "name": "DetonatioN FocusMe",
       "slug": "detonation-focusme",
       "region": "Pacific",
@@ -161,12 +137,36 @@
       "ics_file": "detonation-focusme.ics"
     },
     {
+      "name": "Gen.G",
+      "slug": "geng",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/6970c986eddc6.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "geng.ics"
+    },
+    {
+      "name": "Global Esports",
+      "slug": "global-esports",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/629f316ddd4dd.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "global-esports.ics"
+    },
+    {
       "name": "ONSIDE GAMING",
       "slug": "onside-gaming",
       "region": "Pacific",
       "logo_url": "https://owcdn.net/img/6863ccdfabea7.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "onside-gaming.ics"
+    },
+    {
+      "name": "Paper Rex",
+      "slug": "paper-rex",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/62bbeba74d5cb.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "paper-rex.ics"
     },
     {
       "name": "Sharper Esports",
@@ -183,6 +183,14 @@
       "logo_url": "https://owcdn.net/img/62fe0b8f6b084.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "t1.ics"
+    },
+    {
+      "name": "VARREL",
+      "slug": "varrel",
+      "region": "Pacific",
+      "logo_url": "https://owcdn.net/img/63a74624cc76a.png",
+      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
+      "ics_file": "varrel.ics"
     }
   ]
 }

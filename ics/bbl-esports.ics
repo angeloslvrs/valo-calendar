@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:BBL Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:BBL Esports vs TBD
+SUMMARY:BBL Esports vs Fire Flux Esports
 DTSTART:20260823T170000Z
 DTEND:20260823T190000Z
 DTSTAMP:20260823T170000Z
 UID:vlr-731406@valo-calendar
 DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/731406/bbl-esport
- s-vs-tbd-vct-2026-emea-stage-2-lr2
+ s-vs-fire-flux-esports-vct-2026-emea-stage-2-lr2
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR
