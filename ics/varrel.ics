@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:VARREL - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:VARREL vs TBD
+SUMMARY:VARREL vs Global Esports
 DTSTART:20260827T110000Z
 DTEND:20260827T130000Z
 DTSTAMP:20260827T110000Z
 UID:vlr-742479@valo-calendar
 DESCRIPTION:Playoffs–Upper Semifinals\nhttps://www.vlr.gg/742479/varrel-
- vs-tbd-vct-2026-pacific-stage-2-ubsf
+ vs-global-esports-vct-2026-pacific-stage-2-ubsf
 LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR
