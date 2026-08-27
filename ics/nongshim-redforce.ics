@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Nongshim RedForce - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Gen.G vs Nongshim RedForce
-DTSTART:20260827T080000Z
-DTEND:20260827T100000Z
-DTSTAMP:20260827T080000Z
-UID:vlr-742478@valo-calendar
-DESCRIPTION:Playoffs–Upper Semifinals\nhttps://www.vlr.gg/742478/gen-g-v
- s-nongshim-redforce-vct-2026-pacific-stage-2-ubsf
+SUMMARY:Nongshim RedForce vs Global Esports
+DTSTART:20260904T080000Z
+DTEND:20260904T100000Z
+DTSTAMP:20260904T080000Z
+UID:vlr-742480@valo-calendar
+DESCRIPTION:Playoffs–Upper Final\nhttps://www.vlr.gg/742480/nongshim-red
+ force-vs-global-esports-vct-2026-pacific-stage-2-ubf
 LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR
