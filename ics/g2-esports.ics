@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:G2 Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TBD vs G2 Esports
+SUMMARY:FURIA vs G2 Esports
 DTSTART:20260829T210000Z
 DTEND:20260829T230000Z
 DTSTAMP:20260829T210000Z
 UID:vlr-734309@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/734309/g2-esports
- -vs-tbd-vct-2026-americas-stage-2-lr1
+DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/734309/furia-vs-g
+ 2-esports-vct-2026-americas-stage-2-lr1
 LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 END:VCALENDAR

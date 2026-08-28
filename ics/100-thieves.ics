@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:100 Thieves - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:100 Thieves vs TBD
+SUMMARY:100 Thieves vs LEVIATÁN
 DTSTART:20260829T000000Z
 DTEND:20260829T020000Z
 DTSTAMP:20260829T000000Z
 UID:vlr-734305@valo-calendar
 DESCRIPTION:Playoffs–Upper Semifinals\nhttps://www.vlr.gg/734305/100-thi
- eves-vs-tbd-vct-2026-americas-stage-2-ubsf
+ eves-vs-leviat-n-vct-2026-americas-stage-2-ubsf
 LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 END:VCALENDAR
