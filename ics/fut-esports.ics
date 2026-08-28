@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:FUT Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:FUT Esports vs Karmine Corp
-DTSTART:20260828T140000Z
-DTEND:20260828T160000Z
-DTSTAMP:20260828T140000Z
-UID:vlr-731400@valo-calendar
-DESCRIPTION:Playoffs–Upper Final\nhttps://www.vlr.gg/731400/fut-esports-
- vs-karmine-corp-vct-2026-emea-stage-2-ubf
+SUMMARY:FUT Esports vs TBD
+DTSTART:20260829T150000Z
+DTEND:20260829T170000Z
+DTSTAMP:20260829T150000Z
+UID:vlr-731408@valo-calendar
+DESCRIPTION:Playoffs–Lower Final\nhttps://www.vlr.gg/731408/fut-esports-
+ vs-tbd-vct-2026-emea-stage-2-lbf
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

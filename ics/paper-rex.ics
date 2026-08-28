@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Paper Rex - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Paper Rex vs ONSIDE GAMING
-DTSTART:20260828T080000Z
-DTEND:20260828T100000Z
-DTSTAMP:20260828T080000Z
-UID:vlr-742482@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/742482/paper-rex-
- vs-onside-gaming-vct-2026-pacific-stage-2-lr1
+SUMMARY:VARREL vs Paper Rex
+DTSTART:20260829T080000Z
+DTEND:20260829T100000Z
+DTSTAMP:20260829T080000Z
+UID:vlr-742484@valo-calendar
+DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/742484/varrel-vs-
+ paper-rex-vct-2026-pacific-stage-2-lr2
 LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR
