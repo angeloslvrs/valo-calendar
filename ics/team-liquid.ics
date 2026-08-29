@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Team Liquid - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Team Liquid vs Fire Flux Esports
-DTSTART:20260828T163000Z
-DTEND:20260828T183000Z
-DTSTAMP:20260828T163000Z
-UID:vlr-731407@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 3\nhttps://www.vlr.gg/731407/team-liqui
- d-vs-fire-flux-esports-vct-2026-emea-stage-2-lr3
+SUMMARY:FUT Esports vs Team Liquid
+DTSTART:20260829T150000Z
+DTEND:20260829T170000Z
+DTSTAMP:20260829T150000Z
+UID:vlr-731408@valo-calendar
+DESCRIPTION:Playoffs–Lower Final\nhttps://www.vlr.gg/731408/fut-esports-
+ vs-team-liquid-vct-2026-emea-stage-2-lbf
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR

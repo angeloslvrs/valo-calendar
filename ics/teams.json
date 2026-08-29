@@ -73,14 +73,6 @@
       "ics_file": "fut-esports.ics"
     },
     {
-      "name": "Fire Flux Esports",
-      "slug": "fire-flux-esports",
-      "region": "EMEA",
-      "logo_url": "https://owcdn.net/img/68e6e1bcca45d.png",
-      "region_logo_url": "https://owcdn.net/img/640f5acfb8dcb.png",
-      "ics_file": "fire-flux-esports.ics"
-    },
-    {
       "name": "Karmine Corp",
       "slug": "karmine-corp",
       "region": "EMEA",
@@ -121,28 +113,12 @@
       "ics_file": "nongshim-redforce.ics"
     },
     {
-      "name": "Paper Rex",
-      "slug": "paper-rex",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/62bbeba74d5cb.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "paper-rex.ics"
-    },
-    {
       "name": "T1",
       "slug": "t1",
       "region": "Pacific",
       "logo_url": "https://owcdn.net/img/62fe0b8f6b084.png",
       "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
       "ics_file": "t1.ics"
-    },
-    {
-      "name": "VARREL",
-      "slug": "varrel",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/63a74624cc76a.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "varrel.ics"
     }
   ]
 }
