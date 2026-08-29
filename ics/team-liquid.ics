@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Team Liquid - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:FUT Esports vs Team Liquid
-DTSTART:20260829T150000Z
-DTEND:20260829T170000Z
-DTSTAMP:20260829T150000Z
-UID:vlr-731408@valo-calendar
-DESCRIPTION:Playoffs–Lower Final\nhttps://www.vlr.gg/731408/fut-esports-
- vs-team-liquid-vct-2026-emea-stage-2-lbf
+SUMMARY:Karmine Corp vs Team Liquid
+DTSTART:20260830T150000Z
+DTEND:20260830T170000Z
+DTSTAMP:20260830T150000Z
+UID:vlr-731401@valo-calendar
+DESCRIPTION:Playoffs–Grand Final\nhttps://www.vlr.gg/731401/karmine-corp
+ -vs-team-liquid-vct-2026-emea-stage-2-gf
 LOCATION:VCT 2026: EMEA Stage 2
 END:VEVENT
 END:VCALENDAR
