@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Global Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Global Esports vs TBD
+SUMMARY:Global Esports vs T1
 DTSTART:20260905T080000Z
 DTEND:20260905T100000Z
 DTSTAMP:20260905T080000Z
 UID:vlr-742487@valo-calendar
 DESCRIPTION:Playoffs–Lower Final\nhttps://www.vlr.gg/742487/global-espor
- ts-vs-tbd-vct-2026-pacific-stage-2-lbf
+ ts-vs-t1-vct-2026-pacific-stage-2-lbf
 LOCATION:VCT 2026: Pacific Stage 2
 END:VEVENT
 END:VCALENDAR
