@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:100 Thieves - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:100 Thieves vs TBD
+SUMMARY:100 Thieves vs LOUD
 DTSTART:20260906T170000Z
 DTEND:20260906T190000Z
 DTSTAMP:20260906T170000Z
 UID:vlr-734308@valo-calendar
 DESCRIPTION:Playoffs–Grand Final\nhttps://www.vlr.gg/734308/100-thieves-
- vs-tbd-vct-2026-americas-stage-2-gf
+ vs-loud-vct-2026-americas-stage-2-gf
 LOCATION:VCT 2026: Americas Stage 2
 END:VEVENT
 END:VCALENDAR

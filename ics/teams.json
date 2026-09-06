@@ -17,14 +17,6 @@
       "ics_file": "loud.ics"
     },
     {
-      "name": "NRG",
-      "slug": "nrg",
-      "region": "Americas",
-      "logo_url": "https://owcdn.net/img/6610f026c1a9e.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
-      "ics_file": "nrg.ics"
-    },
-    {
       "name": "Global Esports",
       "slug": "global-esports",
       "region": "Pacific",
