@@ -15,22 +15,6 @@
       "logo_url": "https://owcdn.net/img/62bbec8dc1b9f.png",
       "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
       "ics_file": "loud.ics"
-    },
-    {
-      "name": "Global Esports",
-      "slug": "global-esports",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/629f316ddd4dd.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "global-esports.ics"
-    },
-    {
-      "name": "Nongshim RedForce",
-      "slug": "nongshim-redforce",
-      "region": "Pacific",
-      "logo_url": "https://owcdn.net/img/6399bb707aacb.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ae002674.png",
-      "ics_file": "nongshim-redforce.ics"
     }
   ]
 }
