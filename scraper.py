@@ -227,8 +227,8 @@ def filter_by_teams(matches: list[Match], teams: list[str]) -> dict[str, list[Ma
 
 
 def is_vct_match(event: str) -> bool:
-    """Return True if the event name looks like a VCT 2026 league match."""
-    return bool(re.search(r"VCT\s+2026", event, re.IGNORECASE))
+    """Recognize VCT leagues, Masters, and the separately named Champions event."""
+    return bool(re.search(r"\b(?:VCT|Valorant\s+Champions)\s+2026\b", event, re.IGNORECASE))
 
 
 def extract_region(event: str) -> str:

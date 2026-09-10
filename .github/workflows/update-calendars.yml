@@ -23,17 +23,30 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Run regression tests
+        run: python -m unittest -v
+
       - name: Generate ICS files
         run: python main.py
 
       - name: Prepare publish directory
+        id: publish
         run: |
+          shopt -s nullglob
+          calendars=(ics/*.ics)
+          if (( ${#calendars[@]} == 0 )); then
+            echo "::warning::No calendars generated; preserving the existing GitHub Pages deployment."
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           mkdir -p public/ics
           cp index.html public/
-          cp ics/*.ics public/ics/
+          cp "${calendars[@]}" public/ics/
           cp ics/teams.json public/ics/
+          echo "ready=true" >> "$GITHUB_OUTPUT"
 
       - name: Deploy to GitHub Pages
+        if: steps.publish.outputs.ready == 'true'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
