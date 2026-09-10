@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Karmine Corp - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:Karmine Corp vs Xi Lai Gaming
+DTSTART:20260925T120000Z
+DTEND:20260925T140000Z
+DTSTAMP:20260925T120000Z
+UID:vlr-753459@valo-calendar
+DESCRIPTION:Group Stage–Opening (D)\nhttps://www.vlr.gg/753459/karmine-c
+ orp-vs-xi-lai-gaming-valorant-champions-2026-opening-d
+LOCATION:Valorant Champions 2026
+END:VEVENT
+END:VCALENDAR

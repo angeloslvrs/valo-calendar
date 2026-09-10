@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team Vitality - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:Global Esports vs Team Vitality
+DTSTART:20260926T090000Z
+DTEND:20260926T110000Z
+DTSTAMP:20260926T090000Z
+UID:vlr-753449@valo-calendar
+DESCRIPTION:Group Stage–Opening (B)\nhttps://www.vlr.gg/753449/global-es
+ ports-vs-team-vitality-valorant-champions-2026-opening-b
+LOCATION:Valorant Champions 2026
+END:VEVENT
+END:VCALENDAR

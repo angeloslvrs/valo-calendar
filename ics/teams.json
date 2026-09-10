@@ -3,18 +3,130 @@
     {
       "name": "100 Thieves",
       "slug": "100-thieves",
-      "region": "Americas",
+      "region": "International",
       "logo_url": "https://owcdn.net/img/603c00d5c5a08.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "region_logo_url": "",
       "ics_file": "100-thieves.ics"
+    },
+    {
+      "name": "EDward Gaming",
+      "slug": "edward-gaming",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/62c82049253b2.png",
+      "region_logo_url": "",
+      "ics_file": "edward-gaming.ics"
+    },
+    {
+      "name": "FUT Esports",
+      "slug": "fut-esports",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/632be9976b8fe.png",
+      "region_logo_url": "",
+      "ics_file": "fut-esports.ics"
+    },
+    {
+      "name": "G2 Esports",
+      "slug": "g2-esports",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/633822848a741.png",
+      "region_logo_url": "",
+      "ics_file": "g2-esports.ics"
+    },
+    {
+      "name": "Global Esports",
+      "slug": "global-esports",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/629f316ddd4dd.png",
+      "region_logo_url": "",
+      "ics_file": "global-esports.ics"
+    },
+    {
+      "name": "JD Gaming",
+      "slug": "jd-gaming",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/64f9825408326.png",
+      "region_logo_url": "",
+      "ics_file": "jd-gaming.ics"
+    },
+    {
+      "name": "Karmine Corp",
+      "slug": "karmine-corp",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/627403a0d9e48.png",
+      "region_logo_url": "",
+      "ics_file": "karmine-corp.ics"
     },
     {
       "name": "LOUD",
       "slug": "loud",
-      "region": "Americas",
+      "region": "International",
       "logo_url": "https://owcdn.net/img/62bbec8dc1b9f.png",
-      "region_logo_url": "https://owcdn.net/img/640f5ab71dfbb.png",
+      "region_logo_url": "",
       "ics_file": "loud.ics"
+    },
+    {
+      "name": "NRG",
+      "slug": "nrg",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/6610f026c1a9e.png",
+      "region_logo_url": "",
+      "ics_file": "nrg.ics"
+    },
+    {
+      "name": "Nongshim RedForce",
+      "slug": "nongshim-redforce",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/6399bb707aacb.png",
+      "region_logo_url": "",
+      "ics_file": "nongshim-redforce.ics"
+    },
+    {
+      "name": "Paper Rex",
+      "slug": "paper-rex",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/62bbeba74d5cb.png",
+      "region_logo_url": "",
+      "ics_file": "paper-rex.ics"
+    },
+    {
+      "name": "T1",
+      "slug": "t1",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/62fe0b8f6b084.png",
+      "region_logo_url": "",
+      "ics_file": "t1.ics"
+    },
+    {
+      "name": "TYLOO",
+      "slug": "tyloo",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/63eb60fb08390.png",
+      "region_logo_url": "",
+      "ics_file": "tyloo.ics"
+    },
+    {
+      "name": "Team Liquid",
+      "slug": "team-liquid",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/640c381f0603f.png",
+      "region_logo_url": "",
+      "ics_file": "team-liquid.ics"
+    },
+    {
+      "name": "Team Vitality",
+      "slug": "team-vitality",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/6466d79e1ed40.png",
+      "region_logo_url": "",
+      "ics_file": "team-vitality.ics"
+    },
+    {
+      "name": "Xi Lai Gaming",
+      "slug": "xi-lai-gaming",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/671742f863b9b.png",
+      "region_logo_url": "",
+      "ics_file": "xi-lai-gaming.ics"
     }
   ]
 }

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JD Gaming - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:JD Gaming vs FUT Esports
+DTSTART:20260927T120000Z
+DTEND:20260927T140000Z
+DTSTAMP:20260927T120000Z
+UID:vlr-753445@valo-calendar
+DESCRIPTION:Group Stage–Opening (A)\nhttps://www.vlr.gg/753445/jd-gaming
+ -vs-fut-esports-valorant-champions-2026-opening-a
+LOCATION:Valorant Champions 2026
+END:VEVENT
+END:VCALENDAR

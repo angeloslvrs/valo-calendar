@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Paper Rex - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:Team Liquid vs Paper Rex
+DTSTART:20260924T090000Z
+DTEND:20260924T110000Z
+DTSTAMP:20260924T090000Z
+UID:vlr-753455@valo-calendar
+DESCRIPTION:Group Stage–Opening (C)\nhttps://www.vlr.gg/753455/team-liqu
+ id-vs-paper-rex-valorant-champions-2026-opening-c
+LOCATION:Valorant Champions 2026
+END:VEVENT
+END:VCALENDAR
