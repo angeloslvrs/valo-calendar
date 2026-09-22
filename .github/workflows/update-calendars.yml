@@ -52,3 +52,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: public
           publish_branch: gh-pages
+          # Keep calendars for teams with no upcoming matches so subscribed URLs don't 404
+          keep_files: true
