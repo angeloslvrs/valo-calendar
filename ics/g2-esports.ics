@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:G2 Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TYLOO vs G2 Esports
-DTSTART:20260924T121000Z
-DTEND:20260924T141000Z
-DTSTAMP:20260924T121000Z
-UID:vlr-753454@valo-calendar
-DESCRIPTION:Group Stage–Opening (C)\nhttps://www.vlr.gg/753454/tyloo-vs-
- g2-esports-valorant-champions-2026-opening-c
+SUMMARY:G2 Esports vs Paper Rex
+DTSTART:20260929T090000Z
+DTEND:20260929T110000Z
+DTSTAMP:20260929T090000Z
+UID:vlr-753456@valo-calendar
+DESCRIPTION:Group Stage–Winner's (C)\nhttps://www.vlr.gg/753456/g2-espor
+ ts-vs-paper-rex-valorant-champions-2026-winners-c
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR
