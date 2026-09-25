@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Nongshim RedForce - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Nongshim RedForce vs NRG
-DTSTART:20260925T090000Z
-DTEND:20260925T110000Z
-DTSTAMP:20260925T090000Z
-UID:vlr-753460@valo-calendar
-DESCRIPTION:Group Stage–Opening (D)\nhttps://www.vlr.gg/753460/nongshim-
- redforce-vs-nrg-valorant-champions-2026-opening-d
+SUMMARY:TBD vs Nongshim RedForce
+DTSTART:20261001T120000Z
+DTEND:20261001T140000Z
+DTSTAMP:20261001T120000Z
+UID:vlr-753462@valo-calendar
+DESCRIPTION:Group Stage–Elimination (D)\nhttps://www.vlr.gg/753462/nongs
+ him-redforce-vs-tbd-valorant-champions-2026-elim-d
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR
