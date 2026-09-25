@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Nongshim RedForce - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TBD vs Nongshim RedForce
+SUMMARY:Xi Lai Gaming vs Nongshim RedForce
 DTSTART:20261001T120000Z
 DTEND:20261001T140000Z
 DTSTAMP:20261001T120000Z
 UID:vlr-753462@valo-calendar
-DESCRIPTION:Group Stage–Elimination (D)\nhttps://www.vlr.gg/753462/nongs
- him-redforce-vs-tbd-valorant-champions-2026-elim-d
+DESCRIPTION:Group Stage–Elimination (D)\nhttps://www.vlr.gg/753462/xi-la
+ i-gaming-vs-nongshim-redforce-valorant-champions-2026-elim-d
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR

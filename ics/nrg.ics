@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:NRG - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TBD vs NRG
+SUMMARY:Karmine Corp vs NRG
 DTSTART:20260929T120000Z
 DTEND:20260929T140000Z
 DTSTAMP:20260929T120000Z
 UID:vlr-753461@valo-calendar
-DESCRIPTION:Group Stage–Winner's (D)\nhttps://www.vlr.gg/753461/nrg-vs-t
- bd-valorant-champions-2026-winners-d
+DESCRIPTION:Group Stage–Winner's (D)\nhttps://www.vlr.gg/753461/karmine-
+ corp-vs-nrg-valorant-champions-2026-winners-d
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR
