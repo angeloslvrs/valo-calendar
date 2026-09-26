@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:EDward Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:LOUD vs EDward Gaming
-DTSTART:20260926T120000Z
-DTEND:20260926T140000Z
-DTSTAMP:20260926T120000Z
-UID:vlr-753450@valo-calendar
-DESCRIPTION:Group Stage–Opening (B)\nhttps://www.vlr.gg/753450/loud-vs-e
- dward-gaming-valorant-champions-2026-opening-b
+SUMMARY:Global Esports vs EDward Gaming
+DTSTART:20261002T120000Z
+DTEND:20261002T140000Z
+DTSTAMP:20261002T120000Z
+UID:vlr-753452@valo-calendar
+DESCRIPTION:Group Stage–Elimination (B)\nhttps://www.vlr.gg/753452/globa
+ l-esports-vs-edward-gaming-valorant-champions-2026-elim-b
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR

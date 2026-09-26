@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Team Vitality - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Global Esports vs Team Vitality
-DTSTART:20260926T090000Z
-DTEND:20260926T110000Z
-DTSTAMP:20260926T090000Z
-UID:vlr-753449@valo-calendar
-DESCRIPTION:Group Stage–Opening (B)\nhttps://www.vlr.gg/753449/global-es
- ports-vs-team-vitality-valorant-champions-2026-opening-b
+SUMMARY:Team Vitality vs LOUD
+DTSTART:20260930T090000Z
+DTEND:20260930T110000Z
+DTSTAMP:20260930T090000Z
+UID:vlr-753451@valo-calendar
+DESCRIPTION:Group Stage–Winner's (B)\nhttps://www.vlr.gg/753451/team-vit
+ ality-vs-loud-valorant-champions-2026-winners-b
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR
