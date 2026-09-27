@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:100 Thieves - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:100 Thieves vs TBD
+SUMMARY:100 Thieves vs FUT Esports
 DTSTART:20260930T120000Z
 DTEND:20260930T140000Z
 DTSTAMP:20260930T120000Z
 UID:vlr-753446@valo-calendar
 DESCRIPTION:Group Stage–Winner's (A)\nhttps://www.vlr.gg/753446/100-thie
- ves-vs-tbd-valorant-champions-2026-winners-a
+ ves-vs-fut-esports-valorant-champions-2026-winners-a
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR

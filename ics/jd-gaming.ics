@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:JD Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:JD Gaming vs FUT Esports
-DTSTART:20260927T113500Z
-DTEND:20260927T133500Z
-DTSTAMP:20260927T113500Z
-UID:vlr-753445@valo-calendar
-DESCRIPTION:Group Stage–Opening (A)\nhttps://www.vlr.gg/753445/jd-gaming
- -vs-fut-esports-valorant-champions-2026-opening-a
+SUMMARY:T1 vs JD Gaming
+DTSTART:20261002T120000Z
+DTEND:20261002T140000Z
+DTSTAMP:20261002T120000Z
+UID:vlr-753447@valo-calendar
+DESCRIPTION:Group Stage–Elimination (A)\nhttps://www.vlr.gg/753447/t1-vs
+ -jd-gaming-valorant-champions-2026-elim-a
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR
