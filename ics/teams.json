@@ -65,14 +65,6 @@
       "ics_file": "loud.ics"
     },
     {
-      "name": "NRG",
-      "slug": "nrg",
-      "region": "International",
-      "logo_url": "https://owcdn.net/img/6610f026c1a9e.png",
-      "region_logo_url": "",
-      "ics_file": "nrg.ics"
-    },
-    {
       "name": "Nongshim RedForce",
       "slug": "nongshim-redforce",
       "region": "International",
