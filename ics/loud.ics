@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:LOUD - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Team Vitality vs LOUD
-DTSTART:20260930T090000Z
-DTEND:20260930T110000Z
-DTSTAMP:20260930T090000Z
-UID:vlr-753451@valo-calendar
-DESCRIPTION:Group Stage–Winner's (B)\nhttps://www.vlr.gg/753451/team-vit
- ality-vs-loud-valorant-champions-2026-winners-b
+SUMMARY:LOUD vs TBD
+DTSTART:20261004T120000Z
+DTEND:20261004T140000Z
+DTSTAMP:20261004T120000Z
+UID:vlr-753453@valo-calendar
+DESCRIPTION:Group Stage–Decider (B)\nhttps://www.vlr.gg/753453/loud-vs-t
+ bd-valorant-champions-2026-decider-b
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR
