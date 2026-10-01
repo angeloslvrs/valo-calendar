@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Nongshim RedForce - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Xi Lai Gaming vs Nongshim RedForce
-DTSTART:20261001T120500Z
-DTEND:20261001T140500Z
-DTSTAMP:20261001T120500Z
-UID:vlr-753462@valo-calendar
-DESCRIPTION:Group Stage–Elimination (D)\nhttps://www.vlr.gg/753462/xi-la
- i-gaming-vs-nongshim-redforce-valorant-champions-2026-elim-d
+SUMMARY:Karmine Corp vs Nongshim RedForce
+DTSTART:20261003T120000Z
+DTEND:20261003T140000Z
+DTSTAMP:20261003T120000Z
+UID:vlr-753463@valo-calendar
+DESCRIPTION:Group Stage–Decider (D)\nhttps://www.vlr.gg/753463/karmine-c
+ orp-vs-nongshim-redforce-valorant-champions-2026-decider-d
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR

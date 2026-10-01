@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Karmine Corp - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Karmine Corp vs TBD
+SUMMARY:Karmine Corp vs Nongshim RedForce
 DTSTART:20261003T120000Z
 DTEND:20261003T140000Z
 DTSTAMP:20261003T120000Z
 UID:vlr-753463@valo-calendar
 DESCRIPTION:Group Stage–Decider (D)\nhttps://www.vlr.gg/753463/karmine-c
- orp-vs-tbd-valorant-champions-2026-decider-d
+ orp-vs-nongshim-redforce-valorant-champions-2026-decider-d
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR
