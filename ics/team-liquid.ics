@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Team Liquid - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TYLOO vs Team Liquid
-DTSTART:20261001T090000Z
-DTEND:20261001T110000Z
-DTSTAMP:20261001T090000Z
-UID:vlr-753457@valo-calendar
-DESCRIPTION:Group Stage–Elimination (C)\nhttps://www.vlr.gg/753457/tyloo
- -vs-team-liquid-valorant-champions-2026-elim-c
+SUMMARY:G2 Esports vs Team Liquid
+DTSTART:20261003T090000Z
+DTEND:20261003T110000Z
+DTSTAMP:20261003T090000Z
+UID:vlr-753458@valo-calendar
+DESCRIPTION:Group Stage–Decider (C)\nhttps://www.vlr.gg/753458/g2-esport
+ s-vs-team-liquid-valorant-champions-2026-decider-c
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR

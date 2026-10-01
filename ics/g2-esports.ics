@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:G2 Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:G2 Esports vs TBD
+SUMMARY:G2 Esports vs Team Liquid
 DTSTART:20261003T090000Z
 DTEND:20261003T110000Z
 DTSTAMP:20261003T090000Z
 UID:vlr-753458@valo-calendar
 DESCRIPTION:Group Stage–Decider (C)\nhttps://www.vlr.gg/753458/g2-esport
- s-vs-tbd-valorant-champions-2026-decider-c
+ s-vs-team-liquid-valorant-champions-2026-decider-c
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR
