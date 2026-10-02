@@ -1,14 +1,6 @@
 {
   "teams": [
     {
-      "name": "EDward Gaming",
-      "slug": "edward-gaming",
-      "region": "International",
-      "logo_url": "https://owcdn.net/img/62c82049253b2.png",
-      "region_logo_url": "",
-      "ics_file": "edward-gaming.ics"
-    },
-    {
       "name": "FUT Esports",
       "slug": "fut-esports",
       "region": "International",
