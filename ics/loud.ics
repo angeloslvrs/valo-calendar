@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:LOUD - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:LOUD vs Global Esports
-DTSTART:20261004T090000Z
-DTEND:20261004T110000Z
-DTSTAMP:20261004T090000Z
-UID:vlr-753453@valo-calendar
-DESCRIPTION:Group Stage–Decider (B)\nhttps://www.vlr.gg/753453/loud-vs-g
- lobal-esports-valorant-champions-2026-decider-b
+SUMMARY:Paper Rex vs LOUD
+DTSTART:20261007T120000Z
+DTEND:20261007T140000Z
+DTSTAMP:20261007T120000Z
+UID:vlr-754733@valo-calendar
+DESCRIPTION:Playoffs–Upper Quarterfinals\nhttps://www.vlr.gg/754733/pape
+ r-rex-vs-loud-valorant-champions-2026-ubqf
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR

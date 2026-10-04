@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Paper Rex - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:G2 Esports vs Paper Rex
-DTSTART:20260929T090000Z
-DTEND:20260929T110000Z
-DTSTAMP:20260929T090000Z
-UID:vlr-753456@valo-calendar
-DESCRIPTION:Group Stage–Winner's (C)\nhttps://www.vlr.gg/753456/g2-espor
- ts-vs-paper-rex-valorant-champions-2026-winners-c
+SUMMARY:Paper Rex vs LOUD
+DTSTART:20261007T120000Z
+DTEND:20261007T140000Z
+DTSTAMP:20261007T120000Z
+UID:vlr-754733@valo-calendar
+DESCRIPTION:Playoffs–Upper Quarterfinals\nhttps://www.vlr.gg/754733/pape
+ r-rex-vs-loud-valorant-champions-2026-ubqf
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR

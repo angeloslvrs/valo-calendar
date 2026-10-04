@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Team Vitality - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Team Vitality vs LOUD
-DTSTART:20260930T090000Z
-DTEND:20260930T110000Z
-DTSTAMP:20260930T090000Z
-UID:vlr-753451@valo-calendar
-DESCRIPTION:Group Stage–Winner's (B)\nhttps://www.vlr.gg/753451/team-vit
- ality-vs-loud-valorant-champions-2026-winners-b
+SUMMARY:Team Vitality vs Nongshim RedForce
+DTSTART:20261008T120000Z
+DTEND:20261008T140000Z
+DTSTAMP:20261008T120000Z
+UID:vlr-754731@valo-calendar
+DESCRIPTION:Playoffs–Upper Quarterfinals\nhttps://www.vlr.gg/754731/team
+ -vitality-vs-nongshim-redforce-valorant-champions-2026-ubqf
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR

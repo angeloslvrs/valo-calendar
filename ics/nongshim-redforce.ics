@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Nongshim RedForce - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Karmine Corp vs Nongshim RedForce
-DTSTART:20261003T113000Z
-DTEND:20261003T133000Z
-DTSTAMP:20261003T113000Z
-UID:vlr-753463@valo-calendar
-DESCRIPTION:Group Stage–Decider (D)\nhttps://www.vlr.gg/753463/karmine-c
- orp-vs-nongshim-redforce-valorant-champions-2026-decider-d
+SUMMARY:Team Vitality vs Nongshim RedForce
+DTSTART:20261008T120000Z
+DTEND:20261008T140000Z
+DTSTAMP:20261008T120000Z
+UID:vlr-754731@valo-calendar
+DESCRIPTION:Playoffs–Upper Quarterfinals\nhttps://www.vlr.gg/754731/team
+ -vitality-vs-nongshim-redforce-valorant-champions-2026-ubqf
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR

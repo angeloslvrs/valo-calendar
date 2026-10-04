@@ -1,12 +1,52 @@
 {
   "teams": [
     {
-      "name": "FUT Esports",
-      "slug": "fut-esports",
+      "name": "100 Thieves",
+      "slug": "100-thieves",
       "region": "International",
-      "logo_url": "https://owcdn.net/img/632be9976b8fe.png",
+      "logo_url": "https://owcdn.net/img/603c00d5c5a08.png",
       "region_logo_url": "",
-      "ics_file": "fut-esports.ics"
+      "ics_file": "100-thieves.ics"
+    },
+    {
+      "name": "G2 Esports",
+      "slug": "g2-esports",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/633822848a741.png",
+      "region_logo_url": "",
+      "ics_file": "g2-esports.ics"
+    },
+    {
+      "name": "LOUD",
+      "slug": "loud",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/62bbec8dc1b9f.png",
+      "region_logo_url": "",
+      "ics_file": "loud.ics"
+    },
+    {
+      "name": "NRG",
+      "slug": "nrg",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/6610f026c1a9e.png",
+      "region_logo_url": "",
+      "ics_file": "nrg.ics"
+    },
+    {
+      "name": "Nongshim RedForce",
+      "slug": "nongshim-redforce",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/6399bb707aacb.png",
+      "region_logo_url": "",
+      "ics_file": "nongshim-redforce.ics"
+    },
+    {
+      "name": "Paper Rex",
+      "slug": "paper-rex",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/62bbeba74d5cb.png",
+      "region_logo_url": "",
+      "ics_file": "paper-rex.ics"
     },
     {
       "name": "T1",
@@ -15,6 +55,14 @@
       "logo_url": "https://owcdn.net/img/62fe0b8f6b084.png",
       "region_logo_url": "",
       "ics_file": "t1.ics"
+    },
+    {
+      "name": "Team Vitality",
+      "slug": "team-vitality",
+      "region": "International",
+      "logo_url": "https://owcdn.net/img/6466d79e1ed40.png",
+      "region_logo_url": "",
+      "ics_file": "team-vitality.ics"
     }
   ]
 }
