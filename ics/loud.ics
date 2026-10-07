@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:LOUD - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Paper Rex vs LOUD
-DTSTART:20261007T113000Z
-DTEND:20261007T133000Z
-DTSTAMP:20261007T113000Z
-UID:vlr-754733@valo-calendar
-DESCRIPTION:Playoffs–Upper Quarterfinals\nhttps://www.vlr.gg/754733/pape
- r-rex-vs-loud-valorant-champions-2026-ubqf
+SUMMARY:NRG vs LOUD
+DTSTART:20261010T120000Z
+DTEND:20261010T140000Z
+DTSTAMP:20261010T120000Z
+UID:vlr-754735@valo-calendar
+DESCRIPTION:Playoffs–Upper Semifinals\nhttps://www.vlr.gg/754735/nrg-vs-
+ loud-valorant-champions-2026-ubsf
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR
