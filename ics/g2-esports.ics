@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:G2 Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:100 Thieves vs G2 Esports
-DTSTART:20261008T090000Z
-DTEND:20261008T110000Z
-DTSTAMP:20261008T090000Z
-UID:vlr-754730@valo-calendar
-DESCRIPTION:Playoffs–Upper Quarterfinals\nhttps://www.vlr.gg/754730/100-
- thieves-vs-g2-esports-valorant-champions-2026-ubqf
+SUMMARY:G2 Esports vs TBD
+DTSTART:20261010T120000Z
+DTEND:20261010T140000Z
+DTSTAMP:20261010T120000Z
+UID:vlr-754734@valo-calendar
+DESCRIPTION:Playoffs–Upper Semifinals\nhttps://www.vlr.gg/754734/g2-espo
+ rts-vs-tbd-valorant-champions-2026-ubsf
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR
