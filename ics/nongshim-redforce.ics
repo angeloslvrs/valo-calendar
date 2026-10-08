@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Nongshim RedForce - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Team Vitality vs Nongshim RedForce
-DTSTART:20261008T112000Z
-DTEND:20261008T132000Z
-DTSTAMP:20261008T112000Z
-UID:vlr-754731@valo-calendar
-DESCRIPTION:Playoffs–Upper Quarterfinals\nhttps://www.vlr.gg/754731/team
- -vitality-vs-nongshim-redforce-valorant-champions-2026-ubqf
+SUMMARY:100 Thieves vs Nongshim RedForce
+DTSTART:20261009T120000Z
+DTEND:20261009T140000Z
+DTSTAMP:20261009T120000Z
+UID:vlr-754738@valo-calendar
+DESCRIPTION:Playoffs–Lower Round 1\nhttps://www.vlr.gg/754738/100-thieve
+ s-vs-nongshim-redforce-valorant-champions-2026-lr1
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR

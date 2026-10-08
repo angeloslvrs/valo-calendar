@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:G2 Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:G2 Esports vs TBD
+SUMMARY:G2 Esports vs Team Vitality
 DTSTART:20261010T120000Z
 DTEND:20261010T140000Z
 DTSTAMP:20261010T120000Z
 UID:vlr-754734@valo-calendar
 DESCRIPTION:Playoffs–Upper Semifinals\nhttps://www.vlr.gg/754734/g2-espo
- rts-vs-tbd-valorant-champions-2026-ubsf
+ rts-vs-team-vitality-valorant-champions-2026-ubsf
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR
