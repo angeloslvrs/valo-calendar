@@ -41,14 +41,6 @@
       "ics_file": "nongshim-redforce.ics"
     },
     {
-      "name": "Paper Rex",
-      "slug": "paper-rex",
-      "region": "International",
-      "logo_url": "https://owcdn.net/img/62bbeba74d5cb.png",
-      "region_logo_url": "",
-      "ics_file": "paper-rex.ics"
-    },
-    {
       "name": "T1",
       "slug": "t1",
       "region": "International",
