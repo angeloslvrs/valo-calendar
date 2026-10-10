@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:100 Thieves - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TBD vs 100 Thieves
+SUMMARY:NRG vs 100 Thieves
 DTSTART:20261011T090000Z
 DTEND:20261011T110000Z
 DTSTAMP:20261011T090000Z
 UID:vlr-754740@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/754740/100-thieve
- s-vs-tbd-valorant-champions-2026-lr2
+DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/754740/nrg-vs-100
+ -thieves-valorant-champions-2026-lr2
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR
