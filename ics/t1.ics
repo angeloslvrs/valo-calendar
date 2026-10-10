@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:T1 - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:TBD vs T1
+SUMMARY:G2 Esports vs T1
 DTSTART:20261011T120000Z
 DTEND:20261011T140000Z
 DTSTAMP:20261011T120000Z
 UID:vlr-754741@valo-calendar
-DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/754741/t1-vs-tbd-
- valorant-champions-2026-lr2
+DESCRIPTION:Playoffs–Lower Round 2\nhttps://www.vlr.gg/754741/g2-esports
+ -vs-t1-valorant-champions-2026-lr2
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR
