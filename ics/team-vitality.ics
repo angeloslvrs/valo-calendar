@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Team Vitality - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Team Vitality vs LOUD
-DTSTART:20261016T060000Z
-DTEND:20261016T080000Z
-DTSTAMP:20261016T060000Z
-UID:vlr-754736@valo-calendar
-DESCRIPTION:Playoffs–Upper Final\nhttps://www.vlr.gg/754736/team-vitalit
- y-vs-loud-valorant-champions-2026-ubf
+SUMMARY:Team Vitality vs TBD
+DTSTART:20261017T070000Z
+DTEND:20261017T090000Z
+DTSTAMP:20261017T070000Z
+UID:vlr-754743@valo-calendar
+DESCRIPTION:Playoffs–Lower Final\nhttps://www.vlr.gg/754743/team-vitalit
+ y-vs-tbd-valorant-champions-2026-lbf
 LOCATION:Valorant Champions 2026
 END:VEVENT
 END:VCALENDAR
