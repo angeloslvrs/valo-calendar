@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Dragon Ranger Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Dragon Ranger Gaming vs Trace Esports
-DTSTART:20260811T100000Z
-DTEND:20260811T120000Z
-DTSTAMP:20260811T100000Z
-UID:vlr-724632@valo-calendar
-DESCRIPTION:Play-Ins–Lower Round 3\nhttps://www.vlr.gg/724632/dragon-ran
- ger-gaming-vs-trace-esports-vct-2026-china-stage-2-lr3
-LOCATION:VCT 2026: China Stage 2
+SUMMARY:FunPlus Phoenix vs Dragon Ranger Gaming
+DTSTART:20261023T110000Z
+DTEND:20261023T130000Z
+DTSTAMP:20261023T110000Z
+UID:vlr-777947@valo-calendar
+DESCRIPTION:Week 1–Quarterfinals\nhttps://www.vlr.gg/777947/funplus-phoe
+ nix-vs-dragon-ranger-gaming-vct-china-2026-threshold-week-1-qf
+LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR

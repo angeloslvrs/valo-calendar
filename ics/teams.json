@@ -1,20 +1,60 @@
 {
   "teams": [
     {
-      "name": "LOUD",
-      "slug": "loud",
-      "region": "International",
-      "logo_url": "https://owcdn.net/img/62bbec8dc1b9f.png",
-      "region_logo_url": "",
-      "ics_file": "loud.ics"
+      "name": "Any Questions Gaming",
+      "slug": "any-questions-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/68ecda499e5e2.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "any-questions-gaming.ics"
     },
     {
-      "name": "Team Vitality",
-      "slug": "team-vitality",
-      "region": "International",
-      "logo_url": "https://owcdn.net/img/6466d79e1ed40.png",
-      "region_logo_url": "",
-      "ics_file": "team-vitality.ics"
+      "name": "Dragon Ranger Gaming",
+      "slug": "dragon-ranger-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/642233fc01f26.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "dragon-ranger-gaming.ics"
+    },
+    {
+      "name": "FunPlus Phoenix",
+      "slug": "funplus-phoenix",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/65a17b313b131.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "funplus-phoenix.ics"
+    },
+    {
+      "name": "KeepBest Gaming",
+      "slug": "keepbest-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/64461a1131da5.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "keepbest-gaming.ics"
+    },
+    {
+      "name": "Nova Esports",
+      "slug": "nova-esports",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/6404c0174250b.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "nova-esports.ics"
+    },
+    {
+      "name": "Titan Esports Club",
+      "slug": "titan-esports-club",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/65487414b8562.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "titan-esports-club.ics"
+    },
+    {
+      "name": "Unsettled Resentment",
+      "slug": "unsettled-resentment",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/6a97403ff4238.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "unsettled-resentment.ics"
     }
   ]
 }
