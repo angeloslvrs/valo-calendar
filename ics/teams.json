@@ -1,14 +1,6 @@
 {
   "teams": [
     {
-      "name": "Any Questions Gaming",
-      "slug": "any-questions-gaming",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/68ecda499e5e2.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "any-questions-gaming.ics"
-    },
-    {
       "name": "Dragon Ranger Gaming",
       "slug": "dragon-ranger-gaming",
       "region": "China",
