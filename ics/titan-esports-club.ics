@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Titan Esports Club - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Titan Esports Club vs TBD
+SUMMARY:Titan Esports Club vs Dragon Ranger Gaming
 DTSTART:20261024T110000Z
 DTEND:20261024T130000Z
 DTSTAMP:20261024T110000Z
 UID:vlr-777950@valo-calendar
 DESCRIPTION:Week 1–Semifinals\nhttps://www.vlr.gg/777950/titan-esports-c
- lub-vs-tbd-vct-2026-china-threshold-week-1-sf
+ lub-vs-dragon-ranger-gaming-vct-2026-china-threshold-week-1-sf
 LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR

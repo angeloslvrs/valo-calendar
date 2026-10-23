@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Dragon Ranger Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:FunPlus Phoenix vs Dragon Ranger Gaming
-DTSTART:20261023T112000Z
-DTEND:20261023T132000Z
-DTSTAMP:20261023T112000Z
-UID:vlr-777947@valo-calendar
-DESCRIPTION:Week 1–Quarterfinals\nhttps://www.vlr.gg/777947/funplus-phoe
- nix-vs-dragon-ranger-gaming-vct-2026-china-threshold-week-1-qf
+SUMMARY:Titan Esports Club vs Dragon Ranger Gaming
+DTSTART:20261024T110000Z
+DTEND:20261024T130000Z
+DTSTAMP:20261024T110000Z
+UID:vlr-777950@valo-calendar
+DESCRIPTION:Week 1–Semifinals\nhttps://www.vlr.gg/777950/titan-esports-c
+ lub-vs-dragon-ranger-gaming-vct-2026-china-threshold-week-1-sf
 LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR
