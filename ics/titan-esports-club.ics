@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Titan Esports Club - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Titan Esports Club vs Unsettled Resentment
-DTSTART:20261023T090000Z
-DTEND:20261023T110000Z
-DTSTAMP:20261023T090000Z
-UID:vlr-777946@valo-calendar
-DESCRIPTION:Week 1–Quarterfinals\nhttps://www.vlr.gg/777946/titan-esport
- s-club-vs-unsettled-resentment-vct-china-2026-threshold-week-1-qf
+SUMMARY:Titan Esports Club vs TBD
+DTSTART:20261024T110000Z
+DTEND:20261024T130000Z
+DTSTAMP:20261024T110000Z
+UID:vlr-777950@valo-calendar
+DESCRIPTION:Week 1–Semifinals\nhttps://www.vlr.gg/777950/titan-esports-c
+ lub-vs-tbd-vct-2026-china-threshold-week-1-sf
 LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR
