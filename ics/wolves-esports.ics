@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Wolves Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:EDward Gaming vs Wolves Esports
-DTSTART:20260809T080000Z
-DTEND:20260809T100000Z
-DTSTAMP:20260809T080000Z
-UID:vlr-724627@valo-calendar
-DESCRIPTION:Play-Ins–Lower Round 2\nhttps://www.vlr.gg/724627/edward-gam
- ing-vs-wolves-esports-vct-2026-china-stage-2-lr2
-LOCATION:VCT 2026: China Stage 2
+SUMMARY:Wolves Esports vs World Sports Invictus Gaming
+DTSTART:20261027T110000Z
+DTEND:20261027T130000Z
+DTSTAMP:20261027T110000Z
+UID:vlr-777957@valo-calendar
+DESCRIPTION:Week 2–Round of 12\nhttps://www.vlr.gg/777957/wolves-esports
+ -vs-world-sports-invictus-gaming-vct-2026-china-threshold-week-2-ro12
+LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR

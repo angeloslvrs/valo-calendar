@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Nova Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Dragon Ranger Gaming vs Nova Esports
-DTSTART:20261025T090000Z
-DTEND:20261025T110000Z
-DTSTAMP:20261025T090000Z
-UID:vlr-777952@valo-calendar
-DESCRIPTION:Week 1–Grand Final\nhttps://www.vlr.gg/777952/dragon-ranger-
- gaming-vs-nova-esports-vct-2026-china-threshold-week-1-gf
+SUMMARY:Nova Esports vs TBD
+DTSTART:20261030T090000Z
+DTEND:20261030T110000Z
+DTSTAMP:20261030T090000Z
+UID:vlr-777962@valo-calendar
+DESCRIPTION:Week 2–Quarterfinals\nhttps://www.vlr.gg/777962/nova-esports
+ -vs-tbd-vct-2026-china-threshold-week-2-qf
 LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR

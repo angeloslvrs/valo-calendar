@@ -1,12 +1,36 @@
 {
   "teams": [
     {
-      "name": "Dragon Ranger Gaming",
-      "slug": "dragon-ranger-gaming",
+      "name": "A Team",
+      "slug": "a-team",
       "region": "China",
-      "logo_url": "https://owcdn.net/img/642233fc01f26.png",
+      "logo_url": "https://owcdn.net/img/6a70722c7c24b.png",
       "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "dragon-ranger-gaming.ics"
+      "ics_file": "a-team.ics"
+    },
+    {
+      "name": "Any Questions Gaming",
+      "slug": "any-questions-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/68ecda499e5e2.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "any-questions-gaming.ics"
+    },
+    {
+      "name": "FunPlus Phoenix",
+      "slug": "funplus-phoenix",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/65a17b313b131.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "funplus-phoenix.ics"
+    },
+    {
+      "name": "KeepBest Gaming",
+      "slug": "keepbest-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/64461a1131da5.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "keepbest-gaming.ics"
     },
     {
       "name": "Nova Esports",
@@ -15,6 +39,62 @@
       "logo_url": "https://owcdn.net/img/6404c0174250b.png",
       "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
       "ics_file": "nova-esports.ics"
+    },
+    {
+      "name": "Octagonal Disposition Gaming",
+      "slug": "octagonal-disposition-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/68ecda6aa00d1.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "octagonal-disposition-gaming.ics"
+    },
+    {
+      "name": "Rare Atom",
+      "slug": "rare-atom",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/63eb5aa842f05.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "rare-atom.ics"
+    },
+    {
+      "name": "Titan Esports Club",
+      "slug": "titan-esports-club",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/65487414b8562.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "titan-esports-club.ics"
+    },
+    {
+      "name": "Unsettled Resentment",
+      "slug": "unsettled-resentment",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/6a97403ff4238.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "unsettled-resentment.ics"
+    },
+    {
+      "name": "Victory No Limits Gaming",
+      "slug": "victory-no-limits-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/6a973ea47de83.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "victory-no-limits-gaming.ics"
+    },
+    {
+      "name": "Wolves Esports",
+      "slug": "wolves-esports",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/651d33f8e6a1f.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "wolves-esports.ics"
+    },
+    {
+      "name": "World Sports Invictus Gaming",
+      "slug": "world-sports-invictus-gaming",
+      "region": "China",
+      "logo_url": "https://owcdn.net/img/69b7b6dff08e9.png",
+      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
+      "ics_file": "world-sports-invictus-gaming.ics"
     }
   ]
 }

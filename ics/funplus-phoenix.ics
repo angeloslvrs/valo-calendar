@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:FunPlus Phoenix - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:FunPlus Phoenix vs Dragon Ranger Gaming
-DTSTART:20261023T112000Z
-DTEND:20261023T132000Z
-DTSTAMP:20261023T112000Z
-UID:vlr-777947@valo-calendar
-DESCRIPTION:Week 1–Quarterfinals\nhttps://www.vlr.gg/777947/funplus-phoe
- nix-vs-dragon-ranger-gaming-vct-2026-china-threshold-week-1-qf
+SUMMARY:FunPlus Phoenix vs TBD
+DTSTART:20261030T110000Z
+DTEND:20261030T130000Z
+DTSTAMP:20261030T110000Z
+UID:vlr-777963@valo-calendar
+DESCRIPTION:Week 2–Quarterfinals\nhttps://www.vlr.gg/777963/funplus-phoe
+ nix-vs-tbd-vct-2026-china-threshold-week-2-qf
 LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR

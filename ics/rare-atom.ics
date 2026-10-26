@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ValoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rare Atom - Valorant Matches
+BEGIN:VEVENT
+SUMMARY:Any Questions Gaming vs Rare Atom
+DTSTART:20261028T110000Z
+DTEND:20261028T130000Z
+DTSTAMP:20261028T110000Z
+UID:vlr-777959@valo-calendar
+DESCRIPTION:Week 2–Round of 12\nhttps://www.vlr.gg/777959/any-questions-
+ gaming-vs-rare-atom-vct-2026-china-threshold-week-2-ro12
+LOCATION:VCT 2026: China Threshold
+END:VEVENT
+END:VCALENDAR

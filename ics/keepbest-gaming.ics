@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:KeepBest Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:KeepBest Gaming vs Nova Esports
-DTSTART:20261024T090000Z
-DTEND:20261024T110000Z
-DTSTAMP:20261024T090000Z
-UID:vlr-777951@valo-calendar
-DESCRIPTION:Week 1–Semifinals\nhttps://www.vlr.gg/777951/keepbest-gaming
- -vs-nova-esports-vct-2026-china-threshold-week-1-sf
+SUMMARY:KeepBest Gaming vs TBD
+DTSTART:20261029T090000Z
+DTEND:20261029T110000Z
+DTSTAMP:20261029T090000Z
+UID:vlr-777960@valo-calendar
+DESCRIPTION:Week 2–Quarterfinals\nhttps://www.vlr.gg/777960/keepbest-gam
+ ing-vs-tbd-vct-2026-china-threshold-week-2-qf
 LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR
