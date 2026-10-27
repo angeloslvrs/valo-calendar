@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:KeepBest Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:KeepBest Gaming vs TBD
+SUMMARY:KeepBest Gaming vs Unsettled Resentment
 DTSTART:20261029T090000Z
 DTEND:20261029T110000Z
 DTSTAMP:20261029T090000Z
 UID:vlr-777960@valo-calendar
 DESCRIPTION:Week 2–Quarterfinals\nhttps://www.vlr.gg/777960/keepbest-gam
- ing-vs-tbd-vct-2026-china-threshold-week-2-qf
+ ing-vs-unsettled-resentment-vct-2026-china-threshold-week-2-qf
 LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR

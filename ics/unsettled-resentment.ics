@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Unsettled Resentment - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Unsettled Resentment vs Victory No Limits Gaming
-DTSTART:20261027T090000Z
-DTEND:20261027T110000Z
-DTSTAMP:20261027T090000Z
-UID:vlr-777956@valo-calendar
-DESCRIPTION:Week 2–Round of 12\nhttps://www.vlr.gg/777956/unsettled-rese
- ntment-vs-victory-no-limits-gaming-vct-2026-china-threshold-week-2-ro12
+SUMMARY:KeepBest Gaming vs Unsettled Resentment
+DTSTART:20261029T090000Z
+DTEND:20261029T110000Z
+DTSTAMP:20261029T090000Z
+UID:vlr-777960@valo-calendar
+DESCRIPTION:Week 2–Quarterfinals\nhttps://www.vlr.gg/777960/keepbest-gam
+ ing-vs-unsettled-resentment-vct-2026-china-threshold-week-2-qf
 LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR
