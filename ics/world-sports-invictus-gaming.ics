@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:World Sports Invictus Gaming - Valorant Matches
 BEGIN:VEVENT
 SUMMARY:Wolves Esports vs World Sports Invictus Gaming
-DTSTART:20261027T110000Z
-DTEND:20261027T130000Z
-DTSTAMP:20261027T110000Z
+DTSTART:20261027T125000Z
+DTEND:20261027T145000Z
+DTSTAMP:20261027T125000Z
 UID:vlr-777957@valo-calendar
 DESCRIPTION:Week 2–Round of 12\nhttps://www.vlr.gg/777957/wolves-esports
  -vs-world-sports-invictus-gaming-vct-2026-china-threshold-week-2-ro12
