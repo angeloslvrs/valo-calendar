@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Any Questions Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Any Questions Gaming vs Rare Atom
-DTSTART:20261028T112500Z
-DTEND:20261028T132500Z
-DTSTAMP:20261028T112500Z
-UID:vlr-777959@valo-calendar
-DESCRIPTION:Week 2–Round of 12\nhttps://www.vlr.gg/777959/any-questions-
- gaming-vs-rare-atom-vct-2026-china-threshold-week-2-ro12
+SUMMARY:FunPlus Phoenix vs Any Questions Gaming
+DTSTART:20261030T110000Z
+DTEND:20261030T130000Z
+DTSTAMP:20261030T110000Z
+UID:vlr-777963@valo-calendar
+DESCRIPTION:Week 2–Quarterfinals\nhttps://www.vlr.gg/777963/funplus-phoe
+ nix-vs-any-questions-gaming-vct-2026-china-threshold-week-2-qf
 LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR
