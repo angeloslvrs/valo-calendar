@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Nova Esports - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Nova Esports vs TBD
+SUMMARY:Nova Esports vs A Team
 DTSTART:20261030T090000Z
 DTEND:20261030T110000Z
 DTSTAMP:20261030T090000Z
 UID:vlr-777962@valo-calendar
 DESCRIPTION:Week 2–Quarterfinals\nhttps://www.vlr.gg/777962/nova-esports
- -vs-tbd-vct-2026-china-threshold-week-2-qf
+ -vs-a-team-vct-2026-china-threshold-week-2-qf
 LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR

@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:A Team - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:A Team vs Octagonal Disposition Gaming
-DTSTART:20261028T090000Z
-DTEND:20261028T110000Z
-DTSTAMP:20261028T090000Z
-UID:vlr-777958@valo-calendar
-DESCRIPTION:Week 2–Round of 12\nhttps://www.vlr.gg/777958/a-team-vs-octa
- gonal-disposition-gaming-vct-2026-china-threshold-week-2-ro12
+SUMMARY:Nova Esports vs A Team
+DTSTART:20261030T090000Z
+DTEND:20261030T110000Z
+DTSTAMP:20261030T090000Z
+UID:vlr-777962@valo-calendar
+DESCRIPTION:Week 2–Quarterfinals\nhttps://www.vlr.gg/777962/nova-esports
+ -vs-a-team-vct-2026-china-threshold-week-2-qf
 LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR
