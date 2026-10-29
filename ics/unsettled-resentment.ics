@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Unsettled Resentment - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:Unsettled Resentment vs TBD
+SUMMARY:Unsettled Resentment vs World Sports Invictus Gaming
 DTSTART:20261031T090000Z
 DTEND:20261031T110000Z
 DTSTAMP:20261031T090000Z
 UID:vlr-777964@valo-calendar
 DESCRIPTION:Week 2–Semifinals\nhttps://www.vlr.gg/777964/unsettled-resen
- tment-vs-tbd-vct-2026-china-threshold-week-2-sf
+ tment-vs-world-sports-invictus-gaming-vct-2026-china-threshold-week-2-sf
 LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR
