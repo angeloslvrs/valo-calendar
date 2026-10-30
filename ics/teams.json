@@ -1,14 +1,6 @@
 {
   "teams": [
     {
-      "name": "A Team",
-      "slug": "a-team",
-      "region": "China",
-      "logo_url": "https://owcdn.net/img/6a70722c7c24b.png",
-      "region_logo_url": "https://owcdn.net/img/6523a79282dc1.png",
-      "ics_file": "a-team.ics"
-    },
-    {
       "name": "Any Questions Gaming",
       "slug": "any-questions-gaming",
       "region": "China",
