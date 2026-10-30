@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Any Questions Gaming - Valorant Matches
 BEGIN:VEVENT
-SUMMARY:FunPlus Phoenix vs Any Questions Gaming
-DTSTART:20261030T120000Z
-DTEND:20261030T140000Z
-DTSTAMP:20261030T120000Z
-UID:vlr-777963@valo-calendar
-DESCRIPTION:Week 2–Quarterfinals\nhttps://www.vlr.gg/777963/funplus-phoe
- nix-vs-any-questions-gaming-vct-2026-china-threshold-week-2-qf
+SUMMARY:Nova Esports vs Any Questions Gaming
+DTSTART:20261031T110000Z
+DTEND:20261031T130000Z
+DTSTAMP:20261031T110000Z
+UID:vlr-777965@valo-calendar
+DESCRIPTION:Week 2–Semifinals\nhttps://www.vlr.gg/777965/nova-esports-vs
+ -any-questions-gaming-vct-2026-china-threshold-week-2-sf
 LOCATION:VCT 2026: China Threshold
 END:VEVENT
 END:VCALENDAR
